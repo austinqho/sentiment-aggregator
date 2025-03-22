@@ -1,0 +1,12 @@
+sentiment-aggregator/
+│-- data/                     # Stores collected tweets, Reddit posts, etc.
+│-- scripts/                  # Scripts for scraping and processing
+│   │-- scrape_twitter.py      # Scrapes Twitter (X) data
+│   │-- scrape_reddit.py       # Scrapes Reddit comments & posts
+│   │-- sentiment_analysis.py  # Runs sentiment analysis
+│   │-- aggregate_data.py      # Merges all collected data
+│-- dashboard/                 # Web dashboard (built with Streamlit)
+│   │-- app.py                 # Main Streamlit app
+│-- .gitignore                 # Ignore unnecessary files
+│-- requirements.txt           # Python dependencies
+│-- README.md                  # Project documentation

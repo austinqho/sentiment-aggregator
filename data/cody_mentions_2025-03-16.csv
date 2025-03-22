@@ -1,0 +1,7 @@
+id,title,text,created_at,score,num_comments,upvote_ratio,subreddit,author,is_post,source,url
+mhp4wdm,,"Hi! Agentic Chat is currently using Sonnet 3.5, and **at the moment**, there are no official plans to upgrade to 3.7. But if that changes, we'll be sure to keep you posted right here: [https://sourcegraph.com/changelog](https://sourcegraph.com/changelog)",2025-03-13 21:45:16,1,0,0.0,sourcegraph,jdorfman,False,Reddit (r/sourcegraph),https://www.reddit.com/r/sourcegraph/comments/1jaq2bl/is_agentic_chat_updated_with_sonnet_37/mhp4wdm/
+mduphdp,,Cody by Sourcegraph has had this for ages,2025-02-20 11:10:21,2,0,0.0,vscode,timvk23,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mduphdp/
+1ivilon,Looking for an extension but can't remember what it is called,"Looking for a vscode extension that lets you highlight a function, and searches for functions by name across multiple repositories, similar to Sourcegraph search functionality, but github focused (maybe).
+
+  
+I recall using it a few years ago and was wowed but I can't remember it now.",2025-02-22 05:21:55,1,0,1.0,vscode,hoffeig,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ivilon/looking_for_an_extension_but_cant_remember_what/

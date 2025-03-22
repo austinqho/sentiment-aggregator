@@ -1,0 +1,905 @@
+id,title,text,created_at,score,num_comments,upvote_ratio,subreddit,author,is_post,source,url
+mi9zymd,,"VSCode with:  
+1. Error Lens - better error visualization  
+2. Material Icon Theme - nice file icons  
+3. ToDo Highlight - Highlights incode TODO and FIXMEs  
+4. Codeium - AI assistant. Does not train on your code  
+5. CodeSnap - Nice way to screenshot your code  
+6. Gitlens - for git  
+7. Markdown All in One + markdownlint - working with markdown files  
+8. Path Intellisense - Autocomplete file paths  
+9. Pylance + Pylint + Python + Ruff - everything for python  
+10. ToDo Tree - Seperate windows showing list of TODO and FIXMEs  
+11. Trailing spaces - name speaks for itself  
+12. WakaTime - To document my time on projects (I showcase it on my GitHub profile)",2025-03-17 11:55:07,12,0,0.0,webdev,mmzeynalli,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1jdfl0t/please_share_your_favorite_ide_extensions/mi9zymd/
+mi9yita,,"Nothing, I just use Windsurf. Am I old?",2025-03-17 11:48:09,5,0,0.0,webdev,TheThingCreator,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1jdfl0t/please_share_your_favorite_ide_extensions/mi9yita/
+1j9eott,Anyone else having issues with Windsurf editing files?,"Tonight I started having bugs where, during Cascade, Windsurf would fail to edit the file, trying over and over in an endless loop of utility. It has happened with multiple files, and burned a bunch of credits in the process. Might be a bug?",2025-03-12 03:38:57,74,66,0.97,Codeium,OofWhyAmIOnReddit,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9eott/anyone_else_having_issues_with_windsurf_editing/
+mhd9mzi,,Same here ... can't get any work done.   Windsurf cannot edit any files without tool errors.    Everyone should petition a version rollback feature so that we can rollback Windsurf to a previous stable install ... this is far more important than any new bells or whistles they can add.,2025-03-12 07:36:13,12,0,0.0,Codeium,Nixxorian,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9eott/anyone_else_having_issues_with_windsurf_editing/mhd9mzi/
+mhdbukz,,"I'm on a Mac and when I run a prompt in chat -  write mode it will do the prompt and then stalls and I have to ask it to continue, over and over. --- Exact issue: When I make a prompt in CHAT / CASCADE / Write mode I get 1 time then it pauses, and I have to comment ""continue"" and then it says ""Press ENTER again to interrupt and send a new message"". I have to do this over and over.
+
+I also use Cline extension and it does a similar thing after a 6 prompts with Sonnet 3.7. I tested Windsurf on Linux and this issue does not happen.   
+  
+I will just switch to Linux for a month so I can complete my current project.",2025-03-12 07:53:02,5,0,0.0,Codeium,forestcall,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9eott/anyone_else_having_issues_with_windsurf_editing/mhdbukz/
+mhefnia,,"Hey everyone,
+
+If you’re using a Mac, you can check Homebrew’s history to roll back to earlier versions. Take a look at this file:
+
+https://github.com/Homebrew/homebrew-cask/commit/5e941006c2e2f497d3468e2a95508e236d65d8f1#diff-d1f453388cf5a4755f42a952c38c10d2bf7de3b6481405f5a2c5425148fd8e99
+
+From the Ruby code, we can see that the version is 1.3.10, and the URL is defined in the code. You can simply use that URL to download the DMG file and disable auto-updates.
+For Apple Silicon (arm64) Mac: 
+
+https://windsurf-stable.codeiumdata.com/darwin-arm64-dmg/stable/0f80b7c19f8b1378a97a1304da23b6b06e767db0/Windsurf-darwin-arm64-1.3.11.dmg",2025-03-12 11:39:57,3,0,0.0,Codeium,htlin222,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9eott/anyone_else_having_issues_with_windsurf_editing/mhefnia/
+mhd641j,,I haven’t used windsurf in a while. Hope we get a stable build soon that works well.,2025-03-12 07:07:27,2,0,0.0,Codeium,VinylSeller2017,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9eott/anyone_else_having_issues_with_windsurf_editing/mhd641j/
+mhe8nqg,,"YES!  It's extremely frustrating.  Though I will give Cascade credit... It got very creative with work-arounds by creating scripts to edit files, creating new files with the edits, and then oddly being able to transfer the changes from the new temp file back over to the original, etc... But damn, my coding session took 2-3X as long and even though Flow Credits aren't used when Cascade, or the tool call to edit files files... All the work arounds and ""fixes"" to get the work done definitely used up 2-3X the Flow Credits.  I sent in a detailed report with about a dozen screenshots to Codeium Support.  Let's hope they fix it SOON!  It's absolutely GREAT to have all the new features in Windsurf not to mention access to the plethora of LLMs...  But damn... An IDE that can't edit files?  That's not just mission critical... That's mission failure.  : /",2025-03-12 11:05:11,2,0,0.0,Codeium,CPT_IDOL,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9eott/anyone_else_having_issues_with_windsurf_editing/mhe8nqg/
+mhe90t9,,"Windsurf support is terrible too with thei AI generated answers, leading nowhere !!",2025-03-12 11:07:01,2,0,0.0,Codeium,Excellent-Doctor-402,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9eott/anyone_else_having_issues_with_windsurf_editing/mhe90t9/
+mhdb7yd,,"I sent an error message to support. 
+
+From my observations it is an error between Cascade in edit mode and the LLMs output, as the proposal mode seems to be working just fine. 
+
+Perhaps Codeium are doing changes to the code? :P",2025-03-12 07:48:18,1,0,0.0,Codeium,DetDerBorte,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9eott/anyone_else_having_issues_with_windsurf_editing/mhdb7yd/
+mhdq5a9,,try with a new chat.. it will edit files then. I was having the same problem with deepseek on windsurf.. after much yelling and cursing I tried with a new chat and it edited the files. Though I had to explain the scenario again in the new chat,2025-03-12 09:25:45,1,0,0.0,Codeium,Natural-Duty2,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9eott/anyone_else_having_issues_with_windsurf_editing/mhdq5a9/
+mhdwegl,,"same ... It is getting more frustrating every time, I used to prefer windsurf over cursor but more and more cursor feels more reliable and stable. Codeium needs members in EU or something where they could restart the services or servers, cause we have to wait for US team to wake up for a fix everytime",2025-03-12 10:00:01,1,0,0.0,Codeium,LowPaleontologist10,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9eott/anyone_else_having_issues_with_windsurf_editing/mhdwegl/
+mhem4de,,"Same here. All of a sudden, cascade is not able to edit files anymore. 
+
+In general, I recommend making full backups after EACH successful edit to a stable stage of your application before continuing editing - this might happen again from update to update. If windsurf screws up the next step, copy the backup version and try again. always add a sentence like ""don't mess up any existing functionality"".
+
+Fortunately, no credits are consumed, i've been working last night when the editing errors started to occur.",2025-03-12 12:11:17,1,0,0.0,Codeium,No-Detail2332,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9eott/anyone_else_having_issues_with_windsurf_editing/mhem4de/
+mhepyw3,,"bought windsuft pro like 3-4 days ago, before today it was fine, with this cascade errors it wasn't worth try with it. At least codium should have something like downdetector. I'm not using windsurf until this errors are gone. (BUT WHEN, would they notify us when they handle issues?)",2025-03-12 12:29:50,1,0,0.0,Codeium,ManuelCalavera_,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9eott/anyone_else_having_issues_with_windsurf_editing/mhepyw3/
+mhf5ynb,,Yes this happens to me. I gave up on Windsurf and moved back to Cursor. The constant issues and burning through $10 fees per week was enough for me. I had high hopes and did like it when it worked.,2025-03-12 13:45:41,1,0,0.0,Codeium,tank_of_happiness,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9eott/anyone_else_having_issues_with_windsurf_editing/mhf5ynb/
+mhg0kvz,,"I just got an email back from the Codeium Support Team that the edit file tool call has been fixed now.
+
+I haven't tested it yet... Will do later. Hope it works for you now. Thanks Codeium!  Happy Coding!",2025-03-12 16:11:08,1,0,0.0,Codeium,CPT_IDOL,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9eott/anyone_else_having_issues_with_windsurf_editing/mhg0kvz/
+mhmjx0p,,Ive found a FIX!!! Uninstall Windsurf and Install Cursor.. No issues there LOL.,2025-03-13 16:10:44,1,0,0.0,Codeium,iam_player87,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9eott/anyone_else_having_issues_with_windsurf_editing/mhmjx0p/
+mhe51be,,"# !!! SOLVED !!!
+
+Caveat: likely not work for anyone else - Sorry
+
+I had this happen to me today, the write\_file tool worked fine, but the edit\_file tool failed everytime.  
+The error is consistent: ""incomplete envelope"" from [192.34.20.166:443](http://192.34.20.166:443)
+
+If I made a new file, no issue, and I could then move it around, but this also BURNED down my flow credits.
+
+They showed up as ReparsePoint in my filesystem:
+
+    Name                    LastWriteTime                  Attributes
+    ----                    -------------                  ----------
+    test_email_ingestion.py 12-03-2025 12:24:13 Archive, ReparsePoint
+    interface.py            12-03-2025 13:27:09 Archive, ReparsePoint
+
+Solution for me was to not have the files live in a dropbox folder, and move them to a ""simple"" folder.
+
+I got it all moved over the a simple folder, and then it worked fine for me immediately.
+
+Wanted to set up a automated self-hosted Gitlab in WSL, but then I ran out of flow credits and now I am seriously thinking I should just do it manually like a common coder :D
+
+I was to be honest leaning on Windsurf to do things that I could just as easily do myself, so I guess it is fair I lost all of my credits.
+
+https://preview.redd.it/1l7rn5tqt9oe1.png?width=1611&format=png&auto=webp&s=a922d0b0321d58fb745bfa261a52bd06eb56aa6a
+
+But I am certain that my mind will have forgotten all of this by the time my credits roll around.
+
+Might as well just cancel it now and take the win that using this for 3 days was... Wild ride, but since I can't get around the credits by self-hosting and I am not made of money, I will just step off the subscription here, thanks.",2025-03-12 10:46:08,1,0,0.0,Codeium,Stoisss,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9eott/anyone_else_having_issues_with_windsurf_editing/mhe51be/
+mhmhukf,,"same issue here freaking annoying , i have even put a .windsurf rule in to say ""continue after edit"" etc... nothing... freaking annoying! plus some times I dont think its making the edits it thinks it is.",2025-03-13 16:00:55,1,0,0.0,Codeium,Extra_Lengthiness893,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9eott/anyone_else_having_issues_with_windsurf_editing/mhmhukf/
+mhenosi,,Support E-Mail reply of Codeium?,2025-03-12 12:18:54,1,0,0.0,Codeium,No-Detail2332,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9eott/anyone_else_having_issues_with_windsurf_editing/mhenosi/
+mhm90b3,,"ok here is version 1.4.4 for x64 windows:  
+[Windsurf User Setup X 64 1.4.4 : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/windsurf-user-setup-x-64-1.4.4)",2025-03-13 15:19:21,1,0,0.0,Codeium,AwareMaybe7647,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9eott/anyone_else_having_issues_with_windsurf_editing/mhm90b3/
+mherx9o,,"I feel your pain... I got the somewhat canned response from my support request to Codeium that basically reiterated that ""No AI coding tool is perfect..."" and that no credits were used on errors like this... I replied back with an even firmer response basically letting them know that for Premium Plus customers at $60+ a month, we need a better response and some sort of compensation.  You know what they say though... Don't hold your breath on that... It will only make you blue.  : / 
+
+I have no doubt they'll fix the edit file tool call, but damn... We'll probably not see any satisfaction on the customer sat issue.  Will continue to look for new and better alternatives.  And that's sad too. ;(",2025-03-12 12:39:09,3,0,0.0,Codeium,CPT_IDOL,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9eott/anyone_else_having_issues_with_windsurf_editing/mherx9o/
+mhg07x3,,"I just got an email back from the Codeium Support Team that the edit file tool call has been fixed now.
+
+They apologized for the inconvenience... But of course, didn't address the underlying customer sat issue.   Go figure.  : / 
+
+I haven't tested it yet... Will do later.  Hope it works for you now.  Happy Coding!",2025-03-12 16:09:26,1,0,0.0,Codeium,CPT_IDOL,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9eott/anyone_else_having_issues_with_windsurf_editing/mhg07x3/
+1jd7fop,Karpathy completely changed the way I use Windsurf,"I’ve been coding for years, but I never realized how much time I wasted typing until I stumbled on a video of Karpathy coding entirely with his voice. I thought it was just a gimmick. But turns out, dictating prompts for Windsurf works super well and a lot faster than typing. 
+
+
+
+It lets me articulate longer prompts without breaking flow and it’s easier describing logical flows. Apparently 3x faster on average compared to typing. For example, dictating a complex API query prompt now takes seconds of braindumping with my voice instead of minutes.
+
+
+
+In the past couple weeks, I’ve tried 3 different ones. 
+
+
+
+1. Apple Dictation. This was my first attempt. Let’s just say it didn’t go well. The accuracy isn’t good and latency is terrible. Half the time, I’d finish speaking and stare at the screen waiting for the text to appear, only to realize it had given up halfway through. Only good thing is that it’s free and built-in
+2. Dragon Dictation. Sorry, maybe it’s because I’m Unc now. I only realized no one even uses this after paying hundreds of dollars. It used to be really good in the past but no longer supports Mac and has gone downhill since getting acquired by Microsoft. It’s nice for controlling your entire computer but hard to learn. Just doesn’t keep up with the new AI dictation tools
+3. WillowVoice. This is the one I current use and I like it. Accuracy is good. Latency is less than a second. It works everywhere and can automatically format an email when I write them. Not much to complain about.
+
+
+
+Anyone else tried this? I’m curious if other devs have relaced more of their typing with dictation. 
+
+",2025-03-17 03:55:11,56,30,0.97,Codeium,LeatherBodybuilder33,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jd7fop/karpathy_completely_changed_the_way_i_use_windsurf/
+mi8cfbo,,I’ve been using WhisprFlow and it’s amazing. There have been times that me and my colleagues have discussed few things with the Whispr recording us and then sent that to Windsurf.,2025-03-17 05:15:19,3,0,0.0,Codeium,WinnerOk8501,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jd7fop/karpathy_completely_changed_the_way_i_use_windsurf/mi8cfbo/
+mi8n779,,Im a regular windsurf user. Do you have any link on how can I use voice on prompting?,2025-03-17 07:01:03,2,0,0.0,Codeium,Lwsvrtdz,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jd7fop/karpathy_completely_changed_the_way_i_use_windsurf/mi8n779/
+mi8i0js,,use chatgpt fro refinement with advanced voice. than that the output and make task breakdown with claude 3.7 with thinking and eed those us to windsurf one by one,2025-03-17 06:13:03,1,0,0.0,Codeium,Chillon420,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jd7fop/karpathy_completely_changed_the_way_i_use_windsurf/mi8i0js/
+1ja2klt,Windsurf is down?,"Can’t seem to load cascade or the account info in the IDE. 
+
+Edit: It’s back up now folks ",2025-03-12 23:08:15,24,22,0.89,Codeium,ban-circumvent-99,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1ja2klt/windsurf_is_down/
+mhi83ty,,"Come on, Codeium, check these servers. Yesterday was the same shit.",2025-03-12 23:13:27,4,0,0.0,Codeium,guiradha,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1ja2klt/windsurf_is_down/mhi83ty/
+mhmhw8u,,"Cursor is freezing every 60s since yesterday, Windsurf keeps timing out today. Gotta start using pure Sonnet… but shit‘s pricey.",2025-03-13 16:01:08,2,0,0.0,Codeium,TroubledEmo,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1ja2klt/windsurf_is_down/mhmhw8u/
+mhih1iq,,"i try cursor wothout any limitation
+How good it is... unfortunatly i pay windsurf for onr year...",2025-03-13 00:14:27,1,0,0.0,Codeium,bacocololo,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1ja2klt/windsurf_is_down/mhih1iq/
+1j9pd4b,Windsurf burns through credits by continuously correcting itself,"In this state this hardly more than a fun gimmick. I've tried four different project types now (composing a bash script, setting op a small Spring Boot project, setting up a React/Zustand based web UI and some CUDA code) and in all cases it just loses track once you get beyond even the smallest of setups. As I type this it's in a 20 step flow of fixing a bash script, run it, see a problem, claim it fixed it, run it, same problem, tries variant it already tried. Whatever the combination of memory, attention and model is causing this behavior is unclear to me. I've upgraded a few hours ago and I've burnt through 15% of my total monthly budget. And that's ignoring the fact that it bails on generating edits about 30% of the time with an error (I suspect due to the large size of the scripts it created and them being too large an amount of input tokens for an edit or just service outages, hard to say). Is anyone actually using this for production level codebases? Also, any model other than Claud is doing this thing where it suggests a fix without actually editing the files until you tell it something like ""do it"". 
+
+P.S. It would be an interesting optimization to have some sort of (non LLM/ML based) short term history of generated content so it can avoid burning credits on generating the same command line invocations over and over again. As per the above mine is continuously doing a fix and then ""Let me run our updated script that now properly handles project IDs and follows our standardized service account structure:"" which has been the same bash command for about an hour now.",2025-03-12 13:20:13,28,21,1.0,Codeium,SignificantPhrase635,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9pd4b/windsurf_burns_through_credits_by_continuously/
+mhj6zh7,,"Who here is putting in effort on making a free self-hosted WindSurf open-source alternative?
+
+I know I am....",2025-03-13 04:20:43,2,0,0.0,Codeium,Stoisss,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9pd4b/windsurf_burns_through_credits_by_continuously/mhj6zh7/
+mhjcssg,,"If it helps, I started with Windsurf yesterday, but when I notice it's not fixing something properly or got into a loop, I stop it, ask it to summarize the problem and identify the files needed, and then copy all that code and the summary of the  problem to perplexity, use claude 3.7 there as well, and the answer from perplexity is always the right fix. I then tell windsurf to follow these fixes, and NOT to do what it wants to do, but rather to stick to the fixes I'm sending in that message and to obey. That's solved all my issues so far.",2025-03-13 05:23:39,2,0,0.0,Codeium,spacemate,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9pd4b/windsurf_burns_through_credits_by_continuously/mhjcssg/
+mhjfgxi,,Please where is it? I would've thought the community would make windsurf by now for local. Everything else seems to require login. Unless its very complex to build windsurf,2025-03-13 05:51:11,1,0,0.0,Codeium,sandwich_stevens,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9pd4b/windsurf_burns_through_credits_by_continuously/mhjfgxi/
+mhjfkwu,,"good strategy, didnt realise perplexity was giving detailed codebase fixes. Ideally windsurf would do it since thats the ONE single thing its meant to do",2025-03-13 05:52:16,2,0,0.0,Codeium,sandwich_stevens,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9pd4b/windsurf_burns_through_credits_by_continuously/mhjfkwu/
+mhj7478,,"We would need to Windsurf people to show us that they are not.... You can say anything, but show us that you have our ""your customers"" interest in mind, then we will come..",2025-03-13 04:22:07,1,0,0.0,Codeium,Stoisss,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9pd4b/windsurf_burns_through_credits_by_continuously/mhj7478/
+mi4ggtr,,How is context awareness for Cursor compared to Windsurf?,2025-03-16 13:56:53,1,0,0.0,Codeium,BehindUAll,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9pd4b/windsurf_burns_through_credits_by_continuously/mi4ggtr/
+mhjzs5b,,"I'm not a dev (actually not one, not like the ones faking it on twitter, but I'll say that have acted as a sort of product manager in the past and learned a bit of the logic behind frontend and backend) but essentially what I'm doing is trusting perplexity with being the voice of reason / source of truth and having windsurf implement the changes. I'm making a ton of progress like that. I truly don't know what any of the code I have does lol. But I'm learning a lot! Connected supabase yesterday, learned what a .env file is, windsurf set up the github connectiona and perplexity guided me to deploy on Vercel. 
+
+Make no mistake - everything is still broken but I feel like it's still progress since I started 24 hours ago.
+
+I did ask o1 to make a very detailed explanation to windsurf on what we would be building and tried to explain the customer journey that I envisioned, what happens to the user what happens to the backend, and I googled around and found a public GPT called wireframeGPT that expanded that vision of the customer journey with practical recommendations, then gave that again to o1, and from there made a long first prompt to windsurf to get started.
+
+I also added the rules here: https://old.reddit.com/r/ChatGPTCoding/comments/1j5l4xw/vibe_coding_manual/",2025-03-13 08:34:47,1,0,0.0,Codeium,spacemate,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9pd4b/windsurf_burns_through_credits_by_continuously/mhjzs5b/
+mhf8zw8,,"It should consume less, because if it has to consume a credit to try a solution that has already been tried before, it should be something like ""I see in the memories that this solution has already been tried and it doesn't work, so let's continue investigating the problem to find a valid solution..."" and so yes, it could still burn a lot of credits to find a solution, but you make sure that it always tries different attempts, instead of always trying the same things (which obviously will never work).
+
+
+There is no way to control Claude's credit consumption, I don't think even the Codeium team can do much about it, it really depends on how the AI ​​was developed, so it should be Anthropic who manages it.",2025-03-12 13:59:58,1,0,0.0,Codeium,[deleted],False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9pd4b/windsurf_burns_through_credits_by_continuously/mhf8zw8/
+mi5s7i8,,"Thanks for this! that’s impressive if you really don’t got background in dev, figuring all that out! I’ll check out those rules, I’m trying cursor right now and seems to have fixed an issue windsurf created and struggled on, so maybe in your stack it could also help solve some seemingly unsolvable bugs..",2025-03-16 17:55:43,1,0,0.0,Codeium,sandwich_stevens,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9pd4b/windsurf_burns_through_credits_by_continuously/mi5s7i8/
+mhf9npu,,"Fair enough. And yes I recognize it's primarily a model issue but Codeium is sort of selling flow development as a product so I'd hope/think some sort of prompt engineering or whatever is used/optimized for this usecase. Anyway, thanks for your input.",2025-03-12 14:03:07,3,0,0.0,Codeium,SignificantPhrase635,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9pd4b/windsurf_burns_through_credits_by_continuously/mhf9npu/
+1j9je3g,What is wrong with the latest update of Windsurf/Codeium,"https://preview.redd.it/0wfc0hlv99oe1.png?width=428&format=png&auto=webp&s=9553b1a9307edfd37d5e24d157e098fd4e864683
+
+This is happening repeatedly, and sometimes, there are 5-10 errors. My files are a maximum of 300 lines.",2025-03-12 08:54:36,22,20,0.92,Codeium,ApprehensiveFan8139,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9je3g/what_is_wrong_with_the_latest_update_of/
+1jecqjo,Introducing Windsurf Tab in Wave 5,"Windsurf Wave 5 Released!
+
+Introducing the unified Windsurf Tab experience - combining Autocomplete, Supercomplete, Tab to Jump, and Tab to Import into one powerful, faster system with a larger model! 
+
+Expect better context awareness (including terminal commands and optional clipboard context), doubled jump distances, predictive triggers, and a refreshed UI with useful visual feedback. Plus tons of improvements to Cascade, memory usage, and more!
+
+Here's the blog: [https://www.codeium.com/blog/windsurf-wave-5](https://www.codeium.com/blog/windsurf-wave-5)
+
+
+
+Full changelog: [https://www.codeium.com/changelog](https://www.codeium.com/changelog)
+
+X/Twitter Post: [https://x.com/windsurf\_ai/status/1902069560028934387](https://x.com/windsurf_ai/status/1902069560028934387)
+
+Bluesky Post: [https://bsky.app/profile/windsurfai.bsky.social/post/3lkodhhowwc24](https://bsky.app/profile/windsurfai.bsky.social/post/3lkodhhowwc24)
+
+Threads Post: [https://www.threads.net/@codeiumdev/post/DHWbNM8i94f](https://www.threads.net/@codeiumdev/post/DHWbNM8i94f)
+
+Wave 5 video link: [https://youtu.be/aww-BUzL9Lc](https://youtu.be/aww-BUzL9Lc)",2025-03-18 14:57:16,23,18,0.87,Codeium,Ordinary-Let-4851,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jecqjo/introducing_windsurf_tab_in_wave_5/
+miilex3,,"Thanks Codeium, we are on the right track with this change! When you sometimes already know exactly what you need to code, using basic VSCode is not so friendly (IntelliJ and PyCharm win hands down here..) So the new super-tab is starting to fill the gap now!",2025-03-18 18:07:18,6,0,0.0,Codeium,jumpixel,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jecqjo/introducing_windsurf_tab_in_wave_5/miilex3/
+1jcjqid,I am back to windsurf after almost 3 months,"The last thing I remember before leaving windsurf is that it was good in its initial stages but it became worse with the following updates. How is it now? 🤔 and what is the best model I could use from among this list? last time I used this it only had cascade base and Claude and GPT4 
+
+https://preview.redd.it/gu1c920ci1pe1.png?width=447&format=png&auto=webp&s=5d90125906d7f3808ca70f2101508d03680f7dba
+
+",2025-03-16 07:49:35,4,13,0.75,Codeium,Early-Sock-6948,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jcjqid/i_am_back_to_windsurf_after_almost_3_months/
+mi2xql5,,"Ah, the prodigal Codeium aristocrat returns! We commoners have naturally been maintaining a meticulous ledger of updates awaiting Your Excellency's return.",2025-03-16 09:05:25,7,0,0.0,Codeium,alphaQ314,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jcjqid/i_am_back_to_windsurf_after_almost_3_months/mi2xql5/
+mi4uwnp,,"I disagree with people's 3.7 recommendation. I have stuff that needs to get done for the company I started based on a codeium created MVP (thanks btw!).
+
+I went back to 3.5, with hand-crafted global and workspace rules, I find it wastes much less of my time. I find that the auto-generated Memories also waste time. I delete them whenever they are created. There is always at least one major wrong thing in them, and you can't edit the memory for some reason.",2025-03-16 15:07:50,2,0,0.0,Codeium,LordLederhosen,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jcjqid/i_am_back_to_windsurf_after_almost_3_months/mi4uwnp/
+mi31en0,,"I have been using it now and then since last year. 3.7 is generally best, though it tends to eat credits like crazy. If you know how to use it, I'd say windsurf has never been better as a tool, when it works. There have been some bugs and problems making it unusable for half a day at a time a few times in the last weeks. It is more expensive in that it generally consumes more credits now though.",2025-03-16 09:29:31,1,0,0.0,Codeium,Traditional_Name2717,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jcjqid/i_am_back_to_windsurf_after_almost_3_months/mi31en0/
+miareve,,"[https://www.reddit.com/r/Codeium/comments/1iznc8j/global\_rules\_for\_sonnet\_37\_in\_cascade/](https://www.reddit.com/r/Codeium/comments/1iznc8j/global_rules_for_sonnet_37_in_cascade/)
+
+I just copy pasted this into global rules (its 2 clicks into the settings tab on the bottom right now)
+
+I had trouble converting this into markdown but it has worked as is for me.",2025-03-17 14:06:22,2,0,0.0,Codeium,User1234Person,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jcjqid/i_am_back_to_windsurf_after_almost_3_months/miareve/
+1jb79kh,Windsurf needs a toaster sound so I can do something else and know when my Agent's code is done Toasting...,,2025-03-14 11:58:07,19,9,0.96,Codeium,ImInFuckIt,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jb79kh/windsurf_needs_a_toaster_sound_so_i_can_do/
+1jczh1s,windsurf + cursor together?,has anyone ever tried doing this? using windsurf and cursor at the same time in the same project directory.,2025-03-16 19:57:18,7,8,0.74,Codeium,techtsp,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jczh1s/windsurf_cursor_together/
+mi7a23h,,I have and it worked fine. They using different rule rules anyways. Something windsurf can’t code for life of it and cursor can so jumping back and forth is great. For me it’s windsurf/cursor then Cline for better context and revirew re write with ide and copilot,2025-03-16 23:12:49,3,0,0.0,Codeium,alekslyse,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jczh1s/windsurf_cursor_together/mi7a23h/
+mi6ia3r,,Lmaoo. Windsurf + roo code ✌️😉🥳🥳🥳🥳,2025-03-16 20:20:10,1,0,0.0,Codeium,sudo_nick01,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jczh1s/windsurf_cursor_together/mi6ia3r/
+mi9fdnp,,"For smaller, focused changes, it’s perfectly fine to have the agents work in the same project directory, provided you direct them properly (specific requirements, files, context). I use this for making smallish features, directing one to make backend changes while the other to working on the UI changes.  
+  
+For another (larger) feature, I wanted to test out how Cursor/Windsurf/Cline would approach the implementation. So I checked out the project and setup the folders:
+
+\- proj-cursor
+
+\- proj-windsurf
+
+\- proj-cline
+
+Let all three go at it at the same time. After reviewing the changes (and working through issues), I kept one implementation and reverted the others.  
+  
+Since then, I have kept all three folders and occasionally will use them to experiment. Lot’s of branching and stashing. ",2025-03-17 10:10:41,3,0,0.0,Codeium,Correct_Working_9437,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jczh1s/windsurf_cursor_together/mi9fdnp/
+1jb86uw,has anyone tried to write a sci-fi book using windsurf?,,2025-03-14 12:37:12,5,8,0.86,Codeium,particlecore,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jb86uw/has_anyone_tried_to_write_a_scifi_book_using/
+mhrybv7,,"My work pays for Microsoft Copilot locense, but I prefer Codeium over Word and Outlook for some non-code writing. The autocomplete is genuinely helpful and smart, and for AI edits, I like to see it as a diff. (My work prohibits most AI tools including Codieum, so I use it after hours.)",2025-03-14 12:54:12,1,0,0.0,Codeium,ahz0001,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jb86uw/has_anyone_tried_to_write_a_scifi_book_using/mhrybv7/
+1j9ihak,Windsurf Not Working Today,"Edit files not working, atleast give us notification to not use windsurf if have issues. So it can save time and credit.",2025-03-12 08:05:09,22,6,1.0,Codeium,Pleasant_Key9761,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9ihak/windsurf_not_working_today/
+1jahj3r,"Codium Windsurf Credit Imbalance - Flow Credits Gone, Prompt Credits Half Left","I just checked my Windsurf usage (screenshot attached): all 1,500 Flow credits are used up, but I still have 276.75 prompt credits left—about half remaining. I’ve only used 223.25 prompt credits since Feb 18, 2025, with a refresh in 4 days. This imbalance feels a bit off—has anyone else noticed this? It’s a little frustrating to hit a Flow credit limit while prompt credits are still available. Thoughts or tips? 
+I’m also curious if there’s a way to renew my plan early instead of waiting 4 days or purchasing Flex credits. Any thoughts or advice? Would reaching out to support be a good idea?",2025-03-13 13:28:07,3,7,0.8,Codeium,Traditional_Tower617,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jahj3r/codium_windsurf_credit_imbalance_flow_credits/
+1jcsvck,How exactly can I give windsurf context of existing libraries that it should use?,"I want Windsurf to use a Python library ""XYZ"" that I wrote myself and that is installed in the virtual environment of my current project. Windsurf does not have the context of this library (because it's not in the same folder) and hence doesn't use it properly. It's rather just guessing around . 
+
+So, here is my question: How can I tell Windsurf that it should ""read"" this library ""XYZ"" first, before using it. ",2025-03-16 15:01:08,1,5,1.0,Codeium,AleccioIsland,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jcsvck/how_exactly_can_i_give_windsurf_context_of/
+mi4vw6o,,"Add a copy of the lib code to the project, or at least its documentation. If you don't have good docs, open your lib as a separate windsurf project, and ask it to generate a .md file for documenting the library.
+
+In your new project, click the ... menu  in at the top of Cascade > Manage Memories > edit workspace rules.
+
+make a list of commands there. 
+
+    1. We are using xyx library in (local path...), always attempt to use that unless absolutely necessary.",2025-03-16 15:12:48,5,0,0.0,Codeium,LordLederhosen,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jcsvck/how_exactly_can_i_give_windsurf_context_of/mi4vw6o/
+mi4ybsj,,"Thanks, food for thought. Copying the code into the projects feels like an antipattern. Would be great if you could tell Windsurf ""read this library, you're going to need it""",2025-03-16 15:24:56,0,0,0.0,Codeium,AleccioIsland,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jcsvck/how_exactly_can_i_give_windsurf_context_of/mi4ybsj/
+1jeb47p,"🛟 Urgent help! Windsurf froze, no response, after reopening, the right Cascade chat panel isn't loading, it's empty (macOS)","I've already had this happen, and it seems to be related to pasting either a large volume of text into the prompt input or formatted text — after that, the app freezes and becomes unresponsive, but after reopening, everything is fine. This time, the Cascade panel is empty. What should I do? I want to keep coding aaaaa! Please help. I'm doing some incredible stuff with Windsurf and can't wait.
+
+(Perhaps Reddit is faster than a ticket, but I'll create one now with diagnostic data u/Ordinary-Let-4851)
+
+🖤 Windsurf",2025-03-18 13:51:24,2,4,1.0,Codeium,stepahin,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jeb47p/urgent_help_windsurf_froze_no_response_after/
+1jac595,Windsurf endless loop wasting flow credits,"I'm not the only one facing this issue. Today, I'm not working with Windsurf until they update and fix this ""poor behavior"" of the cascade agent. Even the smallest change triggers an endless loop of analyze, edit, repeat, burning flow actions like a maniac. The saddest part is that after using 50 flow credits to create a simple string validation, the initial issue remains unsolved. I have to force stop it and then find and solve the problem manually. But what's the point of paying an agent to fix things that way?",2025-03-13 09:37:42,16,3,1.0,Codeium,Extension_Advance950,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jac595/windsurf_endless_loop_wasting_flow_credits/
+1jcorv7,Windsurf ate my credits,"I just recharged it yesterday with 300 flex credits. I was at 220 this morning, used it a bit, and suddenly no credits. My flow actions were over 1000, now zero. I am sure I didn't use those up. It's also strage that all types of credits are zero at once, they don't get spent with the same speed.
+
+Has anyone seen their credits vanish?",2025-03-16 12:04:59,11,3,1.0,Codeium,visarga,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jcorv7/windsurf_ate_my_credits/
+mi5up5p,,That's the Windsurf effect in motion. ,2025-03-16 18:08:50,3,0,0.0,Codeium,The_real_Covfefe-19,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jcorv7/windsurf_ate_my_credits/mi5up5p/
+mi6tvid,,"Everyone has been talking about the same issue recently, and it seems Codeium still hasn't introduced any fix",2025-03-16 21:28:46,2,0,0.0,Codeium,Ameldur93,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jcorv7/windsurf_ate_my_credits/mi6tvid/
+migr6ns,,Windsurf is an absolute joke!,2025-03-18 12:54:56,1,0,0.0,Codeium,bruce-cullen,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jcorv7/windsurf_ate_my_credits/migr6ns/
+1jbhqc9,Does anyone know how to export my Windsurf past conversations or where they are stored locally?,"I can only see about 20+ past conversations - I need to see my conversations much older than that but cannot figure out how. Contacted support, so far all answers are not helpful.
+
+  
+I hope Windsurf does not purge my past conversations. Anyone know where those conversations are stored locally? Thanks!!",2025-03-14 19:38:01,1,2,1.0,Codeium,Ordinary_Ad_404,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jbhqc9/does_anyone_know_how_to_export_my_windsurf_past/
+1jbhgqd,Windsurf Exit Code 130,"Does anyone know how to fix Windsurf exit code 130 error when it is trying to run commands on mac?
+
+It used to work then I stopped using Windsurf for a month and now I need it again and it doesn't run commands anymore. i don't know if i changed something on my mac to cause it.
+
+    $ $ cat /Users/_______/Development/_______/.git/config
+
+Exit Code 130Not auto-runThought Process
+
+I'm getting exit code 130 when trying to run commands, which typically indicates the command was terminated with SIGINT (Ctrl+C). Let me try a simpler approach with less invasive commands to understand the issue.
+
+I notice there's an issue running some of the commands. Let me try a different approach to help diagnose your git remote issue.
+
+Ran terminal command
+
+    ~/Development/________
+
+Go to terminal
+
+    $ pwd
+
+Exit Code 130
+
+I can see the commands are actually running in the terminal when I view it there, just it gets INT x
+
+─    \~/Development/\_\_\_\_\_\_\_\_    master ──────────────────────────────────────────────────── INT ✘  07:49:33 PM  ─╮
+
+╰─ git remote -v                                                                                                            ─╯
+
+origin  D:/GitServer/\_\_\_\_\_\_\_\_.git (fetch)
+
+origin  D:/GitServer/\_\_\_\_\_\_\_\_.git (push)
+
+So it is able to run the command and display the output of the command in the terminal but then it gets this INT error and everytime Cascade says it got Exit Code 130 instead of doing productive tasks.
+
+  
+\-------------------
+
+EDIT: Problem solved. I took a guess it was my oh-my-zsh customization and got lucky that is what it was that was causing the problem. ",2025-03-14 19:25:37,1,2,1.0,Codeium,holyfishstick,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jbhgqd/windsurf_exit_code_130/
+1jdayrm,Windsurf teams,Let's say my employer pays for Windsurf teams. Does they have access to the prompts I used? What can they see on the dashboard? ,2025-03-17 08:01:47,3,1,1.0,Codeium,Andre_Aranha,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jdayrm/windsurf_teams/
+1jecrpg,Wave 5 Release Video: Windsurf Tab,,2025-03-18 14:58:35,1,1,0.54,Codeium,Ordinary-Let-4851,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jecrpg/wave_5_release_video_windsurf_tab/
+1jbz4j3,i figured out how to open a wsl folder from the command line in windsurf,"it's much more esoteric than opening with vscode.
+
+note that just opening a wsl terminal and typing `windsurf .` won't work, at least for me (it opens the folder but doesn't connect to remote).
+
+here's the **powershell command**:
+
+`wsl windsurf --folder-uri ""vscode-remote://wsl+ubuntu/$(wsl wslpath -a 'C:\\your\\folder\\path')""`
+
+# right-click menu
+
+i also use **nilesoft shell** to customize my right-click menu. here's my setup for both windsurf, vscode, and opening in terminal; replace the `image=...` with your own icon paths:
+
+    item(mode=""single"" type='dir|back.dir' title='Open in Code' cmd='code' arg=`@sel.path\.` image=image.svgf('C:\icons\vscode.svg'))
+    
+    item(mode=""single"" type='dir|back.dir|file' title='Open in Code (WSL)' cmd='wsl' arg=`code $(wslpath -a '@sel.path')` image=\uE272 window=hidden)
+    
+    item(mode=""single"" type='dir|back.dir' title='Open in Windsurf' cmd='windsurf' arg=`@sel.path\.` image=image('C:\icons\windsurf.png') window=hidden)
+    
+    item(mode=""single"" type='dir|back.dir' title='Open in Windsurf (WSL)' cmd='wsl' arg=`windsurf --folder-uri vscode-remote://wsl+ubuntu$(wslpath -a '@sel.path')` image=image('C:\icons\windsurf.png') window=hidden)
+    
+    item(mode=""single"" type='dir|back.dir' title='Open in Windows Terminal' cmd='wt' arg=`-d ""@sel.path\.""` image=\uE218)
+    
+    item(mode=""single"" type='dir|back.dir' title='Open in WSL Bash' cmd='wt' arg=`-d ""@sel.path\."" Ubuntu run` directory=sel.path image=\uE0D6)
+
+# edit: 
+
+fixed slight mistake with the windsurf nilesoft shell command, it only supports folders in wsl. also more explanation
+
+# edit2:
+
+if you want to make it connect when you type `wf .` you probably have to write your own script and set it as an alias, something like
+
+    #!/bin/bash
+    windsurf --folder-uri vscode-remote://wsl+ubuntu/$1
+
+and then alias it
+
+    echo 'alias wf=""~/bin/windsurf-helper.sh""' >> ~/.bashrc
+    source ~/.bashrc
+
+(bash script and alias are untested)
+
+then you can run it like `wf .`",2025-03-15 12:37:01,0,1,0.5,Codeium,viamiraia,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jbz4j3/i_figured_out_how_to_open_a_wsl_folder_from_the/
+1jecsz7,"Windsurf Tab, Tab, Tab, Tab, Tab",,2025-03-18 15:00:05,6,0,0.8,Codeium,mattbergland,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jecsz7/windsurf_tab_tab_tab_tab_tab/
+1ja6ohv,Windsurf / Codeium Referral Code: zobg1fmh75qr0pem,"If anyone is looking for a referral code, here's one:
+
+[https://codeium.com/refer?referral\_code=zobg1fmh75qr0pem](https://codeium.com/refer?referral_code=zobg1fmh75qr0pem)",2025-03-13 03:39:34,0,1,0.29,Codeium,Maleficent_Exam4291,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1ja6ohv/windsurf_codeium_referral_code_zobg1fmh75qr0pem/
+1je4uki,A script to open Windsurf in WSL with a Windows install,"Here is a fully tested and working script to open Windsurf in WSL with a path, just like VS Code.
+
+If you navigate to a folder, you can just write "" wf "" or "" wf . "" into the terminal and it will open the current folder with correct remote access. You can also write "" wf \~/files/CascadeProject "" and it will open the files or even write "" wf --win 'C:\\User\\random\\path' "" and it will work.
+
+Pasting this will give permanent access to the command. Before you start make sure you put the correct path of the Windsurf.exe instead of /mnt/c/Users/myusername/AppData/Local/Programs/Windsurf\\ Next/Windsurf\\ -\\ Next.exe. You can find it by right clicking your app and pressing ""Open Folder Location"".
+
+    echo 'wf() {
+      local DISTRO=""Ubuntu""
+      local TARGET=""""
+      local WINDOWS_MODE=false
+    
+      for arg in ""$@""; do
+        case ""$arg"" in
+          --windows|--w|--win)
+            WINDOWS_MODE=true
+            ;;
+          --*)
+            echo ""Error: Unknown flag '$arg'. Supported flags: --windows, --w, --win""
+            return 1
+            ;;
+          *)
+            if [[ -z ""$TARGET"" ]]; then
+              TARGET=""$arg""
+            else
+              echo ""Error: Multiple paths detected. Please provide only one path.""
+              return 1
+            fi
+            ;;
+        esac
+      done
+    
+      if [[ -z ""$TARGET"" ]] || [[ ""$TARGET"" == ""."" ]]; then
+        TARGET=$(pwd)
+      fi
+    
+      if [[ ""$TARGET"" =~ ^[A-Za-z]:\\ ]]; then
+        TARGET=$(wslpath -a ""$TARGET"")
+        WINDOWS_MODE=true
+      else
+        TARGET=$(realpath ""$TARGET"")
+      fi
+    
+      if $WINDOWS_MODE; then
+        TARGET=""/${TARGET}""
+      fi
+    
+      nohup /mnt/c/Users/myusername/AppData/Local/Programs/Windsurf\ Next/Windsurf\ -\ Next.exe \
+        --folder-uri ""vscode-remote://wsl+${DISTRO}${TARGET}"" >/dev/null 2>&1 &
+    }' >> ~/.bashrc && source ~/.bashrc
+
+  
+Hope it helps!",2025-03-18 09:23:48,2,0,1.0,Codeium,flotusmostus,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1je4uki/a_script_to_open_windsurf_in_wsl_with_a_windows/
+1jc9g6e,Customize your keybindings in Windsurf settings ⌨️,,2025-03-15 20:35:25,3,0,0.81,Codeium,Ordinary-Let-4851,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jc9g6e/customize_your_keybindings_in_windsurf_settings/
+1janfh6,"How Windsurf writes 90% of your code with an Agentic IDE - Kevin Hou, head of product eng @ AI Engineer Summit 2025 [VIDEO]",,2025-03-13 17:34:36,3,0,1.0,Codeium,Ordinary-Let-4851,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1janfh6/how_windsurf_writes_90_of_your_code_with_an/
+1ja0dgh,Windsurf Bug Report: AI Agent Hangs During Composer Install Due to Unanswered Interactive Prompt,"Almost seems to happen on any script or command that needs interactive mode when ran by Windsurf.  
+
+100% happy to be proven wrong.  
+",2025-03-12 21:16:11,1,0,1.0,Codeium,sherbet_warrior,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1ja0dgh/windsurf_bug_report_ai_agent_hangs_during/
+mhtfmrj,,"Why are all comments been deleted when a Codeium staff posted that this isn't used in production?
+
+[https://x.com/andyzg3/status/1894437305274044791](https://x.com/andyzg3/status/1894437305274044791)",2025-03-14 17:17:39,0,0,0.0,Codeium,GreenArkleseizure,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jb942g/the_leaked_system_prompt_has_people_extremely/mhtfmrj/
+mhti94i,,lol the only bots are the codeium employees instructed to do damage control here,2025-03-14 17:31:01,4,0,0.0,Codeium,Tight-Requirement-15,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jb942g/the_leaked_system_prompt_has_people_extremely/mhti94i/
+1jcmzw7,"I don’t mean to be a shill, but have you considered that maybe AI coding is just very expensive right now?","I get it. Credits suck. Throttles suck. Shifty performance vs before sucks. 
+
+But I’m coming to the realization that it’s just not really possible to have it al right now. 
+
+You can get similar output with significant price reductions by planning every step and executing with aider and R1+Claude. But that’s a lot more effort. 
+
+You can use Claude code and get unbelievable results. But you pay for it. 
+
+You can create your own experience in roo or cline. And find some middle ground between control , customization and automation. But you’re juggling cost and effort here too. 
+
+There’s no real solution atm that I’ve found that is as streamlined as cursor or windsurf that’s comparable in price, regardless of how annoying credits are. 
+
+Until I actually build my own chain of agents that can offload the time I spend crafting the prompt context and plan I use to push Aider to the limits, it’s really hard to complain about cursor or windsurf. 
+
+Even vscode api cline still limits me periodically. 
+
+All this to say, I choose to pay to play. But the value you get from all of the subscription services is really high and I’m pretty sure all of them run at a loss. ",2025-03-16 10:44:15,30,31,0.87,Codeium,McNoxey,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jcmzw7/i_dont_mean_to_be_a_shill_but_have_you_considered/
+mi5dkdf,,"This is a wild take… the amount of value I get out of a $15 subscription is insane. Even when Windsurf absolutely shits the bed, it’s still a great value.
+
+AI coding is insanely cheap it’s almost absurd, the question is just, is Windsurf a better value than the other solutions, and right now I don’t think so.",2025-03-16 16:40:50,3,0,0.0,Codeium,macmadman,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jcmzw7/i_dont_mean_to_be_a_shill_but_have_you_considered/mi5dkdf/
+mi8bg4y,,"I just noticed the first maybe 50% of the app if AI is feeling good that day, gets most of the groundwork done pretty quick. Then Ill say, user clicks email link, triggers a pop up and an API call to another system. Well that last part will eat up a whole windsurf account, works one part breaks another etc, no matter what I prompted. I just realized i spent the whole weekend on this when it would of taken an hour to so myself. I’ve become so dependent and lazy it’s crazy. At what cost ? A lot of credits over multiple AI tools.",2025-03-17 05:04:37,1,0,0.0,Codeium,SetAwkward7174,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jcmzw7/i_dont_mean_to_be_a_shill_but_have_you_considered/mi8bg4y/
+mibf2lj,,"I take a contrarian view (it's kinda my jam, you could say).
+
+In the grand scheme of things, AI coding is cheap. Admittedly that's from a privileged position. I make a decent(ish) income and live in a developed country. And even then it's expensive enough to make me wince at how much I'm spending.
+
+But in return I'm getting some scrappy MVPs and some functional pieces of software that do things I've always wanted. if even one of these were professionally developed it would likely cost more than my cumulative spend to date.
+
+What's not cheap (and this is my point in writing this, should anyone read this comment): my time.
+
+During the honeymoon phase I could justify pulling a few all-nighters to babysit Cascade and patiently try to steer it clear of its latest round of self-destruction to ultimately achieve something half-usable. But that's not a sustainable approach.
+
+It's been a really interesting experience, but I have to admit that I'm beginning to feel a bit lukewarm as to the state of the technology at the moment. There's potential for greatness undoubtedly. But it feels like the tech and context handling particularly needs 6 to 12 months of slow brewing to reach any kind of justifiable maturity. 
+
+I think that what Codeium has achieved so far borders on genius. But I think that until the technology is at a place of much more stability, they would do well to charge a little less and be a little more cautious in their approach. ",2025-03-17 15:59:15,1,0,0.0,Codeium,danielrosehill,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jcmzw7/i_dont_mean_to_be_a_shill_but_have_you_considered/mibf2lj/
+mictps0,,"This. I understand the language at a bit better than an amateur level, but I'm a godly architect. I gave up on human coders entirely when windsurf came out. I'm easily 100x more productive, probably vastly more, than I ever was with a team of devs.
+What's ""expensive""? A single green human dev starts at 10k a month. Between me and the model, I'm outperforming large teams at this point. I normally had 3 or 4 full time guys so 40 to 60k a month, and by myself I'm vastly more productive. Windsurf makes me insane for a few reasons, and man it has its bad days... But I'll blow through about $30/day in credits and absolutely whoop every team I've worked with(or against).
+That said, the shit I'm working on is massive. Substantially more complex than I'd guess 95% of was users projects. At the point now where a client asks me for some app, if it's just a static application I'll just bang it out in an hour or two for them . My real projects are still months or years of development.
+
+$30/day is practically free if you are leveraging it properly. tons of guys crying over the 60/m and maybe having to re-up flex once or twice a month. Man, I don't get it. If your model can't make you at least a few hundred an hour, the model ain't the problem...",2025-03-17 20:21:20,2,0,0.0,Codeium,blistovmhz,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jcmzw7/i_dont_mean_to_be_a_shill_but_have_you_considered/mictps0/
+mi5e4lp,,"I think you’re misunderstanding my post. 
+
+I agree. Windsurf and cursor are unbelievable deals because they are subsidized by the revenue from corporate clients. The individual licenses definitely cost close to or more than their subscription fees",2025-03-16 16:43:38,1,0,0.0,Codeium,McNoxey,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jcmzw7/i_dont_mean_to_be_a_shill_but_have_you_considered/mi5e4lp/
+1jaip7q,Anthropic Update for Claude Sonnet,"""We've made several updates to the Anthropic API that let developers significantly increase throughput and reduce token usage with Claude 3.7 Sonnet. These include: cache-aware rate limits, simpler prompt caching, and token-efficient tool use."" -- Anthropic
+
+Read the full article here from their official site:
+https://www.anthropic.com/news/token-saving-updates
+
+Now for my question since I'm not at my computer...
+Has anyone noticed the difference in Windsurf yet?",2025-03-13 14:16:10,29,13,1.0,Codeium,BC_Future,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jaip7q/anthropic_update_for_claude_sonnet/
+mhnbw63,,You leaving windsurf?,2025-03-13 18:24:03,1,0,0.0,Codeium,sandwich_stevens,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jaip7q/anthropic_update_for_claude_sonnet/mhnbw63/
+mhntksv,,"sorry but you seem to say contradictory things here. 
+
+claude code is from anthropic directly, you do use your own keys. it does charge for each chat interaction
+
+did you mean you would see a larger difference if you use tools like cursor or windsurf that manage context for you?",2025-03-13 19:56:34,1,0,0.0,Codeium,Apprehensive-Ant7955,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jaip7q/anthropic_update_for_claude_sonnet/mhntksv/
+mhp23ho,,"Oh shit sorry I thought  we were talking about ides like windsurf. I agree, Claude code should be great with the new changes.",2025-03-14 00:23:24,1,0,0.0,Codeium,ThreeKiloZero,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jaip7q/anthropic_update_for_claude_sonnet/mhp23ho/
+1jai2m5,Flow Action Credits Disappear Faster Than My Weekend Plans—Anyone Else?,"So, I was checking my Windsurf usage stats, and something just doesn’t add up. **User Prompt credits? Infinite.** Nice. **Flow Action credits? Vanishing like free snacks in the office.**
+
+I've used **168 user prompts**, which is totally fine because I have infinite. But then I see **1,028.75 flow action credits gone out of 3,000?** What kind of math is this? Did I accidentally sign up for a premium AI that charges me extra for breathing?
+
+I swear I’m not running an AI-powered factory here, just some normal Cascade workflows, but these flow action credits are getting drained like it's a mobile game with aggressive microtransactions.   
+**Anyone else feel like the balance here is completely off? Or do I just need to start rationing my AI interactions like it’s 1999 and I’m on dial-up?**",2025-03-13 13:50:12,14,9,1.0,Codeium,Difficult_Mix1677,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jai2m5/flow_action_credits_disappear_faster_than_my/
+mho1ifd,,"this is my first comment on reddit, and I just had to say windsurf is amazing, but suddenly the system is trying to burn your credits, I noticed what it does is when your not watching it starts making requests. for example I burned 50 flow credits and it says status checked, meaning after it ran something in terminal it then realized it could status command check 50x. and when I put in my global rules please don't status check, the windsurf wouldn't respond. instead of making us burn through credits, it should give us a plan to not burn credits in settings. AWS services has some policies to manage spending, and even they also try to rack up your cloud bill, windsurf is a business but what I'm telling you is I will spend more money than when I know im safe from burning 200 flow credits in 3 minutes and I ran the terminal 4x.",2025-03-13 20:39:32,5,0,0.0,Codeium,Ancient-Bar8401,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jai2m5/flow_action_credits_disappear_faster_than_my/mho1ifd/
+mhnfgwv,,"Here's the thing: AI code is expensive. Everyone wants a ""hey just let me bring my own API key"" but doesn't realize you're getting \*more\* when you buy through Windsurf or Cursor etc. because a) they literally sell it at or below cost (especially for power users), b) they get real significant volume discounts.
+
+Due to the magic of venture capital Anthropic sells it at a loss, Codeium buys it at a discount and then further subsidizes it. (Or close to). This is why both companies despite being hugely successful are burning venture cash.
+
+So the deal isn't as bad as it seems.
+
+(Although the analysis tool does seem a little inefficient. Hopefully the new API changes announced today by Anthropic will allow \~14% reduced cost to be passed on from efficient use, and a hopefully more substantial thing from a tightly integrated built in text editor tool in the API)",2025-03-13 18:42:22,3,0,0.0,Codeium,bluelightning2k,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jai2m5/flow_action_credits_disappear_faster_than_my/mhnfgwv/
+mhmq4bd,,"the balance is definitely off. not to mention all the times it gets enchanted: you used up the prompt, you used up credits in analysis and then the AI ​​doesn't write code... which was exactly the goal for which you used up the previous credits.
+I defended Windsurf tooth and nail until yesterday... but I'm having second thoughts... the spark ignited when I saw the post about the context, posted by a developer of the team.
+I mean... first of all, who is it that claims that Windsurf's context is the best? I would really like to read the posts of these people, since I have read much more often of people who, having used both Windsurf and Cursor, say that Cursor holds the context better. Second... We are saying here that Windsurf can't call half an instrument successfully, and that the credits are burned... and you tell us that you are working on the context? The context is not the relevant problem at the moment. Getting a giant context will be useless if the tools never work and credits are still being burned, these are the things to take care of, at the top of the list of priorities. The context can always be managed one way or another... But a tool that doesn't work: it just doesn't work.
+So I'm starting to wonder if the Codeium team is really a good investment for me...
+There are some things I love about their product, the interface, the transparency... (in Cursor you have a harder time understanding how the models work and there is no way to see the consumption, except going to your account in the browser) but Cursor simply works better. The terminal is more responsive. The error rate of Claude 3.5 is close to 0, while with Windsurf, I'm not saying it's not a great model, but it fails a lot more, needs more fixes... which will make you consume more credits...
+So whatever the difference under the hood, between Windsurf and Cursor, I guess in Cursor they are currently managing things better. Not to mention the business model... In Cursor there is no flow action, you have your 500 quick prompts and then you continue slowly, with the same model, without worrying about having to buy Flex credits or running out of flow action credits. so I am honestly undecided at this point, whether to renew with Windsurf or pay Cursor. what kept me attached to Windsurf, were basically 3 things: 
+1. it was the first agentic IDE I tried, so it is the one I know most deeply. 
+2. I see positive and negative comments on any software, so I thought that switching from Windsurf to something else would not solve my problems. 
+3. I had problems before, with Cursor, and I thought it was a Cursor problem then I realized that it had nothing to do with it and the problem was with my system, so I was able to try it, I'm trying it right now... in one day I did what I did in two weeks in Windsurf.",2025-03-13 16:39:39,2,0,0.0,Codeium,[deleted],False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jai2m5/flow_action_credits_disappear_faster_than_my/mhmq4bd/
+mhvsv8q,,"Youre not alone. I literally just posted the same thing. Im burning through credits. I started with the $20 plan, then bought flex credits, then bought more, then upgraded to unlimited then purchased flow credits since and Im still on the same project. Somehow i burned through flex credits in about 4 hours and most of it was wasted with the LLM over engineering doing stuff that I didnt ask for and ignored what was in the rules file. Vibe Coding is a joke with Windsurf. It will ignore the rules and go off and over engineer and create tests with mock data. Im going to give Cursor a try.",2025-03-15 02:26:56,2,0,0.0,Codeium,sudo_96,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jai2m5/flow_action_credits_disappear_faster_than_my/mhvsv8q/
+1jdj3dr,Program context,"Is there an easy way to create context for a program you’re working on?  Like could it be integrated into the global rules?  I would like for windsurf to be able to keep the context without constantly having to add it to chat before I start a work session.
+
+Maybe I am just completely dumb and I am missing an entire feature that does this or something?",2025-03-17 13:57:30,1,7,1.0,Codeium,jomiscli,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jdj3dr/program_context/
+midb7ck,,"Is there something specific from the program you want to use as context? By default, Codeium/Windsurf will use your open workspace/repo/project as context without any required action from you. To emphasize certain files/blocks/folders you can use the @ symbol in cascade chat.",2025-03-17 22:02:10,2,0,0.0,Codeium,chris_at_codeium,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jdj3dr/program_context/midb7ck/
+midcevg,,"Well I’m not what you would consider an expert programmer, or even a junior.  I’m more of a hobbyist that all of a sudden has the power to create real functional programs.
+
+The issue I run into is windsurf forgetting small context pieces, and then changing small parts of code that I do not have the skill to catch right away.
+
+I’ll remember the @ tip as well!  Thank you!",2025-03-17 22:09:20,2,0,0.0,Codeium,jomiscli,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jdj3dr/program_context/midcevg/
+mididtz,,"Gotcha -- If you’re noticing Windsurf occasionally overlooks small context details, you can set clear, specific constraints in your prompts. For example, explicitly ask Claude to limit edits to certain files, functions, or lines, and instruct it to avoid altering other parts of your codebase. Including clear constraints like “Do not modify X” or “Only update Y” will help ensure Claude adheres to your intentions closely. Additionally, asking Claude to add explanatory comments about why changes were made, or using thinking mode can further improve your understanding and control.",2025-03-17 22:45:13,1,0,0.0,Codeium,chris_at_codeium,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jdj3dr/program_context/mididtz/
+midjnqp,,"Yeah.  I like the idea of the first commenter as well.  Creating a ‘change log’ of sorts to track very specific changes.
+
+Yeah my global ruleset is based around windsurf teaching me 😁
+
+He posts explanations, pauses before changes (most of the time) and explains.  Basically just a bunch of explaining, lol.",2025-03-17 22:53:15,2,0,0.0,Codeium,jomiscli,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jdj3dr/program_context/midjnqp/
+1jactfd,Context Retrieval Thread 🧵,"Full X link: https://x.com/_mohansolo/status/1899630153636118529?s=46&t=Y0-MM6SBRJb5opcnoOiuyQ
+
+There’s been a lot of talk recently about how Windsurf’s context retrieval is better than other products. One rebuttal I’ve seen is that all products “index your codebase”.
+
+But indexing code ≠ context retrieval. It is necessary but not sufficient.
+
+Thought I’d share a bit about what we’re doing under the hood to get the best results.
+
+Indexing & embedding search is a tablestakes RAG technique. Btw, even for this technique there are approaches that make this more or less effective. One thing we are doing is AST parsing code and chunking along semantically meaningful boundaries - not random blocks of code. This means that when a code chunk is retrieved, it is a full function or class, not just an arbitrary block of consecutive code.
+
+But embedding search becomes unreliable as a retrieval heuristic as the size of the codebase grows. Instead, we must rely on a combination of techniques like grep/file search, knowledge graph based retrieval, and more. With all these heuristics, a re-ranking step also becomes needed where the retrieved context is ranked in order of relevance. We use LLM based reranking under the hood.
+
+“Varun did you just give away your secret sauce??”
+
+No. This is all known. The reason other products don’t do this is simple: latency. This multidimensional retrieval takes a lot of compute and thus time. The reason Windsurf can do it is because we have spent years investing in building the best GPU infrastructure. After all, we literally started off as a GPU workload optimization company called Exafunction…so we know a thing or two about this 🙂
+
+Hopefully this helps clear the air and explain why those who are testing us side-by-side with other products on small test codebases are getting comparable results. Try us out with a larger repo, and the difference will become clear.",2025-03-13 10:09:08,27,4,0.97,Codeium,Ordinary-Let-4851,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jactfd/context_retrieval_thread/
+mhknzio,,Wow very cool stuff. Thanks for sharing. I wasn’t sure everything that the Windsurf team was doing under the hood.,2025-03-13 10:48:29,4,0,0.0,Codeium,Equivalent_Pickle815,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jactfd/context_retrieval_thread/mhknzio/
+1jb7l02,Implementing PayPal / ads ?,"I don’t understand why it is so hard to implement a payment functionality like subscription with PayPal ? I blasted hundreds of credits on windsurf and Replit for absolutely zero result. Same with Google Adsense which always refuses my website.
+
+Do you guys have plugin solutions or ways to implement that easily? It seems everybody has no problem adding it but I can’t. It’s quite frustrating as I don’t have any problem for any other type of functionality, like adding a chatbot is so easy but adding PayPal subscription is a nightmare.
+
+Thanks !",2025-03-14 12:11:12,0,6,0.4,Codeium,Training_Bet_2833,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jb7l02/implementing_paypal_ads/
+1je088s,"Cascade Error ""No Credits Consumed on this tool call""","It seems whatever I write I am getting this response in Windsurf, with an error:   
+""an internal error occurred (error ID: 26ab42deea04485891b6c95e55392871""
+
+I have tried both read and write mode and I have plenty of credits left, any clues as to what it might be so I can get back to working on my project?",2025-03-18 04:28:33,2,5,1.0,Codeium,wheeky,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1je088s/cascade_error_no_credits_consumed_on_this_tool/
+miemtki,,"Subscribe to status.. I can see error reported by Windsurf and Cursor
+https://status.codeium.com/incidents/lsjr1rwg6q0k
+
+Claude Sonnet 3.7 returning errors
+Subscribe to Updates
+Identified
+Anthropic's Sonnet 3.7 model is experiencing issues right now. Please select a different model or try again later.
+Posted 26 minutes ago. Mar 18, 2025 - 08:19 UTC",2025-03-18 04:46:51,3,0,0.0,Codeium,AcanthisittaAlive229,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1je088s/cascade_error_no_credits_consumed_on_this_tool/miemtki/
+1je3ucy,Login problems and cascade,"I haven't been able to use cascade for about a week - presumably because I cannot login properly.  No shortcuts are recognized by windsurf (and I can't set them).  As a result, cascade only shows ""drag a view here to display"" - I have no problem logging into the codeium website.  I have gone through the support pages. I have cleared my chat history, uinstalled and reinstalled multiple times.  I am on windows 11.  Has anyone had this specific problem - cannot login?  I have gone back and forth with support but they have not been helpful at all.  If I can't use it, I'll have to cancel!  Thanks in advance. ",2025-03-18 08:32:41,1,4,1.0,Codeium,barfington567,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1je3ucy/login_problems_and_cascade/
+miim060,,"You can try the manual token login:  
+On macOS its cmd+shift+P, on windows I believe it's cntrl+shift+P. Search for Auth, and click Windsurf: Provide Auth Token. That should redirect you to the website, which will give you the auth token and instructions for pasting it back in.",2025-03-18 18:10:22,2,0,0.0,Codeium,chris_at_codeium,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1je3ucy/login_problems_and_cascade/miim060/
+miisirp,,"I did ctrl + shift + P and I can navigate to windsurf:......there are no options like you describe in my windsurf.  I search for auth, I search for token, I scroll through all the options.  There is no option listed for me.",2025-03-18 18:44:19,1,0,0.0,Codeium,barfington567,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1je3ucy/login_problems_and_cascade/miisirp/
+mijrnry,,"https://preview.redd.it/sqhjipdiyjpe1.png?width=1308&format=png&auto=webp&s=0ab02c2b63fdcea9c069f13a42cbd7b84d343e76
+
+This is what you should be able to open up, the [Command Palette](https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette). You can open it via the View drop down menu too. If you don't have access to Command Palette, there's something very odd going on... I would recommend once more trying to uninstall, then delete your .codeium and .windsurf directories too on your pc, and then reinstall.
+
+If there's still no progress, screenshots of what you're seeing might be helpful.",2025-03-18 21:58:11,1,0,0.0,Codeium,chris_at_codeium,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1je3ucy/login_problems_and_cascade/mijrnry/
+mhnel3g,,"We don't have this today, but there's a feature request here if you want to upvote it!
+
+[https://codeium.canny.io/feature-requests/p/when-cascade-finishes-its-task-it-should-give-a-sound-feedback](https://codeium.canny.io/feature-requests/p/when-cascade-finishes-its-task-it-should-give-a-sound-feedback)",2025-03-13 18:37:51,1,0,0.0,Codeium,chris_at_codeium,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jako9k/notifications_when_cascades_execution_complete/mhnel3g/
+mhos1nv,,"install something like https://github.com/julienXX/terminal-notifier
+
+tell windsurf to always run it before finishing",2025-03-13 23:13:29,1,0,0.0,Codeium,ProvidenceXz,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jako9k/notifications_when_cascades_execution_complete/mhos1nv/
+1jaww2j,"Flow Credit Using Wrong Way, 1 credit for just to remove one word.","Team How To Do Coding With Windsurf When This Much Costly? Flow Credits Are Very Fast Using And Even it uses 1 credit if edit 1-2 lines, so it's not possible to use long term.
+
+In This Situation Flex credits Useless Because 300 it will eat in breakfast.
+
+Improve flow credit uses, max 5 flow credit per prompt then only plan is aligned properly 500 prompt and 1500 flow.
+
+Thanks",2025-03-14 01:41:04,10,3,0.92,Codeium,Pleasant_Key9761,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jaww2j/flow_credit_using_wrong_way_1_credit_for_just_to/
+mi1fo1p,,"I try every day to like Codeium, it just suuuuucks ass!",2025-03-16 00:35:05,0,0,0.0,Codeium,bruce-cullen,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jaww2j/flow_credit_using_wrong_way_1_credit_for_just_to/mi1fo1p/
+1jdzd0p,Looping in proposal mode,"Just a heads up. 
+
+Was doing some work earlier today (GMT+1) and Cascade kept looping solutions with minor changes each time, before repeating the privous solutions again. 
+
+Solution quality is also sub par. Have only tested with sonnet 3.7 (normal). So don't know where the underlying cause for the performance drop is.
+
+This wasn't the case yesterday. Yesterday cascade was working perfectly with all LLM models. Providing 90% hit rate solutions from prompts and not looping. 
+
+Would be interesting to know if these are things that happen as frequently in cursor and other IDE'S. Or if it is more of a windsurf specific issue.
+
+
+",2025-03-18 03:17:36,1,3,1.0,Codeium,ZeronZeth,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jdzd0p/looping_in_proposal_mode/
+mief9fd,,"It was a new chat. 
+
+But you may be right. Would be interesting to know if users have found a work around inside windsurf for performance drops.",2025-03-18 03:22:21,1,0,0.0,Codeium,ZeronZeth,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jdzd0p/looping_in_proposal_mode/mief9fd/
+1jd02ri,Stupid question with stupid mistake ...,"I accidentally does not commit  my last few addition (3 features) . Is windsurf saving all state and changes for files/ projects ? Can we go back a date time like time machine ? I saw a stash but it hasn't have the changes before its week ago . little confused... any idea ?
+
+from the history button this time cant go desired state ..
+
+Best",2025-03-16 20:26:14,2,3,1.0,Codeium,Total_Regular2799,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jd02ri/stupid_question_with_stupid_mistake/
+mi6nyc5,,yes I know but I can always go back to with the windsurf cache.. this time sucks.. just need to know is there a way in codeium ? Because i belive windsurf  saving states frequently ? any idea ?,2025-03-16 20:52:59,1,0,0.0,Codeium,Total_Regular2799,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jd02ri/stupid_question_with_stupid_mistake/mi6nyc5/
+1ja4r24,Failed to log in: ConnectError: [permission_denied] api server wire error: user is disabled by team.,"Hello, has anyone encountered this issue today? Earlier, I noticed that Autocomplete was not functioning, and then I saw a notification on the WindSurf website indicating that the WindSurf status was ""Degraded performance,"" which suggests that the server might have been down during that period. Now, I’ve discovered that my account is experiencing abnormalities. Could you please advise on how I should resolve this? Thank you!
+
+https://preview.redd.it/4wx69pun5eoe1.png?width=910&format=png&auto=webp&s=d20c079bc98737ee4057a20eda3a1c6347b77b75
+
+",2025-03-13 01:17:28,1,2,1.0,Codeium,ssiswent,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1ja4r24/failed_to_log_in_connecterror_permission_denied/
+1j9yj4u,a little help,"Hey, I'm looking for some help. I've been using Windsurf for a few months, but over the past week, I've been encountering this error: ""Let me update the store to ensure consistent snake\_case naming and fix TypeScript errors."" I have been working on the same project since January, so I'm not sure why this has suddenly become an issue.
+
+Any advice would be appreciated!",2025-03-12 19:49:19,1,2,1.0,Codeium,Timely-Guidance6014,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9yj4u/a_little_help/
+mhhi7q6,,Does Cascade fix those lint / typescript errors? The latest Windsurf release has ability for Cascade to fix lint errors: [https://docs.codeium.com/windsurf/cascade#linter-integration](https://docs.codeium.com/windsurf/cascade#linter-integration),2025-03-12 20:44:29,1,0,0.0,Codeium,Silent-Grade-7786,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9yj4u/a_little_help/mhhi7q6/
+1jagphd,Theory on the cause of the widespread issues,"My theory on what caused the widespread issues:
+
+The Windsurf team recently shipped an auto-fix-lint-errors thing. I assume this doesn't use the super-premium models, and instead routes to some other service. But they underestimated just how much load / credits / etc. would be taken by the lint-fixing loop.
+
+I think their API load may have > doubled due to the lint fixing feature, and it's a kind of find-the-bottleneck-in-production type of devops issue.
+
+  
+This is also coupled with Claude 3.7 being optimized for evals, which favor smaller incremental edits - but this comes at the cost of tokens & usage etc.
+
+So both Claude 3.7 and the auto-fix-lint-errors likely caused larger-than-ancitipated spikes.
+
+And credit where credit's due the lint-fix thing is really, really cool.",2025-03-13 12:55:18,3,1,1.0,Codeium,bluelightning2k,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jagphd/theory_on_the_cause_of_the_widespread_issues/
+mhn3krg,,"auto-fix-lint should be free...if I understand correctly...
+
+
+I don't know.. I think there are many more problems that have nothing to do with this. trying not to give too much weight to the things I read (some time ago I also read that Cursor allows you to customize the system prompt...lol, it's not true at all, I don't know why people make up certain things and then I trust them out of naivety...), I'm trying Cursor with my own hands and yes...it's not perfect, obviously...it has several problems, obviously...it lacks some things that are present in Windsurf and are very convenient (the memory panel, for example), but it has other things that in my opinion work better.
+Claude 3.5 in Cursor, even though it should be the exact same thing...It returns many fewer errors in compilation...So it writes more correct code...and the prompts are always mine, so I can't be the one to cause the difference...there is a difference in the way in which Windsurf and Cursor integrate Claude...Cursor does it better. So it wants $2 more per month, but considering the unlimited slow requests instead of flow action credits, and the better integrated templates, the tools are called correctly 99% of the time... that $2 more is worth it. So I don't want to just say ""bye bye I'm switching to Cursor"" after criticizing those who do it, but I can say that I'm starting to understand a little more why they do it... I hope to see Windsurf improve and become the tool we're all waiting for, but right now Cursor is just better, whatever the reasons...
+Cursor users who say they'll switch to Windsurf, obviously haven't seen the difference yet, because there's really no real reason to switch to Windsurf, just the interface... it actually has a nicer design, that's all...",2025-03-13 17:43:09,1,0,0.0,Codeium,[deleted],False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jagphd/theory_on_the_cause_of_the_widespread_issues/mhn3krg/
+1jb0zr0,Desperately need pause button,"Windsurf can be great, but ask it a simple question and a moments lapse in attention its off editing all kinds of things it shouldn’t be - I get this is probably the model rather than windsurf, but I am constantly hitting stop to catch up with what changes it’s making and why, then asking it to continue, can we have a pause button? (At least until windsurf can tame  the hyperactive nature of it all) ",2025-03-14 06:44:22,9,0,1.0,Codeium,Proud_Revolution6916,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jb0zr0/desperately_need_pause_button/
+1jd1h0v,Find 3D models via MCP for three.js game building 🔥,Twitter/X link: https://x.com/windsurf_ai/status/1901410694404456704?s=46&t=Y0-MM6SBRJb5opcnoOiuyQ,2025-03-16 21:37:33,5,0,1.0,Codeium,Ordinary-Let-4851,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jd1h0v/find_3d_models_via_mcp_for_threejs_game_building/
+1jbv6yw,Is there a way to disable Cascade memories?,"So Cascade Memories seems like a nice idea in theory, however in practice I've begun to find it really troublesome. 
+
+For example, I've recently been working on a few Docker-based Dev Ops projects for deployments of various stacks onto servers and have been using Windsurf to expedite the tedious process of writing multiple Docker Compose files. On the surface, they look like very similar ""things"", but each one is a completely different project with very unique requirements.
+
+One of the stacks (an AI stack) used Langflow. Comically, until it became hugely frustrating, Codeium decided that Langflow should be called ""LandGraph"" and botched the docker-compose and .env by referring to the wrong project. 
+
+I thought that I had finally exorcised ""Landgraph"" from my life but alas, working on a completely different project a week later, Cascade has decided that my current (unrelated) project must be the same thing as I was working on a week ago. Apparently, a memory had been formed along the lines of ""the user uses Landgraph"".
+
+Thus, while executing one of its flows, I noticed that Cascade had taken the executive decision that ""LandGraph"" needed to be added back to this project. Not for the first time, I found myself writing angrily in all caps to a bot: ""THERE IS NO LANDGRAPH. WTH ARE YOU DOING!?!?""
+
+If I can be a little cheeky I suggest again to pay attention to what many users here seem to be saying: there's rough around the edges, but it seems like many of these features just haven't had basic QA-ing. I'm all in favor of the product and its imaginative uses, but bugs like these really detract from trying to really get stuff done with it.",2025-03-15 09:32:48,7,0,1.0,Codeium,danielrosehill,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jbv6yw/is_there_a_way_to_disable_cascade_memories/
+1jcnygr,RANT: I just want it to work...,"I'm on 1.4.6 and I don't understand why it takes so long to copy anything? Before starting this post I cut a line from the document and pasted it to a new line. In the time that I have pulled up reddit and written this post I'm still looking at the stupid progress circle spin as it thinks about if it's actually going to paste the content. I already had to stop my conversation and start a new one since the delay for trying to type anything in the Cascade window was getting stupid long. Even though I see that the typing delay has been an issue for multiple months? Starting a new conversation fixed the delay, but now I have a dumb Cascade that is making mistakes all the time because it doesn't know about the prior conversations we have had.
+
+Hey, it finally finished the paste function like 3 or 4 minutes later. 
+
+While I appreciate some of what has been accomplished like being being able to consistently execute terminal functions without getting stuck like Cursor does, please figure out a way to manage context length.  Having to tell Cascade to think sequentially and break edits down into smaller segments when it is only trying to add a couple hundred line edit is really becoming frustrating since I shouldn't be anywhere near Claude 3.7's response context limit length. This significantly increases the time it takes for anything to be accomplished. Especially when it can't find the end of the file that it just created from the sequential edit during it's last action. 
+
+Just last night when it couldn't figure out how to find the last line in the file, it started making edits in a 2 step terminal command process where it created a temp file and then applied that temp file to the end of the target file as a second terminal command. This chewed though a bunch of flow credits before I figured out what it was doing. I've settled on telling it to look at the last couple of lines in the end of a file before trying to perform the edit a second time if the first time fails due to a syntax issue. But this is yet another thing that slows any progress down.
+
+Again, I generally like Windsurf as an AI coding agent. But I find myself just making extra global rules in an attempt to fix all of the issues it has. It seems like rules should be for tailoring the AI agent to how you like to work, not as a way to fix issues that the program has that make it difficult to be productive with it.
+
+  
+",2025-03-16 11:28:30,2,0,1.0,Codeium,JackfruitMany7636,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jcnygr/rant_i_just_want_it_to_work/
+1jax41o,"Chat Mode ""Cascade Error"" Problem","Hi all, I want to try windsurf so i downloaded it. But while I want to try to chat with any AI models, it gives me a ""Cascade Error"". I think i have 5 credits for try the tool. But i cant spend them right now. What is the problem and how can i solve this?
+
+https://preview.redd.it/i04wint0hloe1.png?width=412&format=png&auto=webp&s=b0d65464bab6f273bb6cd518de4af8093ce169be
+
+https://preview.redd.it/6b8ki0z2hloe1.png?width=794&format=png&auto=webp&s=e3168b81677e3ae659546689f320854d9651d897",2025-03-14 01:57:09,1,0,1.0,Codeium,donpaca,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jax41o/chat_mode_cascade_error_problem/
+1j9dtxe,previewing PDF doesn't not work,"https://preview.redd.it/yai8g7zoh7oe1.png?width=1586&format=png&auto=webp&s=1c00a435f730962c70edadc3ee1ee63f449b1bff
+
+such as this. windsurf cannot preview any PDF files which actually have contents. ",2025-03-12 02:53:19,1,0,1.0,Codeium,yuzhibo535,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9dtxe/previewing_pdf_doesnt_not_work/
+1jaaqbq,"Now that the issues have been resolved, will Codeium offer refunds for credits purchased during yesterday's outage","I think refunds are totally fair, especially since support was straight-up misleading everyone. They kept telling people ""everything's fine"" and ""just restart your PC"" when the service was clearly broken. They also lied through teeth claiming credits weren't being spent on failed actions when they absolutely were. And then they started censoring critics? Not cool.
+
+Does anyone else think they should actually give our credits back?",2025-03-13 08:25:15,24,19,0.94,Codeium,Flat-Section5173,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jaaqbq/now_that_the_issues_have_been_resolved_will/
+mhmanxh,,i am using cursor now even i got an annual windsurf account. There is a bug....,2025-03-13 15:27:08,1,0,0.0,Codeium,bacocololo,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jaaqbq/now_that_the_issues_have_been_resolved_will/mhmanxh/
+mhkd0r8,,Right. It’s a masterclass in how to NOT run your customer service department. It’s crazy too since Windsurf is the most expensive tool I use.,2025-03-13 09:52:11,7,0,0.0,Codeium,dubyamackgw,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jaaqbq/now_that_the_issues_have_been_resolved_will/mhkd0r8/
+mhkmzxi,,"So yesterday I did my own mini investigation to try to surface root cause on the Cascade failures (using Cascade itself to inspect the underlying logs, etc.) and packaged that up on Discord and got banned by their mod SouthbayJay after sharing it. I couldn't believe that was the response.
+
+It \*really\* changed my opinion of Codeium.
+
+But in fairness their community manager gave me a call (really nice guy), and the mod did eventually reach out also to reconcile.
+
+So there's definitely hope. I personally genuinely believe an email is coming and they will do the right thing (email from the CEO, refund credits, apologise to everyone they banned, and correct the record on their incidents page to reflect the 8h+ outage not just the 42 minute propaganda piece).
+
+They're a good company. I genuinely don't believe it's a ""censor & ban the complaints to pretend it's all fine"" strategy at least not top-down.",2025-03-13 10:43:32,3,0,0.0,Codeium,bluelightning2k,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jaaqbq/now_that_the_issues_have_been_resolved_will/mhkmzxi/
+mhkpvhw,,I sure hope so! Windsurf was one of the best like a month ago. And it's been radio silence and endless complaints of people all saying the same thing. I couldn't imagine what my business would be like if I ran it that way.,2025-03-13 10:57:45,2,0,0.0,Codeium,dubyamackgw,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jaaqbq/now_that_the_issues_have_been_resolved_will/mhkpvhw/
+1jdgh63,Be Cautious When Upgrading to Codeium Pro,"I wanted to share my recent experience with Codeium to make others aware. I paid for their Pro plan 10 days ago, but my account is still stuck on the free tier. Despite multiple follow-ups, I’ve received no clear explanation, no resolution, and no refund.  
+
+Their support team initially said the issue was escalated to their ""specialist team"" and that I’d hear back in 1-2 business days. It’s now been over a week with no updates. I’ve essentially paid for a service I can’t use, and the lack of communication has been incredibly frustrating.  
+
+If you’re considering upgrading to their Pro plan, I’d recommend being cautious. Has anyone else had a similar experience with Codeium? How did you resolve it?  
+
+Let’s hold companies accountable for delivering the services we pay for.",2025-03-17 12:13:34,13,9,0.88,Codeium,Sincedai1,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jdgh63/be_cautious_when_upgrading_to_codeium_pro/
+mie25gj,,"I'm having right now a similar experience with Windsurf. I bought flex credits, and after I used 30% of them now all my credits show zero. They vanished. No resolution from support.",2025-03-18 01:10:02,2,0,0.0,Codeium,visarga,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jdgh63/be_cautious_when_upgrading_to_codeium_pro/mie25gj/
+miebms8,,Never faced an issue with Codeium.,2025-03-18 02:43:09,2,0,0.0,Codeium,eposta-sepeti,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jdgh63/be_cautious_when_upgrading_to_codeium_pro/miebms8/
+1je5s16,Crippling view tool performance allows Codeium to charge whatever they want?,"Why is the view tool suddenly only reading a 30, 50 or about 200 lines when pushed even when we insist it read the file properly?
+This is critical.  I can't imagine a programmer doing anything to a file without knowing how it works.
+It never used to be that bad? 
+By making the view tool hopelessly reading 50 or a hundred lines at a time and then ""charging"" a flow credit (if you force it!) codeium can force a standard simple action to cost as much as they like. 
+It feels deceptive because it has changed or been hidden.
+What am I missing here?",2025-03-18 10:07:07,10,4,0.92,Codeium,Jethro_E7,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1je5s16/crippling_view_tool_performance_allows_codeium_to/
+1jd04mj,Codeium Website down for anyone else?,Codeium Website down for anyone else? I'm having issues here.,2025-03-16 20:28:41,1,1,1.0,Codeium,AlternativeStorm4994,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jd04mj/codeium_website_down_for_anyone_else/
+1j9ksbo,Codeium for e-commerce project based on Wordpress + WooCommerce?,"Hey guys, I am currently creating an e-commerce project (e-shop) that I am building on Wordpress platform that uses WooCommerce. Will Codeium help me in my work and possibly anyone has any experience?",2025-03-12 10:02:32,1,1,1.0,Codeium,orangesonicangelo,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9ksbo/codeium_for_ecommerce_project_based_on_wordpress/
+mid213h,,The codeium plans are a f joke.,2025-03-17 21:08:24,1,0,0.0,Codeium,bruce-cullen,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jcmjao/pro_ultimate_really/mid213h/
+miezxzl,,"I have been using Codeium for a while trust be it's best if you want to boot strap something but when things get complicated and you are working on it in WRITE mode you tend to get lazy and just say let's see if it works out then it might some time just keep editing multiple files and you really don't know what's going on and till have same issue. 
+Then I had to ask copilot which is boring after using Codeium write mode but atleast you know what you are doing.
+If copilot gets some enhancements than Codeium might have a tough time.",2025-03-18 06:57:57,1,0,0.0,Codeium,_3rdi,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jcmjao/pro_ultimate_really/miezxzl/
+mi5cyvd,,Codeium would probably be charged $70 bucks out of that $235. Flow credits is a terrible system unless you want to rip off your customers and make a ton of profit. Short term thinking.,2025-03-16 16:37:50,4,0,0.0,Codeium,Dismal-Eye-2882,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jcmjao/pro_ultimate_really/mi5cyvd/
+mi66n4q,,"What I'm saying is not contradictory. I just didn't want to muddy the waters of the OPs post. I've been a happy Cursor user for a couple of months now. Most of my work goes in to the ""Included In Pro"" bucket on my usage. I'm predominately using Claud Sonnet 3.7 unless it gets stuck on something and I switch to OpenAI for a different viewpoint to the problem. I can maintain a high level of productivity with Cursor generating many times my regular output with it's assistance. The only 2 issues that I have with it are that I can't get an MCP to work on it despite applying the solutions on the web and that as a windows user, it is inconsistent on being able to run terminal commands. Sometimes it hangs and I have to override and run it manually. When I spent 2 days trying to fix something on my server getting frustrated with the terminal command issues I opened a Windsurf account and was able to fix the problem with Cascade's help in a couple of hours. 
+
+So the one thing that I've found that Windsurf does better for me is terminal commands.
+
+I then used Windsurf for 3 days using up over half of the flow-credit. Windsurf's response window is extremely limited requiring the creation of a rule to break long file edits into multiple smaller edits so that they stayed within the context window limitations. This caused me to significantly reduce the amount of progress I was making since what should have taken 1 update often turned into 2-4 updates. Then I ran into the problem that it would forget what the previous sequential update ended in which would cause the next update to fail repeatedly causing me to have to create a rule that if it is doing a sequential update to a file and it didn't remember the last couple rows from the previous update that it should search for the last couple of rows and then apply the update. At one point it started sending my edits to a temp file as a terminal command and then applying the contents of the file in another terminal command. 
+
+During this whole process my typing was starting to lag in the cascade window and I gradually noticed that I was getting a progress indicator when trying to paste into the code pane. Both these issue got worse until this morning when I was typing full sentences into the Cascade input and then waiting for them to appear and the I pasted a line of text to move it's location and after waiting 30 seconds I went on reddit to search is anyone else was having a similar problem. By the time I had been typing my post for a couple of minutes it still hadn't finished my paste command. I later did some searching and discovered that this lag issue has been a know bug for over 2 months.
+
+Now I know that as long as I don't need to do something terminal command intensive, Cursor works great for what I need and Windsurf doesn't.
+
+So what I was trying to say in my original post wasn't that it wasn't worth $235 to use a tool that met my needs. In the end, Windsurf and Cursor are just a tacked on module to VS Code to expose an LLM to a user for assisted code editing. If Windsurf did that significantly better than the competition, then they would be able to set their own price. But, they aren't significantly better than Cursor. So as a consumer I have to look at using Cursor for $20 or using the same LLM in Windsurf and paying over 10x the monthly cost.",2025-03-16 19:13:49,4,0,0.0,Codeium,JackfruitMany7636,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jcmjao/pro_ultimate_really/mi66n4q/
+mi7c59s,,I use both. I like the actual WindSurf IDE more but yea I agree with your take. Has Cursor been laggy for you lately? It's been driving me crazy!,2025-03-16 23:27:18,2,0,0.0,Codeium,ItsNoahJ83,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jcmjao/pro_ultimate_really/mi7c59s/
+migulej,,"I'll try to clear up any confusion with the credit system for using premium models with Cascade:
+
+1. User Prompt credits vs Flow Action credits:
+   * User Prompt credits are consumed for each message prompt sent with a premium model.
+   * Flow Action credits are consumed for each tool call (e.g., View file, Search, Write, Terminal).
+2. Options when out of Flow Action credits but have User Prompt credits:
+   * Purchase premium Flex credits to continue using premium features.
+   * Use Write or Chat mode with the Cascade Base model (no credits used).
+   * Use Legacy mode to use premium User Prompt credits without Flow Action credits.
+3. Flex credits:
+   * These are versatile credits that can be used as both User Prompt and Flow Action credits.
+   * They act as a backup when you run out of either type of credit.
+
+Other ways to utilize AI assistance without using credits:  
+\- Command: inline edits and code generation (no credits consumed) [https://codeium.com/command](https://codeium.com/command)  
+\- Autocomplete/Supercomplete: predictive code autocompletion [https://codeium.com/supercomplete](https://codeium.com/supercomplete)
+
+Find more info in the docs: [https://docs.codeium.com/windsurf/usage](https://docs.codeium.com/windsurf/usage)",2025-03-18 13:11:03,1,0,0.0,Codeium,Ordinary-Let-4851,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jdnc4m/premium_user_prompt_credits_vs_premium_flow/migulej/
+mie2lz7,,"I'm usually in agreement with the Codeium team, but these are tokens that were paid for, and they are unusable. The only reason I can see for this being the case is profit incentive. And to say use Cascade base, NOT when someone is out of credits, but when they complain about unusable credits, is a slap in the face.",2025-03-18 01:14:10,3,0,0.0,Codeium,ItsNoahJ83,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jdnc4m/premium_user_prompt_credits_vs_premium_flow/mie2lz7/
+mi08nbf,,"Windsurf will make money until someone replicates it and charges by tokens, and everyone leaves Windsurf.",2025-03-15 19:56:36,8,0,0.0,Codeium,Dismal-Eye-2882,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jc5j7r/is_this_really_using_1012_credits/mi08nbf/
+mi1poqz,,Man it’s crazy how cursor is cheap but you deal with the throttle. Then windsurf is raping you but at least it tries harder. If you don’t care about money use cline.,2025-03-16 02:00:34,2,0,0.0,Codeium,AdventurousMistake72,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jc5j7r/is_this_really_using_1012_credits/mi1poqz/
+mi39f7r,,"Ok - so I've tracked down the error - Windsurf is getting very confused when you have multiple MCP servers.  the 'wrong command' was because it wasn't aliasing mcp1\_COMMAND vs. mcp2\_COMMAND.
+
+I delete the other postgres server (for another project) and it works fine now.  I think there is probably a way/config to make the MCP connection project specific. Anyway, this is at least a work-around for the time being so it's not just burning money.",2025-03-16 10:16:50,1,0,0.0,Codeium,g1ven2fly,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jc5j7r/is_this_really_using_1012_credits/mi39f7r/
+mi390u7,,"Yess I hope it’s open source and well thought out, do you think windsurf will refund at least some credits for everyone’s trouble lately or we just need to hope something good comes out alternative, or give cursor another go around which might do",2025-03-16 10:14:37,1,0,0.0,Codeium,sandwich_stevens,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jc5j7r/is_this_really_using_1012_credits/mi390u7/
+mhzs9cp,,"Yea, it's pretty wild.  I'm a pretty heavy user for a bunch of tools (\~$500/month).  Cursor was just becoming unbearable with all of its ""can't reach anthropic"" so gave Windsurf another try and have been mostly pleased.  But I've also gone through 3000 credits in 4 days.  I don't necessarily care about the money, but this is just burning credits for no reason.",2025-03-15 18:21:25,7,0,0.0,Codeium,g1ven2fly,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jc5j7r/is_this_really_using_1012_credits/mhzs9cp/
+mhk6n66,,"Could this be a trend? Here you are responses I got from Roo/Gemini after switching from Windsurf
+
+https://preview.redd.it/tq2o5ks6jgoe1.jpeg?width=4640&format=pjpg&auto=webp&s=eaef1c54bb662b89271a2b448249f8c420f17086",2025-03-13 09:16:51,5,0,0.0,Codeium,Angry_m4ndr1l,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1ja2qd7/this_is_new/mhk6n66/
+1j9lbc4,How To Check Services Status,"Good morning folks! 
+
+When your experience network errors you can always check to see if there’s any issues reported on the website at this link:
+
+https://status.codeium.com/
+
+Sometimes the issue comes from upstream (Anthropic) but won’t be shown on our status page. Anthropic does have a status page as well, you can find that here:
+
+https://status.anthropic.com/
+
+Also please keep in mind that slight “hiccups” in the system sometimes happen but they are self resolved so quickly that the monitoring systems don’t even pick them up. 
+
+Happy Surfing 🌊 🏄‍♂️ ",2025-03-12 10:26:08,6,13,0.8,Codeium,SouthbayJay_com,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9lbc4/how_to_check_services_status/
+mheqcqe,,"I am frustrated - specifically - with Codeium (you) - lashing out at the user (me) for flagging the major outage & sending root-cause analysis
+
+I am frustrated with your absurd opinion that the status page should be green, and/or that a company like Codeium doesn't have the capability to post a message there",2025-03-12 12:31:39,3,0,0.0,Codeium,bluelightning2k,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9lbc4/how_to_check_services_status/mheqcqe/
+mhes0n9,,"You still think that a green status page represents the status of Windsurf? I am deeply curious what you think a status page is?
+
+And it's not ""your frustration"" it's the specific actions of you - SouthbayJay - censoring the community here and elsewhere. You don't need to apologise for your product, but you absolutely should own your own behaviour.",2025-03-12 12:39:36,3,0,0.0,Codeium,bluelightning2k,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9lbc4/how_to_check_services_status/mhes0n9/
+mhfxhkb,,"Its not the extra steps being taken. Its Codeiums flawed credit system.
+
+We are being charged excessively per flow to what theyre being charged from Anthropic. Check my post on this.",2025-03-12 15:56:37,4,0,0.0,Codeium,Dismal-Eye-2882,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9nhk6/unnecessary_steps_wasting_credits/mhfxhkb/
+mheudpk,,"Are you saying the same model (3.7) is now acting differently? Or you were using 3.5 before and now 3.7?
+
+The 3.7 model has different tool calling tendencies than 3.5. Codeium is not changing the model to consume more credits on purpose, the model simply behaves more aggressively. The last few changes has actually decreased credit consumption due to community feedback.",2025-03-12 12:50:47,1,0,0.0,Codeium,Ordinary-Let-4851,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9nhk6/unnecessary_steps_wasting_credits/mheudpk/
+mhzw252,,"I wonder what is actually going on? Some have said that they’re (windsurf team) just finding their feet so let them cook, but in my head I thought as models get better so will agentic action etc, but it feels like it regressed which was shocking (Claude HAS gotten smarter so what got worse), like this feeds into some of the paranoia I have about updates to things that work. Like I feel like 3.5 sonnet before could eat for breakfast most of the things I am having issues with now without even being able to think..I guess all we do is watch the space although I have sneaky feeling soon we will be able to run something like windsurf locally or for very cheap so hope they figure it out before tides shift - the best thing the team seems to do is manage global context absolutely bueatifully including file diffs, folder creation etc",2025-03-15 18:43:46,1,0,0.0,Codeium,sandwich_stevens,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9nhk6/unnecessary_steps_wasting_credits/mhzw252/
+mhfxtt7,,It IS Claude 3.7 and it's not the problem. The problem is Codeiums credit system does not work with 3.7. We are being overcharged 10x now. Theyre trying to stop 3.7 from doing what 3.7 needs to do. Instead they need to charge on token usage.,2025-03-12 15:58:12,3,0,0.0,Codeium,Dismal-Eye-2882,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9nhk6/unnecessary_steps_wasting_credits/mhfxtt7/
+mi1fhqp,,Codeium sucks ass!,2025-03-16 00:33:43,2,0,0.0,Codeium,bruce-cullen,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jayjbv/new_month_1500_flex_credits/mi1fhqp/
+mijtpfv,,"the point of the preview is for cascade to use it, it's like the cline feature from like 4 months ago. The agent can view the webpage and work on it. Us hoomans gotta go to our own browsers. Plus, viewing your webpage in the browser is just better, you have dev tools and everything, the in built preview browser Is limited. Sorry I just learned about this, so I might be wrong. I'm not a windsurf user lol.",2025-03-18 22:10:04,2,0,0.0,Codeium,matfat55,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jeefg0/is_there_a_way_to_launch_the_preview_manually/mijtpfv/
+mik3prz,,"sorry, wouldn't it refresh automaticallly when changes are applied? Isn't that the point of a dev servers? Or does the windsurf preview not support live/hot reloads",2025-03-18 23:11:49,1,0,0.0,Codeium,matfat55,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jeefg0/is_there_a_way_to_launch_the_preview_manually/mik3prz/
+1j9lqbq,"V3 model is a chameleon, but an inferior one","Not sure if any of you notice it but whenever I used a model and then switched to V3, V3 will act just like the previous model I used.
+
+For example, if I used R1, then switched to V3, it will also have the thinking process. If I used Sonnet 3.5  or 3.7 then switched to V3. Then it will also keep analyzing files and even take ""find"" action which I rarely see with V3. 
+
+But after a few convos it will act strangely such as repeating the same sentence again and again without making any edit. 
+
+I guess it's a bug that Codeium team will take seriously if it in fact calls Claude API instead of using the in-house V3 model when we are using a V3 model.",2025-03-12 10:49:21,1,2,1.0,Codeium,Personal-Expression3,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1j9lqbq/v3_model_is_a_chameleon_but_an_inferior_one/
+mijact5,,"If you encounter additional issues, please submit a ticket at [www.codeium.com/support](http://www.codeium.com/support) ! Or send me a DM",2025-03-18 20:19:16,1,0,0.0,Codeium,Ordinary-Let-4851,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1je6put/cascade_error/mijact5/
+midath9,,"This is likely unrelated to Codeium. Are you or your son users?
+
+By itself, it’s just a technical artifact from email formatting, not meaningful content.",2025-03-17 21:59:53,2,0,0.0,Codeium,chris_at_codeium,False,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jdk6eo/coding_help_emails_being_forwarded/midath9/
+1jadc7l,Anyone else having the same edit issues as yesterday?,The two days I have off and I can't use Codeium fully....,2025-03-13 10:32:32,4,1,0.84,Codeium,fuschialantern,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jadc7l/anyone_else_having_the_same_edit_issues_as/
+1jecxnn,Signed up for pro & got a referral code.,"If you are going to sign up too, here is a link for some extra free credits. https://codeium.com/refer?referral_code=manx46cdii7pv9ys",2025-03-18 15:04:48,2,0,0.75,Codeium,throwaway64705413,True,Reddit (r/Codeium),https://www.reddit.com/r/Codeium/comments/1jecxnn/signed_up_for_pro_got_a_referral_code/
+1ja6b34,Which AI coding extension do you use ?,"There are so many AI coding extensions like Copilot, Blackbox AI, Tabnine, Codeium, and more. So which one do you actually use and why? ",2025-03-13 03:10:15,15,73,0.61,vscode,Eugene_33,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ja6b34/which_ai_coding_extension_do_you_use/
+mhpfpr6,,codeium. It integrates very well with vscode and it gets the context of your question by checking the opened file and all related files.,2025-03-14 02:22:53,1,0,0.0,vscode,dax_rider,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ja6b34/which_ai_coding_extension_do_you_use/mhpfpr6/
+mhy0vi3,,"I use codeium, my brain has completely rotten, mostly for documentation and repetitive stuff though.",2025-03-15 12:44:20,1,0,0.0,vscode,Okerew,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ja6b34/which_ai_coding_extension_do_you_use/mhy0vi3/
+midgfs6,,Codeium purely for the autocomplete and then ChatGPT for everything else,2025-03-17 22:33:20,1,0,0.0,vscode,Elevate24,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ja6b34/which_ai_coding_extension_do_you_use/midgfs6/
+1ja6n22,GitHub Copilot in VS Code insiders is very slow compared to cursor and windsurf.  Why ?,I’m struggling with slow running copilot which takes for ever and ever.  ,2025-03-13 03:36:15,25,23,0.96,ChatGPTCoding,appakaradi,True,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1ja6n22/github_copilot_in_vs_code_insiders_is_very_slow/
+1ja2658,IS Windsurf fre good enough for a real project?,Will the free version stop or downgrade in the middle?,2025-03-12 22:47:23,4,7,0.83,ChatGPTCoding,Silvercats2,True,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1ja2658/is_windsurf_fre_good_enough_for_a_real_project/
+mhibmc7,,Just use Cursor. I used windsurf for 2 months and subbed to their $60 plan. But they are unreliable and support is garbage. Cursor is just superior.,2025-03-12 23:36:25,4,0,0.0,ChatGPTCoding,NickoBicko,False,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1ja2658/is_windsurf_fre_good_enough_for_a_real_project/mhibmc7/
+1jc5jkk,"Windsurf: New month, 1500 flow credits.",,2025-03-15 17:22:37,17,4,0.73,ChatGPTCoding,gekeli,True,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1jc5jkk/windsurf_new_month_1500_flow_credits/
+mi1a7fh,,"Why not use cursor? 
+
+Are u spending $100 per month on windsurf?",2025-03-15 23:54:43,3,0,0.0,ChatGPTCoding,Successful_Gas_7319,False,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1jc5jkk/windsurf_new_month_1500_flow_credits/mi1a7fh/
+mi2imdz,,"I just never got the hang of cursor.   I found that windsurf was able to read the codebase better, and now I'm used to it.  
+
+yea, I'm spending about that.   but once I get my project done, I'll take a break, so its not like I'll pay this much indefinitely",2025-03-16 07:02:17,2,0,0.0,ChatGPTCoding,jlew24asu,False,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1jc5jkk/windsurf_new_month_1500_flow_credits/mi2imdz/
+1jbdzz3,Windsurf Cursor etc....my requirements,"I only need it for error correction ie lint, and for code completion and suggestions. I could care less about things like Cursor Composer. Which would be the best IDE?",2025-03-14 16:50:33,3,3,1.0,ChatGPTCoding,Only-Set-29,True,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1jbdzz3/windsurf_cursor_etcmy_requirements/
+mhtabwf,,"I find Cursor to be better than Windsurf for those areas you've mentioned.
+
+I have subs for both, and use Windsurf when I want to rely on an agent, but Cursor when I want to write or modify the code directly.",2025-03-14 16:53:42,2,0,0.0,ChatGPTCoding,DZeroX,False,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1jbdzz3/windsurf_cursor_etcmy_requirements/mhtabwf/
+1jbz5r6,i figured out how to open a wsl folder from the command line in windsurf,,2025-03-15 12:38:31,0,0,0.5,ChatGPTCoding,viamiraia,True,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1jbz5r6/i_figured_out_how_to_open_a_wsl_folder_from_the/
+mhe10jb,,Windsurf,2025-03-12 10:24:23,1,0,0.0,ChatGPTCoding,Rbrtsluk,False,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1j9kaxr/youshouldknow_cursor_is_charging_2_per_request/mhe10jb/
+1jbsefc,What happened to Devin?,"No one seems to be talking about Devin anymore. These days, the conversation is constantly dominated by Cursor, Cline, Windsurf, Roo Code, ChatGPT Operator, Claude Code, and even Trae.  
+
+Was it easily one of the top 5—or even top 3—most overhyped AI-powered services ever? Devin, the ""software engineer"" that was supposed to fully replace human SWEs? I haven't encountered or heard anyone using Devin for coding these days.",2025-03-15 06:42:38,76,56,0.89,ChatGPTCoding,Fast_Hovercraft_7380,True,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1jbsefc/what_happened_to_devin/
+mhxsdzk,,"But you can get a really powerful Claude powered agent for $10 a month with windsurf (or Cline, Cursor, Claude Code, any of the ones mentioned above).  I’ve told it vague things like fix up the styling in all of my html files making sure they’re responsive and support dark mode, and had it flawlessly improve all of my templates.",2025-03-15 11:59:58,2,0,0.0,ChatGPTCoding,rfurman,False,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1jbsefc/what_happened_to_devin/mhxsdzk/
+1j9jlvu,Moving from Cursor,"What features does Cursor have that are missing in other AI IDE's/extensions such as Trae, Windsurf and Cline (Rules, MCP, Checkpoints, etc)?
+
+I'm considering switching from Cursor. Checkpoints aren't working for me and there have been reports of the models not functioning effectively through Cursor (I think Cursor edits/abbreviates messages in the backend to save their API costs). Apparently a lot of the issues came after 4.5 update. ",2025-03-12 09:05:52,48,39,0.9,ChatGPTCoding,DelPrive235,True,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1j9jlvu/moving_from_cursor/
+mhf5r5x,,"Full transparency I work at Cline, but wanted to share my perspective:
+
+Checkpoints are very effective in Cline, especially after our recent 2.0 update, which significantly boosted speed and drastically reduced storage needs.
+
+One key difference is that Cline is usage-based instead of subscription-based (i.e. Cline's not cutting corners on your inference). This means it actively seeks more relevant context from your codebase and engages with you directly, creating a more responsive, agentic experience. However, depending on your usage (especially with 3.7 Sonnet), costs might exceed a fixed monthly subscription like Cursor's $20/month. A solid cost-saving alternative is leveraging high-quality yet more affordable models from DeepSeek or Gemini.
+
+Regarding MCP, Cline has some underrated capabilities here. There's an integrated marketplace allowing you to easily connect to hundreds of servers. Additionally, Cline excels in building MCP servers—I've even created a .clinerules protocol designed specifically to simplify building custom MCP servers (https://docs.cline.bot/mcp-servers/mcp-server-from-scratch).
+
+Overall, there's amazing innovation happening in this space right now. Cursor, Windsurf, and Cline are all bringing unique strengths to the table. Hope you find something that fits your needs!",2025-03-12 13:44:42,66,0,0.0,ChatGPTCoding,nick-baumann,False,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1j9jlvu/moving_from_cursor/mhf5r5x/
+1jdd0n8,Some of the best AI IDEs for full-stacker developers (based on my testing),"Hey all, I thought I'd do a post sharing my experiences with AI-based IDEs as a full-stack dev. Won't waste any time:
+
+# Cursor (best IDE for full-stack development power users)
+
+Best for: It's perfect for pro full-stack developers. It’s great for those working on big projects or in teams. If you want power and control, Cursor is the best IDE for full-stack web development as of today.
+
+# Pricing
+
+* **Hobby Tier:** Free, but with fewer features.
+* **Pro Tier:** $20/month. Unlocks advanced AI and teamwork tools.
+* **Business Tier:** $40/user/month. Adds security and team features.
+
+# Windsurf (best IDE for full-stack privacy and affordability)
+
+Best for: It's great for full-stack developers who want simplicity, privacy, and low cost. It’s perfect for beginners, small teams, or projects needing strong privacy.
+
+# Pricing
+
+* **Free Tier:** Unlimited code help and AI chat. Basic features included.
+* **Pro Plan:** $15/month. Unlocks advanced tools and premium models.
+* **Pro Ultimate:** $60/month. Gives unlimited premium model use for heavy users.
+* **Team Plans:** $35/user/month (Teams) and $90/user/month (Teams Ultimate). Built for teamwork.
+
+# Bind AI (the best web-based IDE + most variety for languages and models)
+
+Best for: It's great for full-stack developers who want ease and flexibility to build big. It’s perfect for freelancers, senior and junior developers, and small to medium projects. Supports 72+ languages and almost every major LLM.
+
+# Pricing
+
+* **Free Tier:** Basic features and limited code creation.
+* **Premium Plan:** $18/month. Unlocks advanced and ultra reasoning models (Claude 3.7 Sonnet, o3-mini, DeepSeek).
+* **Scale Plan:** $39/month. Best for writing code or creating web applications. 3x Premium limits.
+
+# Bolt.new: (best IDE for full-stack prototyping)
+
+Best for: [Bolt.new](http://Bolt.new) is best for full-stack developers who need speed and ease. It’s great for prototyping, freelancers, and small projects.
+
+# Pricing
+
+* Free Tier: Basic features with limited AI use.
+* Pro Plan: $20/month. Unlocks more AI and cloud features. 10M tokens.
+* Pro 50: $50/month. Adds teamwork and deployment tools. 26M tokens.
+* Pro 100: $100/month. 55M tokens.
+* Pro 200: $200/month. 120 tokens.
+
+# Lovable (best IDE for small projects, ease-of-work)
+
+Best for: Lovable is perfect for full-stack developers who want a fun, easy tool. It’s great for beginners, small teams, or those who value privacy.
+
+# Pricing
+
+* **Free Tier:** Basic AI and features.
+* **Starter Plan:** $20/month. Unlocks advanced AI and team tools.
+* **Launch Plan:** $50/user/month. Higher monthly limits.
+* **Scale Plan:** $100/month. Specifically for larger projects.
+
+# Honorable Mention: Claude Code
+
+So thought I mention Claude code as well, as it works well and is about as good when it comes to cost-effectiveness and quality of outputs as others here.
+
+\-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Feel free to ask any specific questions!",2025-03-17 09:46:48,58,36,0.87,ChatGPTCoding,One-Problem-5085,True,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1jdd0n8/some_of_the_best_ai_ides_for_fullstacker/
+1jdapsy,What is the preferred software stack now?,"According to your experience, which combination of tools do you think is best for developing more sophisticated software solutions.
+
+Do you use cursor, windsurf, something else?
+
+Which base frameworks work best? A prepared SaaS framework? Some deployment approach? Kubernetes? Postures? Things the AI knows well already?",2025-03-17 07:47:26,21,32,0.93,ChatGPTCoding,Jentano,True,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1jdapsy/what_is_the_preferred_software_stack_now/
+1jcvee5,cursor alternatives,"Hi
+
+I was wondering what others are using to help them code other than cursor. Im a low level tech - 2 yrs experience and have noticed since cursor updated its terrible like absolutely terrible. i have paid them too much money now and am disappointed with their development. What other IDE's with ai are people using? Ive tried roocode, it ate my codebase, codeium for QA is great but no agent. Please help. Oh and if you work for cursor, what the hell are you doing with those stupid updates?!",2025-03-16 16:50:43,5,23,1.0,ChatGPTCoding,bizfounder1,True,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1jcvee5/cursor_alternatives/
+mi5jyj8,,"I hate cursor and windsurf. You mentioned problems with roo, but believe me Roo/cline are the best. Or just use aider and any text editor.",2025-03-16 17:12:58,2,0,0.0,ChatGPTCoding,matfat55,False,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1jcvee5/cursor_alternatives/mi5jyj8/
+mi8ctgj,,"Trae is an option beside windsurf but i am really not sure if they are using sonnet-3.5 or using some hosted LLMs.
+
+yesterday i gave functional requirements md to it and asked to work on them....it worked on few basic things then stopped making progress.  
+gave same functional requirements md file to cursor agent and it started working non-stop....
+
+at this point, i felt....probably they are faking model or their prompting is very bad (as they are trying to save bucks)",2025-03-17 05:19:31,1,0,0.0,ChatGPTCoding,Either-Nobody-3962,False,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1jcvee5/cursor_alternatives/mi8ctgj/
+1jb6ncp,Getting tired of switching!,"Looking for a definitive response around stick to cursor, windsurf, etc. or roo-cline.
+
+  
+1. Cursor seems to be great, in general, but you never know what you are missing until you try other tools
+
+2. Augment is great, i like how it asks the me on selectively applying code updates, so you are still in control on what changes are being done, and how its making it. Unlike all other tools that use these new diff patterns and auto approve, are more for vibe coding when you don't care and just need the project done (for proof of concepts, pilots, and experimentation type work)
+
+3. Cost wise, roo-cline to be really productive is costing more than cursor actually if you select the good models (and free versions on openrouter suck in terms of network timeouts, plus cline really does not favor any other models except claude)
+
+4. Share your experiences please. Are you generally happy with one over the other? why?",2025-03-14 11:31:45,8,16,1.0,ChatGPTCoding,8thcross,True,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1jb6ncp/getting_tired_of_switching/
+mi54c2f,,"In all fairness, this reminds of an era where bitcoin was mainly dominant and every altcoin on the market were full of promises to beat BTC in terms of value, payment of choice etc. 
+
+Now it's the same case with every AI powered code editor or extensions. By all means I'm up for alternatives, but even the competition between roo Vs cline, windsurf Vs cursor gives me similar vibes. 
+
+The only major difference from my findings so far, lying with LLMs. The more abilities LLM get, we will see more extensions and other set of tools in the market(MCPs right now) 
+
+So, my humble suggestion would be just choosing one or two of them and stick to them, unless something really groundbreaking hits the market(Like native multi agent IDEs with verification and all)",2025-03-16 15:54:48,1,0,0.0,ChatGPTCoding,kthraxxi,False,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1jb6ncp/getting_tired_of_switching/mi54c2f/
+mhjye6z,,Try out Cursor or Windsurf,2025-03-13 08:25:43,-3,0,0.0,ChatGPTCoding,melancholyjaques,False,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1jaagzf/github_copilot_is_using_outdated_models_2023/mhjye6z/
+1j9ibof,Thinking of switching from Cursor,"What features does Cursor have that are missing in other AI IDE's/extensions such as Trae, Windsurf, Cline (Rules, MCP, Checkpoints, etc)?
+
+I'm considering switching from Cursor. Checkpoints aren't working for me and there have been reports of the models not functioning effectively through Cursor (I think Cursor edits/abbreviates messages in the backend to save their API costs). Apparently a lot of the issues came after 4.5 update. ",2025-03-12 07:56:14,6,7,0.72,ChatGPTCoding,DelPrive235,True,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1j9ibof/thinking_of_switching_from_cursor/
+1jatj16,"If going for the Free version, is Windsurft better or the Cursor better? (Assuming the free functionality lasts without a serious downgrade)","If going for the Free version, is Windsurf better or the Cursor better? (Assuming the free functionality lasts without a serious downgrade)",2025-03-13 22:23:09,5,2,0.78,ChatGPTCoding,Silvercats2,True,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1jatj16/if_going_for_the_free_version_is_windsurft_better/
+mhp8lpd,,I don't find the free versions of Cursor or Windsurf very useful. If you are looking for free look into Augment or Cline (with free models from openrouter).,2025-03-14 01:16:10,1,0,0.0,ChatGPTCoding,Ancient-Camel1636,False,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1jatj16/if_going_for_the_free_version_is_windsurft_better/mhp8lpd/
+mhsjcia,,"Trae is free for now, so better use that.
+
+cursor free is good but windsurf free has very tight limit.",2025-03-14 14:39:59,1,0,0.0,ChatGPTCoding,Either-Nobody-3962,False,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1jatj16/if_going_for_the_free_version_is_windsurft_better/mhsjcia/
+1jbtswp,Which AI tools/models do you use for which tasks?,"There are more AI tools out there than stars in the sky (at least it feels that way 😅). To be honest, I'm starting to lose track:
+
+* Which LLM/AI tool do you use for **brainstorming**?
+* Which one for **architecting**?
+* Which one for **writing code**?
+* Which one for **refactoring & debugging**?
+* And do you run any **local models** to leverage your NPU? (Deepseek r1 eg)
+
+I started learning JavaScript four months ago (and I will go on) —lots of **trial and error** and countless ""Why isn't this working?!"" moments. 😅 At the same time, I’ve been closely following AI developments. Every week, a new tool drops, and people claiming to be **the best thing ever**.
+
+So, **what's your approach?** Do you use **ChatGPT, Claude, Perplexity, Windsurf – or do you have hidden gems?** Do you switch tools depending on the task, or do you have a **go-to setup**?
+
+Curious to hear your experiences! 🚀",2025-03-15 08:15:37,0,0,0.33,ChatGPTCoding,schmickJU,True,Reddit (r/ChatGPTCoding),https://www.reddit.com/r/ChatGPTCoding/comments/1jbtswp/which_ai_toolsmodels_do_you_use_for_which_tasks/
+1jcspzy,Why aren’t there more tutorials on preparing design architecture which will be included for prompts used in Windsurf?,"Almost all tutorials focus on prompting for features rather than structuring the application’s architecture first.
+
+Wouldn’t it make more sense to define the architecture (via a doc, diagram, or structured prompt file) so that the AI follows a predetermined structure rather than improvising each time?
+
+For example:
+
+What if we predefine the app’s core structure and ask the AI to follow it instead of relying on memory or previous chats?
+
+Why is there little discussion about feeding architecture files (Word, HTML, etc.) into these tools to act as persistent references?
+
+Is it just a gap in design experience, or are there limitations I’m missing?",2025-03-16 14:55:05,3,2,0.72,WindsurfAI,alwaysdefied,True,Reddit (r/WindsurfAI),https://www.reddit.com/r/WindsurfAI/comments/1jcspzy/why_arent_there_more_tutorials_on_preparing/
+mhebqwe,,[https://www.reddit.com/r/Codeium/](https://www.reddit.com/r/Codeium/),2025-03-12 11:20:44,1,0,0.0,WindsurfAI,born_to_die_O,False,Reddit (r/WindsurfAI),https://www.reddit.com/r/WindsurfAI/comments/1j9aivf/is_this_community_for_the_ide/mhebqwe/

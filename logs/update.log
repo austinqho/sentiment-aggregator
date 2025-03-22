@@ -1,0 +1,1672 @@
+[2025-03-09 11:32:15] Starting data update...
+[2025-03-09 11:32:15] Running Twitter scraper...
+Using Twitter API v2
+Error searching tweets: 429 Too Many Requests
+Usage cap exceeded: Monthly product cap
+No tweets to save.
+Collected 0 tweets mentioning 'windsurf' and 'codeium'
+[2025-03-09 11:32:15] Running Reddit scraper...
+Searching in r/programming...
+Searching in r/webdev...
+Searching in r/devops...
+Searching in r/javascript...
+Searching in r/Python...
+Searching in r/coding...
+Searching in r/learnprogramming...
+Searching in r/AskProgramming...
+Searching in r/techsupport...
+Searching in r/technology...
+Searching in r/compsci...
+Searching in r/computerscience...
+Searching in r/softwareengineering...
+Searching in r/ITCareerQuestions...
+Searching in r/codeium...
+Searching in r/vscode...
+Searching in r/vim...
+Searching in r/emacs...
+Searching in r/IDEs...
+Searching in r/ChatGPTCoding...
+Searching in r/WindsurfAI...
+Searching in r/ChatGPT...
+Searching in r/OpenAI...
+Searching in r/GPT4...
+Error searching Reddit: received 403 HTTP response
+Updated /Users/austinho/sentiment-aggregator/data/reddit_mentions_2025-03-09.csv with 197 new Reddit items. Total: 197
+Collected 197 Reddit posts/comments mentioning keywords
+[2025-03-09 11:32:15] Running sentiment analysis...
+[nltk_data] Downloading package vader_lexicon to
+[nltk_data]     /Users/austinho/nltk_data...
+[nltk_data]   Package vader_lexicon is already up-to-date!
+Downloading VADER lexicon...
+Analyzing sentiment for /Users/austinho/sentiment-aggregator/data/reddit_mentions_2025-03-09.csv...
+Running VADER sentiment analysis...
+Running TextBlob sentiment analysis...
+Determining overall sentiment...
+Saved sentiment analysis to /Users/austinho/sentiment-aggregator/data/reddit_mentions_2025-03-09_with_sentiment.csv
+Sentiment analysis completed for 1 files.
+[2025-03-09 11:32:15] Aggregating data...
+Processing /Users/austinho/sentiment-aggregator/data/reddit_mentions_2025-03-09_with_sentiment.csv...
+Aggregated data saved to /Users/austinho/sentiment-aggregator/data/aggregated_data_2025-03-09.csv
+JSON data saved to /Users/austinho/sentiment-aggregator/data/aggregated_data_2025-03-09.json
+[2025-03-09 11:32:15] Data update completed.
+[2025-03-09 11:44:10] Starting data update...
+[2025-03-09 11:44:10] Running Twitter scraper...
+Using Twitter API v2
+Error searching tweets: 429 Too Many Requests
+Too Many Requests
+No tweets to save.
+Collected 0 tweets mentioning 'windsurf' and 'codeium'
+[2025-03-09 11:44:10] Running Reddit scraper...
+Searching in r/programming...
+Searching in r/webdev...
+Searching in r/devops...
+Searching in r/javascript...
+Searching in r/Python...
+Searching in r/coding...
+Searching in r/learnprogramming...
+Searching in r/AskProgramming...
+Searching in r/techsupport...
+Searching in r/technology...
+Searching in r/compsci...
+Searching in r/computerscience...
+Searching in r/softwareengineering...
+Searching in r/ITCareerQuestions...
+Searching in r/codeium...
+Searching in r/vscode...
+Searching in r/vim...
+Searching in r/emacs...
+Searching in r/IDEs...
+Searching in r/ChatGPTCoding...
+Searching in r/WindsurfAI...
+Searching in r/ChatGPT...
+Searching in r/OpenAI...
+Searching in r/GPT4...
+Error searching Reddit: received 403 HTTP response
+Updated /Users/austinho/sentiment-aggregator/data/reddit_mentions_2025-03-09.csv with 197 new Reddit items. Total: 197
+Collected 197 Reddit posts/comments mentioning keywords
+[2025-03-09 11:44:10] Running sentiment analysis...
+[nltk_data] Downloading package vader_lexicon to
+[nltk_data]     /Users/austinho/nltk_data...
+[nltk_data]   Package vader_lexicon is already up-to-date!
+Downloading VADER lexicon...
+Analyzing sentiment for /Users/austinho/sentiment-aggregator/data/reddit_mentions_2025-03-09.csv...
+Running VADER sentiment analysis...
+Running TextBlob sentiment analysis...
+Determining overall sentiment...
+Saved sentiment analysis to /Users/austinho/sentiment-aggregator/data/reddit_mentions_2025-03-09_with_sentiment.csv
+Sentiment analysis completed for 1 files.
+[2025-03-09 11:44:10] Aggregating data...
+Processing /Users/austinho/sentiment-aggregator/data/reddit_mentions_2025-03-09_with_sentiment.csv...
+Aggregated data saved to /Users/austinho/sentiment-aggregator/data/aggregated_data_2025-03-09.csv
+JSON data saved to /Users/austinho/sentiment-aggregator/data/aggregated_data_2025-03-09.json
+[2025-03-09 11:44:10] Data update completed.
+[2025-03-13 02:00:01] Starting data update...
+[2025-03-13 02:00:01] Running Twitter scraper...
+Using Twitter API v2
+Error searching tweets: 429 Too Many Requests
+Usage cap exceeded: Monthly product cap
+No tweets to save.
+Collected 0 tweets mentioning 'windsurf' and 'codeium'
+[2025-03-13 02:00:01] Running Reddit scraper...
+
+--- Collecting Copilot mentions ---
+Keywords: ['github copilot', 'copilot', 'copilot x', 'microsoft copilot', 'gh copilot']
+Subreddits: ['github', 'vscode', 'programming', 'coding', 'learnprogramming', 'MachineLearning', 'webdev', 'javascript', 'computerscience', 'artificial', 'VSCodeExtensions', 'code']
+Searching in r/github... (1/12)
+Collected 17 posts and 23 comments from r/github
+Searching in r/vscode... (2/12)
+Collected 32 posts and 83 comments from r/vscode
+Searching in r/programming... (3/12)
+Collected 6 posts and 41 comments from r/programming
+Searching in r/coding... (4/12)
+Collected 1 posts and 1 comments from r/coding
+Searching in r/learnprogramming... (5/12)
+Collected 9 posts and 33 comments from r/learnprogramming
+Searching in r/MachineLearning... (6/12)
+Collected 0 posts and 1 comments from r/MachineLearning
+Searching in r/webdev... (7/12)
+Collected 12 posts and 24 comments from r/webdev
+Searching in r/javascript... (8/12)
+Collected 0 posts and 0 comments from r/javascript
+Searching in r/computerscience... (9/12)
+Collected 0 posts and 0 comments from r/computerscience
+Searching in r/artificial... (10/12)
+Collected 5 posts and 4 comments from r/artificial
+Searching in r/VSCodeExtensions... (11/12)
+Collected 0 posts and 0 comments from r/VSCodeExtensions
+Searching in r/code... (12/12)
+Collected 0 posts and 0 comments from r/code
+Found 292 posts/comments for copilot
+Created /Users/austinho/sentiment-aggregator/data/copilot_mentions_2025-03-13.csv with 292 Reddit items.
+Collected 292 Reddit posts/comments mentioning copilot
+
+--- Collecting Cursor mentions ---
+Keywords: ['cursor', 'cursor.so', 'cursor ai', 'cursor editor', 'cursor.sh']
+Subreddits: ['programming', 'webdev', 'javascript', 'Python', 'coding', 'learnprogramming', 'AskProgramming', 'developertools', 'codeeditors', 'cursor']
+Searching in r/programming... (1/10)
+Collected 5 posts and 10 comments from r/programming
+Searching in r/webdev... (2/10)
+Collected 28 posts and 44 comments from r/webdev
+Searching in r/javascript... (3/10)
+Collected 0 posts and 0 comments from r/javascript
+Searching in r/Python... (4/10)
+Collected 1 posts and 11 comments from r/Python
+Searching in r/coding... (5/10)
+Collected 2 posts and 0 comments from r/coding
+Searching in r/learnprogramming... (6/10)
+Collected 8 posts and 30 comments from r/learnprogramming
+Searching in r/AskProgramming... (7/10)
+Collected 6 posts and 4 comments from r/AskProgramming
+Searching in r/developertools... (8/10)
+  ⚠️ Error searching submissions in r/developertools: received 404 HTTP response
+Collected 0 posts and 0 comments from r/developertools
+Searching in r/codeeditors... (9/10)
+  ⚠️ Error searching submissions in r/codeeditors: Redirect to /subreddits/search
+Collected 0 posts and 0 comments from r/codeeditors
+Searching in r/cursor... (10/10)
+Collected 100 posts and 1326 comments from r/cursor
+Found 1575 posts/comments for cursor
+Created /Users/austinho/sentiment-aggregator/data/cursor_mentions_2025-03-13.csv with 1575 Reddit items.
+Collected 1575 Reddit posts/comments mentioning cursor
+
+--- Collecting Lovable mentions ---
+Keywords: ['lovable', 'lovable.ai', 'lovable editor', 'lovable code', 'lovable assistant']
+Subreddits: ['programming', 'webdev', 'javascript', 'Python', 'coding', 'learnprogramming', 'AskProgramming', 'Supabase', 'codeeditors', 'developertools']
+Searching in r/programming... (1/10)
+Collected 0 posts and 1 comments from r/programming
+Searching in r/webdev... (2/10)
+Collected 3 posts and 2 comments from r/webdev
+Searching in r/javascript... (3/10)
+Collected 0 posts and 0 comments from r/javascript
+Searching in r/Python... (4/10)
+Collected 0 posts and 0 comments from r/Python
+Searching in r/coding... (5/10)
+Collected 1 posts and 0 comments from r/coding
+Searching in r/learnprogramming... (6/10)
+Collected 1 posts and 0 comments from r/learnprogramming
+Searching in r/AskProgramming... (7/10)
+Collected 0 posts and 0 comments from r/AskProgramming
+Searching in r/Supabase... (8/10)
+Collected 5 posts and 8 comments from r/Supabase
+Searching in r/codeeditors... (9/10)
+  ⚠️ Error searching submissions in r/codeeditors: Redirect to /subreddits/search
+Collected 0 posts and 0 comments from r/codeeditors
+Searching in r/developertools... (10/10)
+  ⚠️ Error searching submissions in r/developertools: received 404 HTTP response
+Collected 0 posts and 0 comments from r/developertools
+Found 21 posts/comments for lovable
+Created /Users/austinho/sentiment-aggregator/data/lovable_mentions_2025-03-13.csv with 21 Reddit items.
+Collected 21 Reddit posts/comments mentioning lovable
+
+--- Collecting Devin mentions ---
+Keywords: ['devin ai', 'devin', 'cognition labs', 'cognition ai', 'dev assistant', 'ai developer', 'ai coding assistant', 'autonomous developer', 'autonomous agent']
+Subreddits: ['programming', 'learnprogramming', 'MachineLearning', 'coding', 'Python', 'javascript', 'webdev', 'computerscience', 'ArtificialIntelligence', 'singularity', 'technology', 'futurology', 'softwareengineering', 'artificialintelligence', 'OpenAI', 'MLQuestions', 'AIdev', 'ChatGPT', 'GPT', 'llm']
+Searching in r/programming... (1/20)
+Collected 2 posts and 0 comments from r/programming
+Searching in r/learnprogramming... (2/20)
+Collected 0 posts and 0 comments from r/learnprogramming
+Searching in r/MachineLearning... (3/20)
+Collected 0 posts and 0 comments from r/MachineLearning
+Searching in r/coding... (4/20)
+Collected 1 posts and 0 comments from r/coding
+Searching in r/Python... (5/20)
+Collected 1 posts and 0 comments from r/Python
+Searching in r/javascript... (6/20)
+Collected 0 posts and 0 comments from r/javascript
+Searching in r/webdev... (7/20)
+Collected 0 posts and 0 comments from r/webdev
+Searching in r/computerscience... (8/20)
+Collected 0 posts and 0 comments from r/computerscience
+Searching in r/ArtificialIntelligence... (9/20)
+  ⚠️ Error searching submissions in r/ArtificialIntelligence: received 404 HTTP response
+Collected 0 posts and 0 comments from r/ArtificialIntelligence
+Searching in r/singularity... (10/20)
+Collected 2 posts and 7 comments from r/singularity
+Searching in r/technology... (11/20)
+Collected 0 posts and 0 comments from r/technology
+Searching in r/futurology... (12/20)
+Collected 0 posts and 0 comments from r/futurology
+Searching in r/softwareengineering... (13/20)
+Collected 0 posts and 0 comments from r/softwareengineering
+Searching in r/artificialintelligence... (14/20)
+  ⚠️ Error searching submissions in r/artificialintelligence: received 404 HTTP response
+Collected 0 posts and 0 comments from r/artificialintelligence
+Searching in r/OpenAI... (15/20)
+Collected 4 posts and 3 comments from r/OpenAI
+Searching in r/MLQuestions... (16/20)
+Collected 0 posts and 0 comments from r/MLQuestions
+Searching in r/AIdev... (17/20)
+Collected 0 posts and 0 comments from r/AIdev
+Searching in r/ChatGPT... (18/20)
+Collected 11 posts and 0 comments from r/ChatGPT
+Searching in r/GPT... (19/20)
+Collected 0 posts and 0 comments from r/GPT
+Searching in r/llm... (20/20)
+Collected 0 posts and 0 comments from r/llm
+Found 31 posts/comments for devin
+Created /Users/austinho/sentiment-aggregator/data/devin_mentions_2025-03-13.csv with 31 Reddit items.
+Collected 31 Reddit posts/comments mentioning devin
+
+--- Collecting Cody mentions ---
+Keywords: ['sourcegraph cody', 'cody ai', 'sourcegraph', 'cody assistant', 'cody code']
+Subreddits: ['programming', 'webdev', 'javascript', 'Python', 'coding', 'sourcegraph', 'AskProgramming', 'vscode', 'codeeditors', 'developertools']
+Searching in r/programming... (1/10)
+Collected 0 posts and 0 comments from r/programming
+Searching in r/webdev... (2/10)
+Collected 0 posts and 0 comments from r/webdev
+Searching in r/javascript... (3/10)
+Collected 0 posts and 0 comments from r/javascript
+Searching in r/Python... (4/10)
+Collected 0 posts and 0 comments from r/Python
+Searching in r/coding... (5/10)
+Collected 0 posts and 0 comments from r/coding
+Searching in r/sourcegraph... (6/10)
+Collected 1 posts and 0 comments from r/sourcegraph
+Searching in r/AskProgramming... (7/10)
+Collected 0 posts and 0 comments from r/AskProgramming
+Searching in r/vscode... (8/10)
+Collected 1 posts and 1 comments from r/vscode
+Searching in r/codeeditors... (9/10)
+  ⚠️ Error searching submissions in r/codeeditors: Redirect to /subreddits/search
+Collected 0 posts and 0 comments from r/codeeditors
+Searching in r/developertools... (10/10)
+  ⚠️ Error searching submissions in r/developertools: received 404 HTTP response
+Collected 0 posts and 0 comments from r/developertools
+Found 3 posts/comments for cody
+Created /Users/austinho/sentiment-aggregator/data/cody_mentions_2025-03-13.csv with 3 Reddit items.
+Collected 3 Reddit posts/comments mentioning cody
+
+--- Special search for Devin AI content ---
+Searching for Devin in r/artificial with query: Devin AI autonomous developer
+Searching for Devin in r/AINews with query: Devin AI autonomous developer
+Searching for Devin in r/technews with query: Devin AI autonomous developer
+Searching for Devin in r/tech with query: Devin AI autonomous developer
+Searching for Devin in r/agi with query: Devin AI autonomous developer
+Searching for Devin in r/machinelearning with query: Devin AI autonomous developer
+Searching for Devin in r/deeplearning with query: Devin AI autonomous developer
+Searching for Devin in r/computervision with query: Devin AI autonomous developer
+Searching for Devin in r/nlproc with query: Devin AI autonomous developer
+Searching for Devin in r/LanguageTechnology with query: Devin AI autonomous developer
+Searching for Devin in r/generative with query: Devin AI autonomous developer
+Searching for Devin in r/AIGeneratedContent with query: Devin AI autonomous developer
+Error searching r/AIGeneratedContent for Devin: received 404 HTTP response
+Searching for Devin in r/artificial with query: Cognition Labs Devin
+Searching for Devin in r/AINews with query: Cognition Labs Devin
+Searching for Devin in r/technews with query: Cognition Labs Devin
+Searching for Devin in r/tech with query: Cognition Labs Devin
+Searching for Devin in r/agi with query: Cognition Labs Devin
+Searching for Devin in r/machinelearning with query: Cognition Labs Devin
+Searching for Devin in r/deeplearning with query: Cognition Labs Devin
+Searching for Devin in r/computervision with query: Cognition Labs Devin
+Searching for Devin in r/nlproc with query: Cognition Labs Devin
+Searching for Devin in r/LanguageTechnology with query: Cognition Labs Devin
+Searching for Devin in r/generative with query: Cognition Labs Devin
+Searching for Devin in r/AIGeneratedContent with query: Cognition Labs Devin
+Error searching r/AIGeneratedContent for Devin: received 404 HTTP response
+Searching for Devin in r/artificial with query: AI that can code entire projects
+Searching for Devin in r/AINews with query: AI that can code entire projects
+Searching for Devin in r/technews with query: AI that can code entire projects
+Searching for Devin in r/tech with query: AI that can code entire projects
+Searching for Devin in r/agi with query: AI that can code entire projects
+Searching for Devin in r/machinelearning with query: AI that can code entire projects
+Searching for Devin in r/deeplearning with query: AI that can code entire projects
+Searching for Devin in r/computervision with query: AI that can code entire projects
+Searching for Devin in r/nlproc with query: AI that can code entire projects
+Searching for Devin in r/LanguageTechnology with query: AI that can code entire projects
+Searching for Devin in r/generative with query: AI that can code entire projects
+Searching for Devin in r/AIGeneratedContent with query: AI that can code entire projects
+Error searching r/AIGeneratedContent for Devin: received 404 HTTP response
+Searching for Devin in r/artificial with query: autonomous AI developer
+Searching for Devin in r/AINews with query: autonomous AI developer
+Searching for Devin in r/technews with query: autonomous AI developer
+Searching for Devin in r/tech with query: autonomous AI developer
+Searching for Devin in r/agi with query: autonomous AI developer
+Searching for Devin in r/machinelearning with query: autonomous AI developer
+Searching for Devin in r/deeplearning with query: autonomous AI developer
+Searching for Devin in r/computervision with query: autonomous AI developer
+Searching for Devin in r/nlproc with query: autonomous AI developer
+Searching for Devin in r/LanguageTechnology with query: autonomous AI developer
+Searching for Devin in r/generative with query: autonomous AI developer
+Searching for Devin in r/AIGeneratedContent with query: autonomous AI developer
+Error searching r/AIGeneratedContent for Devin: received 404 HTTP response
+Searching for Devin in r/artificial with query: AI developer assistant full projects
+Searching for Devin in r/AINews with query: AI developer assistant full projects
+Searching for Devin in r/technews with query: AI developer assistant full projects
+Searching for Devin in r/tech with query: AI developer assistant full projects
+Searching for Devin in r/agi with query: AI developer assistant full projects
+Searching for Devin in r/machinelearning with query: AI developer assistant full projects
+Searching for Devin in r/deeplearning with query: AI developer assistant full projects
+Searching for Devin in r/computervision with query: AI developer assistant full projects
+Searching for Devin in r/nlproc with query: AI developer assistant full projects
+Searching for Devin in r/LanguageTechnology with query: AI developer assistant full projects
+Searching for Devin in r/generative with query: AI developer assistant full projects
+Searching for Devin in r/AIGeneratedContent with query: AI developer assistant full projects
+Error searching r/AIGeneratedContent for Devin: received 404 HTTP response
+Searching for Devin in r/artificial with query: AI developer agent
+Searching for Devin in r/AINews with query: AI developer agent
+Searching for Devin in r/technews with query: AI developer agent
+Searching for Devin in r/tech with query: AI developer agent
+Searching for Devin in r/agi with query: AI developer agent
+Searching for Devin in r/machinelearning with query: AI developer agent
+Searching for Devin in r/deeplearning with query: AI developer agent
+Searching for Devin in r/computervision with query: AI developer agent
+Searching for Devin in r/nlproc with query: AI developer agent
+Searching for Devin in r/LanguageTechnology with query: AI developer agent
+Searching for Devin in r/generative with query: AI developer agent
+Searching for Devin in r/AIGeneratedContent with query: AI developer agent
+Error searching r/AIGeneratedContent for Devin: received 404 HTTP response
+Found 103 additional posts/comments mentioning Devin
+Total Devin mentions after special search: 134
+Updated /Users/austinho/sentiment-aggregator/data/devin_mentions_2025-03-13.csv with 134 new Reddit items. Total: 108
+
+--- Collecting data for main dashboard ---
+Searching in r/programming... (1/15)
+Collected 0 posts and 0 comments from r/programming
+Searching in r/webdev... (2/15)
+Collected 2 posts and 7 comments from r/webdev
+Searching in r/devops... (3/15)
+Collected 0 posts and 0 comments from r/devops
+Searching in r/javascript... (4/15)
+Collected 0 posts and 0 comments from r/javascript
+Searching in r/Python... (5/15)
+Collected 0 posts and 0 comments from r/Python
+Searching in r/coding... (6/15)
+Collected 0 posts and 0 comments from r/coding
+Searching in r/learnprogramming... (7/15)
+Collected 0 posts and 0 comments from r/learnprogramming
+Searching in r/AskProgramming... (8/15)
+Collected 1 posts and 0 comments from r/AskProgramming
+Searching in r/codeium... (9/15)
+Collected 58 posts and 129 comments from r/codeium
+Searching in r/vscode... (10/15)
+Collected 1 posts and 0 comments from r/vscode
+Searching in r/vim... (11/15)
+Collected 0 posts and 0 comments from r/vim
+Searching in r/emacs... (12/15)
+Collected 1 posts and 0 comments from r/emacs
+Searching in r/IDEs... (13/15)
+Collected 0 posts and 0 comments from r/IDEs
+Searching in r/ChatGPTCoding... (14/15)
+Collected 12 posts and 10 comments from r/ChatGPTCoding
+Searching in r/WindsurfAI... (15/15)
+Collected 0 posts and 1 comments from r/WindsurfAI
+Created /Users/austinho/sentiment-aggregator/data/reddit_mentions_2025-03-13.csv with 222 Reddit items.
+
+Data collection complete!
+[2025-03-13 02:00:01] Running sentiment analysis...
+[nltk_data] Downloading package vader_lexicon to
+[nltk_data]     /Users/austinho/nltk_data...
+[nltk_data]   Package vader_lexicon is already up-to-date!
+Downloading VADER lexicon...
+Processing sentiment for copilot...
+Analyzing sentiment for /Users/austinho/sentiment-aggregator/data/copilot_mentions_2025-03-13.csv...
+Found 292 items to analyze
+Combining title and text fields...
+Cleaning and preprocessing text...
+Running VADER sentiment analysis...
+VADER analysis: 9% complete (29/292 items)
+VADER analysis: 19% complete (58/292 items)
+VADER analysis: 29% complete (87/292 items)
+VADER analysis: 39% complete (116/292 items)
+VADER analysis: 49% complete (145/292 items)
+VADER analysis: 59% complete (174/292 items)
+VADER analysis: 69% complete (203/292 items)
+VADER analysis: 79% complete (232/292 items)
+VADER analysis: 89% complete (261/292 items)
+VADER analysis: 99% complete (290/292 items)
+VADER analysis: 100% complete (292/292 items)
+Running TextBlob sentiment analysis...
+TextBlob analysis: 9% complete (29/292 items)
+TextBlob analysis: 19% complete (58/292 items)
+TextBlob analysis: 29% complete (87/292 items)
+TextBlob analysis: 39% complete (116/292 items)
+TextBlob analysis: 49% complete (145/292 items)
+TextBlob analysis: 59% complete (174/292 items)
+TextBlob analysis: 69% complete (203/292 items)
+TextBlob analysis: 79% complete (232/292 items)
+TextBlob analysis: 89% complete (261/292 items)
+TextBlob analysis: 99% complete (290/292 items)
+TextBlob analysis: 100% complete (292/292 items)
+Determining overall sentiment classification...
+Sentiment distribution:
+  Positive: 163 items (55.8%)
+  Negative: 76 items (26.0%)
+  Neutral: 53 items (18.2%)
+Saved sentiment analysis to /Users/austinho/sentiment-aggregator/data/copilot_mentions_2025-03-13_with_sentiment.csv
+Processing sentiment for cursor...
+Analyzing sentiment for /Users/austinho/sentiment-aggregator/data/cursor_mentions_2025-03-13.csv...
+Found 1575 items to analyze
+Combining title and text fields...
+Cleaning and preprocessing text...
+Running VADER sentiment analysis...
+VADER analysis: 9% complete (157/1575 items)
+VADER analysis: 19% complete (314/1575 items)
+VADER analysis: 29% complete (471/1575 items)
+VADER analysis: 39% complete (628/1575 items)
+VADER analysis: 49% complete (785/1575 items)
+VADER analysis: 59% complete (942/1575 items)
+VADER analysis: 69% complete (1099/1575 items)
+VADER analysis: 79% complete (1256/1575 items)
+VADER analysis: 89% complete (1413/1575 items)
+VADER analysis: 99% complete (1570/1575 items)
+VADER analysis: 100% complete (1575/1575 items)
+Running TextBlob sentiment analysis...
+TextBlob analysis: 9% complete (157/1575 items)
+TextBlob analysis: 19% complete (314/1575 items)
+TextBlob analysis: 29% complete (471/1575 items)
+TextBlob analysis: 39% complete (628/1575 items)
+TextBlob analysis: 49% complete (785/1575 items)
+TextBlob analysis: 59% complete (942/1575 items)
+TextBlob analysis: 69% complete (1099/1575 items)
+TextBlob analysis: 79% complete (1256/1575 items)
+TextBlob analysis: 89% complete (1413/1575 items)
+TextBlob analysis: 99% complete (1570/1575 items)
+TextBlob analysis: 100% complete (1575/1575 items)
+Determining overall sentiment classification...
+Sentiment distribution:
+  Positive: 1008 items (64.0%)
+  Negative: 336 items (21.3%)
+  Neutral: 231 items (14.7%)
+Saved sentiment analysis to /Users/austinho/sentiment-aggregator/data/cursor_mentions_2025-03-13_with_sentiment.csv
+Processing sentiment for lovable...
+Analyzing sentiment for /Users/austinho/sentiment-aggregator/data/lovable_mentions_2025-03-13.csv...
+Found 21 items to analyze
+Combining title and text fields...
+Cleaning and preprocessing text...
+Running VADER sentiment analysis...
+VADER analysis: 9% complete (2/21 items)
+VADER analysis: 19% complete (4/21 items)
+VADER analysis: 28% complete (6/21 items)
+VADER analysis: 38% complete (8/21 items)
+VADER analysis: 47% complete (10/21 items)
+VADER analysis: 57% complete (12/21 items)
+VADER analysis: 66% complete (14/21 items)
+VADER analysis: 76% complete (16/21 items)
+VADER analysis: 85% complete (18/21 items)
+VADER analysis: 95% complete (20/21 items)
+VADER analysis: 100% complete (21/21 items)
+Running TextBlob sentiment analysis...
+TextBlob analysis: 9% complete (2/21 items)
+TextBlob analysis: 19% complete (4/21 items)
+TextBlob analysis: 28% complete (6/21 items)
+TextBlob analysis: 38% complete (8/21 items)
+TextBlob analysis: 47% complete (10/21 items)
+TextBlob analysis: 57% complete (12/21 items)
+TextBlob analysis: 66% complete (14/21 items)
+TextBlob analysis: 76% complete (16/21 items)
+TextBlob analysis: 85% complete (18/21 items)
+TextBlob analysis: 95% complete (20/21 items)
+TextBlob analysis: 100% complete (21/21 items)
+Determining overall sentiment classification...
+Sentiment distribution:
+  Positive: 20 items (95.2%)
+  Negative: 1 items (4.8%)
+Saved sentiment analysis to /Users/austinho/sentiment-aggregator/data/lovable_mentions_2025-03-13_with_sentiment.csv
+Processing sentiment for devin...
+Analyzing sentiment for /Users/austinho/sentiment-aggregator/data/devin_mentions_2025-03-13.csv...
+Found 108 items to analyze
+Combining title and text fields...
+Cleaning and preprocessing text...
+Running VADER sentiment analysis...
+VADER analysis: 9% complete (10/108 items)
+VADER analysis: 18% complete (20/108 items)
+VADER analysis: 27% complete (30/108 items)
+VADER analysis: 37% complete (40/108 items)
+VADER analysis: 46% complete (50/108 items)
+VADER analysis: 55% complete (60/108 items)
+VADER analysis: 64% complete (70/108 items)
+VADER analysis: 74% complete (80/108 items)
+VADER analysis: 83% complete (90/108 items)
+VADER analysis: 92% complete (100/108 items)
+VADER analysis: 100% complete (108/108 items)
+Running TextBlob sentiment analysis...
+TextBlob analysis: 9% complete (10/108 items)
+TextBlob analysis: 18% complete (20/108 items)
+TextBlob analysis: 27% complete (30/108 items)
+TextBlob analysis: 37% complete (40/108 items)
+TextBlob analysis: 46% complete (50/108 items)
+TextBlob analysis: 55% complete (60/108 items)
+TextBlob analysis: 64% complete (70/108 items)
+TextBlob analysis: 74% complete (80/108 items)
+TextBlob analysis: 83% complete (90/108 items)
+TextBlob analysis: 92% complete (100/108 items)
+TextBlob analysis: 100% complete (108/108 items)
+Determining overall sentiment classification...
+Sentiment distribution:
+  Positive: 72 items (66.7%)
+  Negative: 22 items (20.4%)
+  Neutral: 14 items (13.0%)
+Saved sentiment analysis to /Users/austinho/sentiment-aggregator/data/devin_mentions_2025-03-13_with_sentiment.csv
+Processing sentiment for cody...
+Analyzing sentiment for /Users/austinho/sentiment-aggregator/data/cody_mentions_2025-03-13.csv...
+Found 3 items to analyze
+Combining title and text fields...
+Cleaning and preprocessing text...
+Running VADER sentiment analysis...
+VADER analysis: 33% complete (1/3 items)
+VADER analysis: 66% complete (2/3 items)
+VADER analysis: 100% complete (3/3 items)
+Running TextBlob sentiment analysis...
+TextBlob analysis: 33% complete (1/3 items)
+TextBlob analysis: 66% complete (2/3 items)
+TextBlob analysis: 100% complete (3/3 items)
+Determining overall sentiment classification...
+Sentiment distribution:
+  Positive: 2 items (66.7%)
+  Neutral: 1 items (33.3%)
+Saved sentiment analysis to /Users/austinho/sentiment-aggregator/data/cody_mentions_2025-03-13_with_sentiment.csv
+No file for today found for codeium. Processing codeium_mentions_2025-03-09_with_sentiment.csv...
+Analyzing sentiment for /Users/austinho/sentiment-aggregator/data/codeium_mentions_2025-03-09_with_sentiment.csv...
+Found 183 items to analyze
+Sentiment already analyzed for /Users/austinho/sentiment-aggregator/data/codeium_mentions_2025-03-09_with_sentiment.csv
+Processing main dashboard data...
+Analyzing sentiment for /Users/austinho/sentiment-aggregator/data/reddit_mentions_2025-03-13.csv...
+Found 222 items to analyze
+Combining title and text fields...
+Cleaning and preprocessing text...
+Running VADER sentiment analysis...
+VADER analysis: 9% complete (22/222 items)
+VADER analysis: 19% complete (44/222 items)
+VADER analysis: 29% complete (66/222 items)
+VADER analysis: 39% complete (88/222 items)
+VADER analysis: 49% complete (110/222 items)
+VADER analysis: 59% complete (132/222 items)
+VADER analysis: 69% complete (154/222 items)
+VADER analysis: 79% complete (176/222 items)
+VADER analysis: 89% complete (198/222 items)
+VADER analysis: 99% complete (220/222 items)
+VADER analysis: 100% complete (222/222 items)
+Running TextBlob sentiment analysis...
+TextBlob analysis: 9% complete (22/222 items)
+TextBlob analysis: 19% complete (44/222 items)
+TextBlob analysis: 29% complete (66/222 items)
+TextBlob analysis: 39% complete (88/222 items)
+TextBlob analysis: 49% complete (110/222 items)
+TextBlob analysis: 59% complete (132/222 items)
+TextBlob analysis: 69% complete (154/222 items)
+TextBlob analysis: 79% complete (176/222 items)
+TextBlob analysis: 89% complete (198/222 items)
+TextBlob analysis: 99% complete (220/222 items)
+TextBlob analysis: 100% complete (222/222 items)
+Determining overall sentiment classification...
+Sentiment distribution:
+  Positive: 147 items (66.2%)
+  Negative: 51 items (23.0%)
+  Neutral: 24 items (10.8%)
+Saved sentiment analysis to /Users/austinho/sentiment-aggregator/data/reddit_mentions_2025-03-13_with_sentiment.csv
+[2025-03-13 02:00:01] Aggregating data...
+Processing copilot data from copilot_mentions_2025-03-13_with_sentiment.csv...
+Processing cursor data from cursor_mentions_2025-03-13_with_sentiment.csv...
+Processing lovable data from lovable_mentions_2025-03-13_with_sentiment.csv...
+Processing devin data from devin_mentions_2025-03-13_with_sentiment.csv...
+Processing cody data from cody_mentions_2025-03-13_with_sentiment.csv...
+Processing codeium data from codeium_mentions_2025-03-09_with_sentiment.csv...
+Processing main dashboard data from reddit_mentions_2025-03-13_with_sentiment.csv...
+Combining all data sources...
+Sorting by date (newest first)...
+
+Data Summary:
+Copilot items: 292
+Cursor items: 1575
+Lovable items: 21
+Devin items: 108
+Cody items: 3
+Codeium items: 183
+Dashboard items: 222
+Total items after aggregation: 2404
+
+Sentiment distribution:
+  Positive: 1528 items (63.6%)
+  Negative: 530 items (22.0%)
+  Neutral: 346 items (14.4%)
+Aggregated data saved to /Users/austinho/sentiment-aggregator/data/aggregated_data_2025-03-13.csv
+Creating JSON version of the data...
+JSON data saved to /Users/austinho/sentiment-aggregator/data/aggregated_data_2025-03-13.json
+[2025-03-13 02:00:01] Data update completed.
+[2025-03-16 02:00:00] Starting data update...
+[2025-03-16 02:00:00] Running Twitter scraper...
+Using Twitter API v2
+Error searching tweets: 429 Too Many Requests
+Usage cap exceeded: Monthly product cap
+No tweets to save.
+Collected 0 tweets mentioning 'windsurf' and 'codeium'
+[2025-03-16 02:00:00] Running Reddit scraper...
+
+--- Collecting Copilot mentions ---
+Keywords: ['github copilot', 'copilot', 'copilot x', 'microsoft copilot', 'gh copilot']
+Subreddits: ['github', 'vscode', 'programming', 'coding', 'learnprogramming', 'MachineLearning', 'webdev', 'javascript', 'computerscience', 'artificial', 'VSCodeExtensions', 'code']
+Searching in r/github... (1/12)
+Collected 14 posts and 23 comments from r/github
+Searching in r/vscode... (2/12)
+Collected 30 posts and 88 comments from r/vscode
+Searching in r/programming... (3/12)
+Collected 5 posts and 28 comments from r/programming
+Searching in r/coding... (4/12)
+Collected 1 posts and 1 comments from r/coding
+Searching in r/learnprogramming... (5/12)
+Collected 9 posts and 36 comments from r/learnprogramming
+Searching in r/MachineLearning... (6/12)
+Collected 0 posts and 0 comments from r/MachineLearning
+Searching in r/webdev... (7/12)
+Collected 10 posts and 26 comments from r/webdev
+Searching in r/javascript... (8/12)
+Collected 0 posts and 0 comments from r/javascript
+Searching in r/computerscience... (9/12)
+Collected 0 posts and 0 comments from r/computerscience
+Searching in r/artificial... (10/12)
+Collected 7 posts and 5 comments from r/artificial
+Searching in r/VSCodeExtensions... (11/12)
+Collected 0 posts and 0 comments from r/VSCodeExtensions
+Searching in r/code... (12/12)
+Collected 0 posts and 0 comments from r/code
+Found 283 posts/comments for copilot
+Created /Users/austinho/sentiment-aggregator/data/copilot_mentions_2025-03-16.csv with 283 Reddit items.
+Collected 283 Reddit posts/comments mentioning copilot
+
+--- Collecting Cursor mentions ---
+Keywords: ['cursor', 'cursor.so', 'cursor ai', 'cursor editor', 'cursor.sh']
+Subreddits: ['programming', 'webdev', 'javascript', 'Python', 'coding', 'learnprogramming', 'AskProgramming', 'developertools', 'codeeditors', 'cursor']
+Searching in r/programming... (1/10)
+Collected 6 posts and 10 comments from r/programming
+Searching in r/webdev... (2/10)
+Collected 27 posts and 45 comments from r/webdev
+Searching in r/javascript... (3/10)
+Collected 0 posts and 0 comments from r/javascript
+Searching in r/Python... (4/10)
+Collected 2 posts and 10 comments from r/Python
+Searching in r/coding... (5/10)
+Collected 3 posts and 0 comments from r/coding
+Searching in r/learnprogramming... (6/10)
+Collected 11 posts and 32 comments from r/learnprogramming
+Searching in r/AskProgramming... (7/10)
+Collected 5 posts and 4 comments from r/AskProgramming
+Searching in r/developertools... (8/10)
+  ⚠️ Error searching submissions in r/developertools: received 404 HTTP response
+Collected 0 posts and 0 comments from r/developertools
+Searching in r/codeeditors... (9/10)
+  ⚠️ Error searching submissions in r/codeeditors: Redirect to /subreddits/search
+Collected 0 posts and 0 comments from r/codeeditors
+Searching in r/cursor... (10/10)
+Collected 100 posts and 1375 comments from r/cursor
+Found 1630 posts/comments for cursor
+Created /Users/austinho/sentiment-aggregator/data/cursor_mentions_2025-03-16.csv with 1630 Reddit items.
+Collected 1630 Reddit posts/comments mentioning cursor
+
+--- Collecting Lovable mentions ---
+Keywords: ['lovable', 'lovable.ai', 'lovable editor', 'lovable code', 'lovable assistant']
+Subreddits: ['programming', 'webdev', 'javascript', 'Python', 'coding', 'learnprogramming', 'AskProgramming', 'Supabase', 'codeeditors', 'developertools']
+Searching in r/programming... (1/10)
+Collected 0 posts and 1 comments from r/programming
+Searching in r/webdev... (2/10)
+Collected 3 posts and 2 comments from r/webdev
+Searching in r/javascript... (3/10)
+Collected 0 posts and 0 comments from r/javascript
+Searching in r/Python... (4/10)
+Collected 0 posts and 0 comments from r/Python
+Searching in r/coding... (5/10)
+Collected 1 posts and 0 comments from r/coding
+Searching in r/learnprogramming... (6/10)
+Collected 2 posts and 0 comments from r/learnprogramming
+Searching in r/AskProgramming... (7/10)
+Collected 0 posts and 0 comments from r/AskProgramming
+Searching in r/Supabase... (8/10)
+Collected 5 posts and 8 comments from r/Supabase
+Searching in r/codeeditors... (9/10)
+  ⚠️ Error searching submissions in r/codeeditors: Redirect to /subreddits/search
+Collected 0 posts and 0 comments from r/codeeditors
+Searching in r/developertools... (10/10)
+  ⚠️ Error searching submissions in r/developertools: received 404 HTTP response
+Collected 0 posts and 0 comments from r/developertools
+Found 22 posts/comments for lovable
+Created /Users/austinho/sentiment-aggregator/data/lovable_mentions_2025-03-16.csv with 22 Reddit items.
+Collected 22 Reddit posts/comments mentioning lovable
+
+--- Collecting Devin mentions ---
+Keywords: ['devin ai', 'devin', 'cognition labs', 'cognition ai', 'dev assistant', 'ai developer', 'ai coding assistant', 'autonomous developer', 'autonomous agent']
+Subreddits: ['programming', 'learnprogramming', 'MachineLearning', 'coding', 'Python', 'javascript', 'webdev', 'computerscience', 'ArtificialIntelligence', 'singularity', 'technology', 'futurology', 'softwareengineering', 'artificialintelligence', 'OpenAI', 'MLQuestions', 'AIdev', 'ChatGPT', 'GPT', 'llm']
+Searching in r/programming... (1/20)
+Collected 2 posts and 0 comments from r/programming
+Searching in r/learnprogramming... (2/20)
+Collected 0 posts and 0 comments from r/learnprogramming
+Searching in r/MachineLearning... (3/20)
+Collected 0 posts and 0 comments from r/MachineLearning
+Searching in r/coding... (4/20)
+Collected 1 posts and 0 comments from r/coding
+Searching in r/Python... (5/20)
+Collected 2 posts and 0 comments from r/Python
+Searching in r/javascript... (6/20)
+Collected 0 posts and 0 comments from r/javascript
+Searching in r/webdev... (7/20)
+Collected 0 posts and 0 comments from r/webdev
+Searching in r/computerscience... (8/20)
+Collected 0 posts and 0 comments from r/computerscience
+Searching in r/ArtificialIntelligence... (9/20)
+  ⚠️ Error searching submissions in r/ArtificialIntelligence: received 404 HTTP response
+Collected 0 posts and 0 comments from r/ArtificialIntelligence
+Searching in r/singularity... (10/20)
+Collected 2 posts and 3 comments from r/singularity
+Searching in r/technology... (11/20)
+Collected 2 posts and 1 comments from r/technology
+Searching in r/futurology... (12/20)
+Collected 0 posts and 0 comments from r/futurology
+Searching in r/softwareengineering... (13/20)
+Collected 0 posts and 0 comments from r/softwareengineering
+Searching in r/artificialintelligence... (14/20)
+  ⚠️ Error searching submissions in r/artificialintelligence: received 404 HTTP response
+Collected 0 posts and 0 comments from r/artificialintelligence
+Searching in r/OpenAI... (15/20)
+Collected 4 posts and 3 comments from r/OpenAI
+Searching in r/MLQuestions... (16/20)
+Collected 0 posts and 0 comments from r/MLQuestions
+Searching in r/AIdev... (17/20)
+Collected 0 posts and 0 comments from r/AIdev
+Searching in r/ChatGPT... (18/20)
+Collected 10 posts and 0 comments from r/ChatGPT
+Searching in r/GPT... (19/20)
+Collected 0 posts and 0 comments from r/GPT
+Searching in r/llm... (20/20)
+Collected 0 posts and 0 comments from r/llm
+Found 30 posts/comments for devin
+Created /Users/austinho/sentiment-aggregator/data/devin_mentions_2025-03-16.csv with 30 Reddit items.
+Collected 30 Reddit posts/comments mentioning devin
+
+--- Collecting Cody mentions ---
+Keywords: ['sourcegraph cody', 'cody ai', 'sourcegraph', 'cody assistant', 'cody code']
+Subreddits: ['programming', 'webdev', 'javascript', 'Python', 'coding', 'sourcegraph', 'AskProgramming', 'vscode', 'codeeditors', 'developertools']
+Searching in r/programming... (1/10)
+Collected 0 posts and 0 comments from r/programming
+Searching in r/webdev... (2/10)
+Collected 0 posts and 0 comments from r/webdev
+Searching in r/javascript... (3/10)
+Collected 0 posts and 0 comments from r/javascript
+Searching in r/Python... (4/10)
+Collected 0 posts and 0 comments from r/Python
+Searching in r/coding... (5/10)
+Collected 0 posts and 0 comments from r/coding
+Searching in r/sourcegraph... (6/10)
+Collected 0 posts and 1 comments from r/sourcegraph
+Searching in r/AskProgramming... (7/10)
+Collected 0 posts and 0 comments from r/AskProgramming
+Searching in r/vscode... (8/10)
+Collected 1 posts and 1 comments from r/vscode
+Searching in r/codeeditors... (9/10)
+  ⚠️ Error searching submissions in r/codeeditors: Redirect to /subreddits/search
+Collected 0 posts and 0 comments from r/codeeditors
+Searching in r/developertools... (10/10)
+  ⚠️ Error searching submissions in r/developertools: received 404 HTTP response
+Collected 0 posts and 0 comments from r/developertools
+Found 3 posts/comments for cody
+Created /Users/austinho/sentiment-aggregator/data/cody_mentions_2025-03-16.csv with 3 Reddit items.
+Collected 3 Reddit posts/comments mentioning cody
+
+--- Special search for Devin AI content ---
+Searching for Devin in r/artificial with query: Devin AI autonomous developer
+Searching for Devin in r/AINews with query: Devin AI autonomous developer
+Searching for Devin in r/technews with query: Devin AI autonomous developer
+Searching for Devin in r/tech with query: Devin AI autonomous developer
+Searching for Devin in r/agi with query: Devin AI autonomous developer
+Searching for Devin in r/machinelearning with query: Devin AI autonomous developer
+Searching for Devin in r/deeplearning with query: Devin AI autonomous developer
+Searching for Devin in r/computervision with query: Devin AI autonomous developer
+Searching for Devin in r/nlproc with query: Devin AI autonomous developer
+Searching for Devin in r/LanguageTechnology with query: Devin AI autonomous developer
+Searching for Devin in r/generative with query: Devin AI autonomous developer
+Searching for Devin in r/AIGeneratedContent with query: Devin AI autonomous developer
+Error searching r/AIGeneratedContent for Devin: received 404 HTTP response
+Searching for Devin in r/artificial with query: Cognition Labs Devin
+Searching for Devin in r/AINews with query: Cognition Labs Devin
+Searching for Devin in r/technews with query: Cognition Labs Devin
+Searching for Devin in r/tech with query: Cognition Labs Devin
+Searching for Devin in r/agi with query: Cognition Labs Devin
+Searching for Devin in r/machinelearning with query: Cognition Labs Devin
+Searching for Devin in r/deeplearning with query: Cognition Labs Devin
+Searching for Devin in r/computervision with query: Cognition Labs Devin
+Searching for Devin in r/nlproc with query: Cognition Labs Devin
+Searching for Devin in r/LanguageTechnology with query: Cognition Labs Devin
+Searching for Devin in r/generative with query: Cognition Labs Devin
+Searching for Devin in r/AIGeneratedContent with query: Cognition Labs Devin
+Error searching r/AIGeneratedContent for Devin: received 404 HTTP response
+Searching for Devin in r/artificial with query: AI that can code entire projects
+Searching for Devin in r/AINews with query: AI that can code entire projects
+Searching for Devin in r/technews with query: AI that can code entire projects
+Searching for Devin in r/tech with query: AI that can code entire projects
+Searching for Devin in r/agi with query: AI that can code entire projects
+Searching for Devin in r/machinelearning with query: AI that can code entire projects
+Searching for Devin in r/deeplearning with query: AI that can code entire projects
+Searching for Devin in r/computervision with query: AI that can code entire projects
+Searching for Devin in r/nlproc with query: AI that can code entire projects
+Searching for Devin in r/LanguageTechnology with query: AI that can code entire projects
+Searching for Devin in r/generative with query: AI that can code entire projects
+Searching for Devin in r/AIGeneratedContent with query: AI that can code entire projects
+Error searching r/AIGeneratedContent for Devin: received 404 HTTP response
+Searching for Devin in r/artificial with query: autonomous AI developer
+Searching for Devin in r/AINews with query: autonomous AI developer
+Searching for Devin in r/technews with query: autonomous AI developer
+Searching for Devin in r/tech with query: autonomous AI developer
+Searching for Devin in r/agi with query: autonomous AI developer
+Searching for Devin in r/machinelearning with query: autonomous AI developer
+Searching for Devin in r/deeplearning with query: autonomous AI developer
+Searching for Devin in r/computervision with query: autonomous AI developer
+Searching for Devin in r/nlproc with query: autonomous AI developer
+Searching for Devin in r/LanguageTechnology with query: autonomous AI developer
+Searching for Devin in r/generative with query: autonomous AI developer
+Searching for Devin in r/AIGeneratedContent with query: autonomous AI developer
+Error searching r/AIGeneratedContent for Devin: received 404 HTTP response
+Searching for Devin in r/artificial with query: AI developer assistant full projects
+Searching for Devin in r/AINews with query: AI developer assistant full projects
+Searching for Devin in r/technews with query: AI developer assistant full projects
+Searching for Devin in r/tech with query: AI developer assistant full projects
+Searching for Devin in r/agi with query: AI developer assistant full projects
+Searching for Devin in r/machinelearning with query: AI developer assistant full projects
+Searching for Devin in r/deeplearning with query: AI developer assistant full projects
+Searching for Devin in r/computervision with query: AI developer assistant full projects
+Searching for Devin in r/nlproc with query: AI developer assistant full projects
+Searching for Devin in r/LanguageTechnology with query: AI developer assistant full projects
+Searching for Devin in r/generative with query: AI developer assistant full projects
+Searching for Devin in r/AIGeneratedContent with query: AI developer assistant full projects
+Error searching r/AIGeneratedContent for Devin: received 404 HTTP response
+Searching for Devin in r/artificial with query: AI developer agent
+Searching for Devin in r/AINews with query: AI developer agent
+Searching for Devin in r/technews with query: AI developer agent
+Searching for Devin in r/tech with query: AI developer agent
+Searching for Devin in r/agi with query: AI developer agent
+Searching for Devin in r/machinelearning with query: AI developer agent
+Searching for Devin in r/deeplearning with query: AI developer agent
+Searching for Devin in r/computervision with query: AI developer agent
+Searching for Devin in r/nlproc with query: AI developer agent
+Searching for Devin in r/LanguageTechnology with query: AI developer agent
+Searching for Devin in r/generative with query: AI developer agent
+Searching for Devin in r/AIGeneratedContent with query: AI developer agent
+Error searching r/AIGeneratedContent for Devin: received 404 HTTP response
+Found 84 additional posts/comments mentioning Devin
+Total Devin mentions after special search: 114
+Updated /Users/austinho/sentiment-aggregator/data/devin_mentions_2025-03-16.csv with 114 new Reddit items. Total: 100
+
+--- Collecting data for main dashboard ---
+Searching in r/programming... (1/15)
+Collected 0 posts and 0 comments from r/programming
+Searching in r/webdev... (2/15)
+Collected 1 posts and 1 comments from r/webdev
+Searching in r/devops... (3/15)
+Collected 0 posts and 0 comments from r/devops
+Searching in r/javascript... (4/15)
+Collected 0 posts and 0 comments from r/javascript
+Searching in r/Python... (5/15)
+Collected 0 posts and 0 comments from r/Python
+Searching in r/coding... (6/15)
+Collected 0 posts and 0 comments from r/coding
+Searching in r/learnprogramming... (7/15)
+Collected 0 posts and 0 comments from r/learnprogramming
+Searching in r/AskProgramming... (8/15)
+Collected 1 posts and 0 comments from r/AskProgramming
+Searching in r/codeium... (9/15)
+Collected 50 posts and 82 comments from r/codeium
+Searching in r/vscode... (10/15)
+Collected 1 posts and 3 comments from r/vscode
+Searching in r/vim... (11/15)
+Collected 0 posts and 0 comments from r/vim
+Searching in r/emacs... (12/15)
+Collected 1 posts and 0 comments from r/emacs
+Searching in r/IDEs... (13/15)
+Collected 0 posts and 0 comments from r/IDEs
+Searching in r/ChatGPTCoding... (14/15)
+Collected 14 posts and 10 comments from r/ChatGPTCoding
+Searching in r/WindsurfAI... (15/15)
+Collected 0 posts and 1 comments from r/WindsurfAI
+Created /Users/austinho/sentiment-aggregator/data/reddit_mentions_2025-03-16.csv with 165 Reddit items.
+
+Data collection complete!
+[2025-03-16 02:00:00] Running sentiment analysis...
+[nltk_data] Downloading package vader_lexicon to
+[nltk_data]     /Users/austinho/nltk_data...
+[nltk_data]   Package vader_lexicon is already up-to-date!
+Downloading VADER lexicon...
+Processing sentiment for copilot...
+Analyzing sentiment for /Users/austinho/sentiment-aggregator/data/copilot_mentions_2025-03-16.csv...
+Found 283 items to analyze
+Combining title and text fields...
+Cleaning and preprocessing text...
+Running VADER sentiment analysis...
+VADER analysis: 9% complete (28/283 items)
+VADER analysis: 19% complete (56/283 items)
+VADER analysis: 29% complete (84/283 items)
+VADER analysis: 39% complete (112/283 items)
+VADER analysis: 49% complete (140/283 items)
+VADER analysis: 59% complete (168/283 items)
+VADER analysis: 69% complete (196/283 items)
+VADER analysis: 79% complete (224/283 items)
+VADER analysis: 89% complete (252/283 items)
+VADER analysis: 98% complete (280/283 items)
+VADER analysis: 100% complete (283/283 items)
+Running TextBlob sentiment analysis...
+TextBlob analysis: 9% complete (28/283 items)
+TextBlob analysis: 19% complete (56/283 items)
+TextBlob analysis: 29% complete (84/283 items)
+TextBlob analysis: 39% complete (112/283 items)
+TextBlob analysis: 49% complete (140/283 items)
+TextBlob analysis: 59% complete (168/283 items)
+TextBlob analysis: 69% complete (196/283 items)
+TextBlob analysis: 79% complete (224/283 items)
+TextBlob analysis: 89% complete (252/283 items)
+TextBlob analysis: 98% complete (280/283 items)
+TextBlob analysis: 100% complete (283/283 items)
+Determining overall sentiment classification...
+Sentiment distribution:
+  Positive: 158 items (55.8%)
+  Negative: 71 items (25.1%)
+  Neutral: 54 items (19.1%)
+Saved sentiment analysis to /Users/austinho/sentiment-aggregator/data/copilot_mentions_2025-03-16_with_sentiment.csv
+Processing sentiment for cursor...
+Analyzing sentiment for /Users/austinho/sentiment-aggregator/data/cursor_mentions_2025-03-16.csv...
+Found 1630 items to analyze
+Combining title and text fields...
+Cleaning and preprocessing text...
+Running VADER sentiment analysis...
+VADER analysis: 10% complete (163/1630 items)
+VADER analysis: 20% complete (326/1630 items)
+VADER analysis: 30% complete (489/1630 items)
+VADER analysis: 40% complete (652/1630 items)
+VADER analysis: 50% complete (815/1630 items)
+VADER analysis: 60% complete (978/1630 items)
+VADER analysis: 70% complete (1141/1630 items)
+VADER analysis: 80% complete (1304/1630 items)
+VADER analysis: 90% complete (1467/1630 items)
+VADER analysis: 100% complete (1630/1630 items)
+Running TextBlob sentiment analysis...
+TextBlob analysis: 10% complete (163/1630 items)
+TextBlob analysis: 20% complete (326/1630 items)
+TextBlob analysis: 30% complete (489/1630 items)
+TextBlob analysis: 40% complete (652/1630 items)
+TextBlob analysis: 50% complete (815/1630 items)
+TextBlob analysis: 60% complete (978/1630 items)
+TextBlob analysis: 70% complete (1141/1630 items)
+TextBlob analysis: 80% complete (1304/1630 items)
+TextBlob analysis: 90% complete (1467/1630 items)
+TextBlob analysis: 100% complete (1630/1630 items)
+Determining overall sentiment classification...
+Sentiment distribution:
+  Positive: 1054 items (64.7%)
+  Negative: 336 items (20.6%)
+  Neutral: 240 items (14.7%)
+Saved sentiment analysis to /Users/austinho/sentiment-aggregator/data/cursor_mentions_2025-03-16_with_sentiment.csv
+Processing sentiment for lovable...
+Analyzing sentiment for /Users/austinho/sentiment-aggregator/data/lovable_mentions_2025-03-16.csv...
+Found 22 items to analyze
+Combining title and text fields...
+Cleaning and preprocessing text...
+Running VADER sentiment analysis...
+VADER analysis: 9% complete (2/22 items)
+VADER analysis: 18% complete (4/22 items)
+VADER analysis: 27% complete (6/22 items)
+VADER analysis: 36% complete (8/22 items)
+VADER analysis: 45% complete (10/22 items)
+VADER analysis: 54% complete (12/22 items)
+VADER analysis: 63% complete (14/22 items)
+VADER analysis: 72% complete (16/22 items)
+VADER analysis: 81% complete (18/22 items)
+VADER analysis: 90% complete (20/22 items)
+VADER analysis: 100% complete (22/22 items)
+Running TextBlob sentiment analysis...
+TextBlob analysis: 9% complete (2/22 items)
+TextBlob analysis: 18% complete (4/22 items)
+TextBlob analysis: 27% complete (6/22 items)
+TextBlob analysis: 36% complete (8/22 items)
+TextBlob analysis: 45% complete (10/22 items)
+TextBlob analysis: 54% complete (12/22 items)
+TextBlob analysis: 63% complete (14/22 items)
+TextBlob analysis: 72% complete (16/22 items)
+TextBlob analysis: 81% complete (18/22 items)
+TextBlob analysis: 90% complete (20/22 items)
+TextBlob analysis: 100% complete (22/22 items)
+Determining overall sentiment classification...
+Sentiment distribution:
+  Positive: 21 items (95.5%)
+  Negative: 1 items (4.5%)
+Saved sentiment analysis to /Users/austinho/sentiment-aggregator/data/lovable_mentions_2025-03-16_with_sentiment.csv
+Processing sentiment for devin...
+Analyzing sentiment for /Users/austinho/sentiment-aggregator/data/devin_mentions_2025-03-16.csv...
+Found 100 items to analyze
+Combining title and text fields...
+Cleaning and preprocessing text...
+Running VADER sentiment analysis...
+VADER analysis: 10% complete (10/100 items)
+VADER analysis: 20% complete (20/100 items)
+VADER analysis: 30% complete (30/100 items)
+VADER analysis: 40% complete (40/100 items)
+VADER analysis: 50% complete (50/100 items)
+VADER analysis: 60% complete (60/100 items)
+VADER analysis: 70% complete (70/100 items)
+VADER analysis: 80% complete (80/100 items)
+VADER analysis: 90% complete (90/100 items)
+VADER analysis: 100% complete (100/100 items)
+Running TextBlob sentiment analysis...
+TextBlob analysis: 10% complete (10/100 items)
+TextBlob analysis: 20% complete (20/100 items)
+TextBlob analysis: 30% complete (30/100 items)
+TextBlob analysis: 40% complete (40/100 items)
+TextBlob analysis: 50% complete (50/100 items)
+TextBlob analysis: 60% complete (60/100 items)
+TextBlob analysis: 70% complete (70/100 items)
+TextBlob analysis: 80% complete (80/100 items)
+TextBlob analysis: 90% complete (90/100 items)
+TextBlob analysis: 100% complete (100/100 items)
+Determining overall sentiment classification...
+Sentiment distribution:
+  Positive: 68 items (68.0%)
+  Negative: 18 items (18.0%)
+  Neutral: 14 items (14.0%)
+Saved sentiment analysis to /Users/austinho/sentiment-aggregator/data/devin_mentions_2025-03-16_with_sentiment.csv
+Processing sentiment for cody...
+Analyzing sentiment for /Users/austinho/sentiment-aggregator/data/cody_mentions_2025-03-16.csv...
+Found 3 items to analyze
+Combining title and text fields...
+Cleaning and preprocessing text...
+Running VADER sentiment analysis...
+VADER analysis: 33% complete (1/3 items)
+VADER analysis: 66% complete (2/3 items)
+VADER analysis: 100% complete (3/3 items)
+Running TextBlob sentiment analysis...
+TextBlob analysis: 33% complete (1/3 items)
+TextBlob analysis: 66% complete (2/3 items)
+TextBlob analysis: 100% complete (3/3 items)
+Determining overall sentiment classification...
+Sentiment distribution:
+  Positive: 2 items (66.7%)
+  Neutral: 1 items (33.3%)
+Saved sentiment analysis to /Users/austinho/sentiment-aggregator/data/cody_mentions_2025-03-16_with_sentiment.csv
+No file for today found for codeium. Processing codeium_mentions_2025-03-09_with_sentiment.csv...
+Analyzing sentiment for /Users/austinho/sentiment-aggregator/data/codeium_mentions_2025-03-09_with_sentiment.csv...
+Found 183 items to analyze
+Sentiment already analyzed for /Users/austinho/sentiment-aggregator/data/codeium_mentions_2025-03-09_with_sentiment.csv
+Processing main dashboard data...
+Analyzing sentiment for /Users/austinho/sentiment-aggregator/data/reddit_mentions_2025-03-16.csv...
+Found 165 items to analyze
+Combining title and text fields...
+Cleaning and preprocessing text...
+Running VADER sentiment analysis...
+VADER analysis: 9% complete (16/165 items)
+VADER analysis: 19% complete (32/165 items)
+VADER analysis: 29% complete (48/165 items)
+VADER analysis: 38% complete (64/165 items)
+VADER analysis: 48% complete (80/165 items)
+VADER analysis: 58% complete (96/165 items)
+VADER analysis: 67% complete (112/165 items)
+VADER analysis: 77% complete (128/165 items)
+VADER analysis: 87% complete (144/165 items)
+VADER analysis: 96% complete (160/165 items)
+VADER analysis: 100% complete (165/165 items)
+Running TextBlob sentiment analysis...
+TextBlob analysis: 9% complete (16/165 items)
+TextBlob analysis: 19% complete (32/165 items)
+TextBlob analysis: 29% complete (48/165 items)
+TextBlob analysis: 38% complete (64/165 items)
+TextBlob analysis: 48% complete (80/165 items)
+TextBlob analysis: 58% complete (96/165 items)
+TextBlob analysis: 67% complete (112/165 items)
+TextBlob analysis: 77% complete (128/165 items)
+TextBlob analysis: 87% complete (144/165 items)
+TextBlob analysis: 96% complete (160/165 items)
+TextBlob analysis: 100% complete (165/165 items)
+Determining overall sentiment classification...
+Sentiment distribution:
+  Positive: 97 items (58.8%)
+  Negative: 43 items (26.1%)
+  Neutral: 25 items (15.2%)
+Saved sentiment analysis to /Users/austinho/sentiment-aggregator/data/reddit_mentions_2025-03-16_with_sentiment.csv
+[2025-03-16 02:00:00] Aggregating data...
+Processing copilot data from copilot_mentions_2025-03-16_with_sentiment.csv...
+Processing cursor data from cursor_mentions_2025-03-16_with_sentiment.csv...
+Processing lovable data from lovable_mentions_2025-03-16_with_sentiment.csv...
+Processing devin data from devin_mentions_2025-03-16_with_sentiment.csv...
+Processing cody data from cody_mentions_2025-03-16_with_sentiment.csv...
+Processing codeium data from codeium_mentions_2025-03-09_with_sentiment.csv...
+Processing main dashboard data from reddit_mentions_2025-03-16_with_sentiment.csv...
+Combining all data sources...
+Sorting by date (newest first)...
+
+Data Summary:
+Copilot items: 283
+Cursor items: 1630
+Lovable items: 22
+Devin items: 100
+Cody items: 3
+Codeium items: 183
+Dashboard items: 165
+Total items after aggregation: 2386
+
+Sentiment distribution:
+  Positive: 1516 items (63.5%)
+  Negative: 513 items (21.5%)
+  Neutral: 357 items (15.0%)
+Aggregated data saved to /Users/austinho/sentiment-aggregator/data/aggregated_data_2025-03-16.csv
+Creating JSON version of the data...
+JSON data saved to /Users/austinho/sentiment-aggregator/data/aggregated_data_2025-03-16.json
+[2025-03-16 02:00:00] Data update completed.
+[2025-03-19 02:00:00] Starting data update...
+[2025-03-19 02:00:00] Running Twitter scraper...
+Using Twitter API v2
+Error searching tweets: 429 Too Many Requests
+Usage cap exceeded: Monthly product cap
+No tweets to save.
+Collected 0 tweets mentioning 'windsurf' and 'codeium'
+[2025-03-19 02:00:00] Running Reddit scraper...
+
+--- Collecting Copilot mentions ---
+Keywords: ['github copilot', 'copilot', 'copilot x', 'microsoft copilot', 'gh copilot']
+Subreddits: ['github', 'vscode', 'programming', 'coding', 'learnprogramming', 'MachineLearning', 'webdev', 'javascript', 'computerscience', 'artificial', 'VSCodeExtensions', 'code']
+Searching in r/github... (1/12)
+Collected 12 posts and 14 comments from r/github
+Searching in r/vscode... (2/12)
+Collected 29 posts and 96 comments from r/vscode
+Searching in r/programming... (3/12)
+Collected 4 posts and 7 comments from r/programming
+Searching in r/coding... (4/12)
+Collected 1 posts and 1 comments from r/coding
+Searching in r/learnprogramming... (5/12)
+Collected 9 posts and 36 comments from r/learnprogramming
+Searching in r/MachineLearning... (6/12)
+Collected 0 posts and 0 comments from r/MachineLearning
+Searching in r/webdev... (7/12)
+Collected 10 posts and 26 comments from r/webdev
+Searching in r/javascript... (8/12)
+Collected 0 posts and 0 comments from r/javascript
+Searching in r/computerscience... (9/12)
+Collected 0 posts and 0 comments from r/computerscience
+Searching in r/artificial... (10/12)
+Collected 6 posts and 4 comments from r/artificial
+Searching in r/VSCodeExtensions... (11/12)
+Collected 0 posts and 0 comments from r/VSCodeExtensions
+Searching in r/code... (12/12)
+Collected 0 posts and 0 comments from r/code
+Found 255 posts/comments for copilot
+Created /Users/austinho/sentiment-aggregator/data/copilot_mentions_2025-03-19.csv with 255 Reddit items.
+Collected 255 Reddit posts/comments mentioning copilot
+
+--- Collecting Cursor mentions ---
+Keywords: ['cursor', 'cursor.so', 'cursor ai', 'cursor editor', 'cursor.sh']
+Subreddits: ['programming', 'webdev', 'javascript', 'Python', 'coding', 'learnprogramming', 'AskProgramming', 'developertools', 'codeeditors', 'cursor']
+Searching in r/programming... (1/10)
+Collected 6 posts and 10 comments from r/programming
+Searching in r/webdev... (2/10)
+Collected 25 posts and 43 comments from r/webdev
+Searching in r/javascript... (3/10)
+Collected 0 posts and 0 comments from r/javascript
+Searching in r/Python... (4/10)
+Collected 2 posts and 10 comments from r/Python
+Searching in r/coding... (5/10)
+Collected 3 posts and 0 comments from r/coding
+Searching in r/learnprogramming... (6/10)
+Collected 12 posts and 32 comments from r/learnprogramming
+Searching in r/AskProgramming... (7/10)
+Collected 6 posts and 6 comments from r/AskProgramming
+Searching in r/developertools... (8/10)
+  ⚠️ Error searching submissions in r/developertools: received 404 HTTP response
+Collected 0 posts and 0 comments from r/developertools
+Searching in r/codeeditors... (9/10)
+  ⚠️ Error searching submissions in r/codeeditors: Redirect to /subreddits/search
+Collected 0 posts and 0 comments from r/codeeditors
+Searching in r/cursor... (10/10)
+Collected 100 posts and 1370 comments from r/cursor
+Found 1625 posts/comments for cursor
+Created /Users/austinho/sentiment-aggregator/data/cursor_mentions_2025-03-19.csv with 1625 Reddit items.
+Collected 1625 Reddit posts/comments mentioning cursor
+
+--- Collecting Lovable mentions ---
+Keywords: ['lovable', 'lovable.ai', 'lovable editor', 'lovable code', 'lovable assistant']
+Subreddits: ['programming', 'webdev', 'javascript', 'Python', 'coding', 'learnprogramming', 'AskProgramming', 'Supabase', 'codeeditors', 'developertools']
+Searching in r/programming... (1/10)
+Collected 0 posts and 1 comments from r/programming
+Searching in r/webdev... (2/10)
+Collected 3 posts and 3 comments from r/webdev
+Searching in r/javascript... (3/10)
+Collected 0 posts and 0 comments from r/javascript
+Searching in r/Python... (4/10)
+Collected 0 posts and 0 comments from r/Python
+Searching in r/coding... (5/10)
+Collected 1 posts and 0 comments from r/coding
+Searching in r/learnprogramming... (6/10)
+Collected 2 posts and 0 comments from r/learnprogramming
+Searching in r/AskProgramming... (7/10)
+Collected 0 posts and 0 comments from r/AskProgramming
+Searching in r/Supabase... (8/10)
+Collected 5 posts and 8 comments from r/Supabase
+Searching in r/codeeditors... (9/10)
+  ⚠️ Error searching submissions in r/codeeditors: Redirect to /subreddits/search
+Collected 0 posts and 0 comments from r/codeeditors
+Searching in r/developertools... (10/10)
+  ⚠️ Error searching submissions in r/developertools: received 404 HTTP response
+Collected 0 posts and 0 comments from r/developertools
+Found 23 posts/comments for lovable
+Created /Users/austinho/sentiment-aggregator/data/lovable_mentions_2025-03-19.csv with 23 Reddit items.
+Collected 23 Reddit posts/comments mentioning lovable
+
+--- Collecting Devin mentions ---
+Keywords: ['devin ai', 'devin', 'cognition labs', 'cognition ai', 'dev assistant', 'ai developer', 'ai coding assistant', 'autonomous developer', 'autonomous agent']
+Subreddits: ['programming', 'learnprogramming', 'MachineLearning', 'coding', 'Python', 'javascript', 'webdev', 'computerscience', 'ArtificialIntelligence', 'singularity', 'technology', 'futurology', 'softwareengineering', 'artificialintelligence', 'OpenAI', 'MLQuestions', 'AIdev', 'ChatGPT', 'GPT', 'llm']
+Searching in r/programming... (1/20)
+Collected 3 posts and 0 comments from r/programming
+Searching in r/learnprogramming... (2/20)
+Collected 0 posts and 0 comments from r/learnprogramming
+Searching in r/MachineLearning... (3/20)
+Collected 0 posts and 0 comments from r/MachineLearning
+Searching in r/coding... (4/20)
+Collected 1 posts and 0 comments from r/coding
+Searching in r/Python... (5/20)
+Collected 2 posts and 0 comments from r/Python
+Searching in r/javascript... (6/20)
+Collected 0 posts and 0 comments from r/javascript
+Searching in r/webdev... (7/20)
+Collected 0 posts and 0 comments from r/webdev
+Searching in r/computerscience... (8/20)
+Collected 0 posts and 0 comments from r/computerscience
+Searching in r/ArtificialIntelligence... (9/20)
+  ⚠️ Error searching submissions in r/ArtificialIntelligence: received 404 HTTP response
+Collected 0 posts and 0 comments from r/ArtificialIntelligence
+Searching in r/singularity... (10/20)
+Collected 2 posts and 5 comments from r/singularity
+Searching in r/technology... (11/20)
+Collected 4 posts and 1 comments from r/technology
+Searching in r/futurology... (12/20)
+Collected 0 posts and 0 comments from r/futurology
+Searching in r/softwareengineering... (13/20)
+Collected 0 posts and 0 comments from r/softwareengineering
+Searching in r/artificialintelligence... (14/20)
+  ⚠️ Error searching submissions in r/artificialintelligence: received 404 HTTP response
+Collected 0 posts and 0 comments from r/artificialintelligence
+Searching in r/OpenAI... (15/20)
+Collected 4 posts and 3 comments from r/OpenAI
+Searching in r/MLQuestions... (16/20)
+Collected 0 posts and 0 comments from r/MLQuestions
+Searching in r/AIdev... (17/20)
+Collected 0 posts and 0 comments from r/AIdev
+Searching in r/ChatGPT... (18/20)
+Collected 10 posts and 0 comments from r/ChatGPT
+Searching in r/GPT... (19/20)
+Collected 0 posts and 0 comments from r/GPT
+Searching in r/llm... (20/20)
+Collected 0 posts and 0 comments from r/llm
+Found 35 posts/comments for devin
+Created /Users/austinho/sentiment-aggregator/data/devin_mentions_2025-03-19.csv with 35 Reddit items.
+Collected 35 Reddit posts/comments mentioning devin
+
+--- Collecting Cody mentions ---
+Keywords: ['sourcegraph cody', 'cody ai', 'sourcegraph', 'cody assistant', 'cody code']
+Subreddits: ['programming', 'webdev', 'javascript', 'Python', 'coding', 'sourcegraph', 'AskProgramming', 'vscode', 'codeeditors', 'developertools']
+Searching in r/programming... (1/10)
+Collected 0 posts and 0 comments from r/programming
+Searching in r/webdev... (2/10)
+Collected 0 posts and 0 comments from r/webdev
+Searching in r/javascript... (3/10)
+Collected 0 posts and 0 comments from r/javascript
+Searching in r/Python... (4/10)
+Collected 0 posts and 0 comments from r/Python
+Searching in r/coding... (5/10)
+Collected 0 posts and 0 comments from r/coding
+Searching in r/sourcegraph... (6/10)
+Collected 1 posts and 1 comments from r/sourcegraph
+Searching in r/AskProgramming... (7/10)
+Collected 0 posts and 0 comments from r/AskProgramming
+Searching in r/vscode... (8/10)
+Collected 1 posts and 1 comments from r/vscode
+Searching in r/codeeditors... (9/10)
+  ⚠️ Error searching submissions in r/codeeditors: Redirect to /subreddits/search
+Collected 0 posts and 0 comments from r/codeeditors
+Searching in r/developertools... (10/10)
+  ⚠️ Error searching submissions in r/developertools: received 404 HTTP response
+Collected 0 posts and 0 comments from r/developertools
+Found 4 posts/comments for cody
+Created /Users/austinho/sentiment-aggregator/data/cody_mentions_2025-03-19.csv with 4 Reddit items.
+Collected 4 Reddit posts/comments mentioning cody
+
+--- Special search for Devin AI content ---
+Searching for Devin in r/artificial with query: Devin AI autonomous developer
+Searching for Devin in r/AINews with query: Devin AI autonomous developer
+Searching for Devin in r/technews with query: Devin AI autonomous developer
+Searching for Devin in r/tech with query: Devin AI autonomous developer
+Searching for Devin in r/agi with query: Devin AI autonomous developer
+Searching for Devin in r/machinelearning with query: Devin AI autonomous developer
+Searching for Devin in r/deeplearning with query: Devin AI autonomous developer
+Searching for Devin in r/computervision with query: Devin AI autonomous developer
+Searching for Devin in r/nlproc with query: Devin AI autonomous developer
+Searching for Devin in r/LanguageTechnology with query: Devin AI autonomous developer
+Searching for Devin in r/generative with query: Devin AI autonomous developer
+Searching for Devin in r/AIGeneratedContent with query: Devin AI autonomous developer
+Error searching r/AIGeneratedContent for Devin: received 404 HTTP response
+Searching for Devin in r/artificial with query: Cognition Labs Devin
+Searching for Devin in r/AINews with query: Cognition Labs Devin
+Searching for Devin in r/technews with query: Cognition Labs Devin
+Searching for Devin in r/tech with query: Cognition Labs Devin
+Searching for Devin in r/agi with query: Cognition Labs Devin
+Searching for Devin in r/machinelearning with query: Cognition Labs Devin
+Searching for Devin in r/deeplearning with query: Cognition Labs Devin
+Searching for Devin in r/computervision with query: Cognition Labs Devin
+Searching for Devin in r/nlproc with query: Cognition Labs Devin
+Searching for Devin in r/LanguageTechnology with query: Cognition Labs Devin
+Searching for Devin in r/generative with query: Cognition Labs Devin
+Searching for Devin in r/AIGeneratedContent with query: Cognition Labs Devin
+Error searching r/AIGeneratedContent for Devin: received 404 HTTP response
+Searching for Devin in r/artificial with query: AI that can code entire projects
+Searching for Devin in r/AINews with query: AI that can code entire projects
+Searching for Devin in r/technews with query: AI that can code entire projects
+Searching for Devin in r/tech with query: AI that can code entire projects
+Searching for Devin in r/agi with query: AI that can code entire projects
+Searching for Devin in r/machinelearning with query: AI that can code entire projects
+Searching for Devin in r/deeplearning with query: AI that can code entire projects
+Searching for Devin in r/computervision with query: AI that can code entire projects
+Searching for Devin in r/nlproc with query: AI that can code entire projects
+Searching for Devin in r/LanguageTechnology with query: AI that can code entire projects
+Searching for Devin in r/generative with query: AI that can code entire projects
+Searching for Devin in r/AIGeneratedContent with query: AI that can code entire projects
+Error searching r/AIGeneratedContent for Devin: received 404 HTTP response
+Searching for Devin in r/artificial with query: autonomous AI developer
+Searching for Devin in r/AINews with query: autonomous AI developer
+Searching for Devin in r/technews with query: autonomous AI developer
+Searching for Devin in r/tech with query: autonomous AI developer
+Searching for Devin in r/agi with query: autonomous AI developer
+Searching for Devin in r/machinelearning with query: autonomous AI developer
+Searching for Devin in r/deeplearning with query: autonomous AI developer
+Searching for Devin in r/computervision with query: autonomous AI developer
+Searching for Devin in r/nlproc with query: autonomous AI developer
+Searching for Devin in r/LanguageTechnology with query: autonomous AI developer
+Searching for Devin in r/generative with query: autonomous AI developer
+Searching for Devin in r/AIGeneratedContent with query: autonomous AI developer
+Error searching r/AIGeneratedContent for Devin: received 404 HTTP response
+Searching for Devin in r/artificial with query: AI developer assistant full projects
+Searching for Devin in r/AINews with query: AI developer assistant full projects
+Searching for Devin in r/technews with query: AI developer assistant full projects
+Searching for Devin in r/tech with query: AI developer assistant full projects
+Searching for Devin in r/agi with query: AI developer assistant full projects
+Searching for Devin in r/machinelearning with query: AI developer assistant full projects
+Searching for Devin in r/deeplearning with query: AI developer assistant full projects
+Searching for Devin in r/computervision with query: AI developer assistant full projects
+Searching for Devin in r/nlproc with query: AI developer assistant full projects
+Searching for Devin in r/LanguageTechnology with query: AI developer assistant full projects
+Searching for Devin in r/generative with query: AI developer assistant full projects
+Searching for Devin in r/AIGeneratedContent with query: AI developer assistant full projects
+Error searching r/AIGeneratedContent for Devin: received 404 HTTP response
+Searching for Devin in r/artificial with query: AI developer agent
+Searching for Devin in r/AINews with query: AI developer agent
+Searching for Devin in r/technews with query: AI developer agent
+Searching for Devin in r/tech with query: AI developer agent
+Searching for Devin in r/agi with query: AI developer agent
+Searching for Devin in r/machinelearning with query: AI developer agent
+Searching for Devin in r/deeplearning with query: AI developer agent
+Searching for Devin in r/computervision with query: AI developer agent
+Searching for Devin in r/nlproc with query: AI developer agent
+Searching for Devin in r/LanguageTechnology with query: AI developer agent
+Searching for Devin in r/generative with query: AI developer agent
+Searching for Devin in r/AIGeneratedContent with query: AI developer agent
+Error searching r/AIGeneratedContent for Devin: received 404 HTTP response
+Found 37 additional posts/comments mentioning Devin
+Total Devin mentions after special search: 72
+Updated /Users/austinho/sentiment-aggregator/data/devin_mentions_2025-03-19.csv with 72 new Reddit items. Total: 62
+
+--- Collecting data for main dashboard ---
+Searching in r/programming... (1/15)
+Collected 0 posts and 0 comments from r/programming
+Searching in r/webdev... (2/15)
+Collected 0 posts and 2 comments from r/webdev
+Searching in r/devops... (3/15)
+Collected 0 posts and 0 comments from r/devops
+Searching in r/javascript... (4/15)
+Collected 0 posts and 0 comments from r/javascript
+Searching in r/Python... (5/15)
+Collected 0 posts and 0 comments from r/Python
+Searching in r/coding... (6/15)
+Collected 0 posts and 0 comments from r/coding
+Searching in r/learnprogramming... (7/15)
+Collected 0 posts and 0 comments from r/learnprogramming
+Searching in r/AskProgramming... (8/15)
+Collected 0 posts and 0 comments from r/AskProgramming
+Searching in r/codeium... (9/15)
+Collected 56 posts and 110 comments from r/codeium
+Searching in r/vscode... (10/15)
+Collected 1 posts and 3 comments from r/vscode
+Searching in r/vim... (11/15)
+Collected 0 posts and 0 comments from r/vim
+Searching in r/emacs... (12/15)
+Collected 0 posts and 0 comments from r/emacs
+Searching in r/IDEs... (13/15)
+Collected 0 posts and 0 comments from r/IDEs
+Searching in r/ChatGPTCoding... (14/15)
+Collected 14 posts and 13 comments from r/ChatGPTCoding
+Searching in r/WindsurfAI... (15/15)
+Collected 1 posts and 1 comments from r/WindsurfAI
+Created /Users/austinho/sentiment-aggregator/data/reddit_mentions_2025-03-19.csv with 201 Reddit items.
+
+Data collection complete!
+[2025-03-19 02:00:00] Running sentiment analysis...
+[nltk_data] Downloading package vader_lexicon to
+[nltk_data]     /Users/austinho/nltk_data...
+[nltk_data]   Package vader_lexicon is already up-to-date!
+Downloading VADER lexicon...
+Processing sentiment for copilot...
+Analyzing sentiment for /Users/austinho/sentiment-aggregator/data/copilot_mentions_2025-03-19.csv...
+Found 255 items to analyze
+Combining title and text fields...
+Cleaning and preprocessing text...
+Running VADER sentiment analysis...
+VADER analysis: 9% complete (25/255 items)
+VADER analysis: 19% complete (50/255 items)
+VADER analysis: 29% complete (75/255 items)
+VADER analysis: 39% complete (100/255 items)
+VADER analysis: 49% complete (125/255 items)
+VADER analysis: 58% complete (150/255 items)
+VADER analysis: 68% complete (175/255 items)
+VADER analysis: 78% complete (200/255 items)
+VADER analysis: 88% complete (225/255 items)
+VADER analysis: 98% complete (250/255 items)
+VADER analysis: 100% complete (255/255 items)
+Running TextBlob sentiment analysis...
+TextBlob analysis: 9% complete (25/255 items)
+TextBlob analysis: 19% complete (50/255 items)
+TextBlob analysis: 29% complete (75/255 items)
+TextBlob analysis: 39% complete (100/255 items)
+TextBlob analysis: 49% complete (125/255 items)
+TextBlob analysis: 58% complete (150/255 items)
+TextBlob analysis: 68% complete (175/255 items)
+TextBlob analysis: 78% complete (200/255 items)
+TextBlob analysis: 88% complete (225/255 items)
+TextBlob analysis: 98% complete (250/255 items)
+TextBlob analysis: 100% complete (255/255 items)
+Determining overall sentiment classification...
+Sentiment distribution:
+  Positive: 144 items (56.5%)
+  Negative: 62 items (24.3%)
+  Neutral: 49 items (19.2%)
+Saved sentiment analysis to /Users/austinho/sentiment-aggregator/data/copilot_mentions_2025-03-19_with_sentiment.csv
+Processing sentiment for cursor...
+Analyzing sentiment for /Users/austinho/sentiment-aggregator/data/cursor_mentions_2025-03-19.csv...
+Found 1625 items to analyze
+Combining title and text fields...
+Cleaning and preprocessing text...
+Running VADER sentiment analysis...
+VADER analysis: 9% complete (162/1625 items)
+VADER analysis: 19% complete (324/1625 items)
+VADER analysis: 29% complete (486/1625 items)
+VADER analysis: 39% complete (648/1625 items)
+VADER analysis: 49% complete (810/1625 items)
+VADER analysis: 59% complete (972/1625 items)
+VADER analysis: 69% complete (1134/1625 items)
+VADER analysis: 79% complete (1296/1625 items)
+VADER analysis: 89% complete (1458/1625 items)
+VADER analysis: 99% complete (1620/1625 items)
+VADER analysis: 100% complete (1625/1625 items)
+Running TextBlob sentiment analysis...
+TextBlob analysis: 9% complete (162/1625 items)
+TextBlob analysis: 19% complete (324/1625 items)
+TextBlob analysis: 29% complete (486/1625 items)
+TextBlob analysis: 39% complete (648/1625 items)
+TextBlob analysis: 49% complete (810/1625 items)
+TextBlob analysis: 59% complete (972/1625 items)
+TextBlob analysis: 69% complete (1134/1625 items)
+TextBlob analysis: 79% complete (1296/1625 items)
+TextBlob analysis: 89% complete (1458/1625 items)
+TextBlob analysis: 99% complete (1620/1625 items)
+TextBlob analysis: 100% complete (1625/1625 items)
+Determining overall sentiment classification...
+Sentiment distribution:
+  Positive: 1046 items (64.4%)
+  Negative: 334 items (20.6%)
+  Neutral: 245 items (15.1%)
+Saved sentiment analysis to /Users/austinho/sentiment-aggregator/data/cursor_mentions_2025-03-19_with_sentiment.csv
+Processing sentiment for lovable...
+Analyzing sentiment for /Users/austinho/sentiment-aggregator/data/lovable_mentions_2025-03-19.csv...
+Found 23 items to analyze
+Combining title and text fields...
+Cleaning and preprocessing text...
+Running VADER sentiment analysis...
+VADER analysis: 8% complete (2/23 items)
+VADER analysis: 17% complete (4/23 items)
+VADER analysis: 26% complete (6/23 items)
+VADER analysis: 34% complete (8/23 items)
+VADER analysis: 43% complete (10/23 items)
+VADER analysis: 52% complete (12/23 items)
+VADER analysis: 60% complete (14/23 items)
+VADER analysis: 69% complete (16/23 items)
+VADER analysis: 78% complete (18/23 items)
+VADER analysis: 86% complete (20/23 items)
+VADER analysis: 95% complete (22/23 items)
+VADER analysis: 100% complete (23/23 items)
+Running TextBlob sentiment analysis...
+TextBlob analysis: 8% complete (2/23 items)
+TextBlob analysis: 17% complete (4/23 items)
+TextBlob analysis: 26% complete (6/23 items)
+TextBlob analysis: 34% complete (8/23 items)
+TextBlob analysis: 43% complete (10/23 items)
+TextBlob analysis: 52% complete (12/23 items)
+TextBlob analysis: 60% complete (14/23 items)
+TextBlob analysis: 69% complete (16/23 items)
+TextBlob analysis: 78% complete (18/23 items)
+TextBlob analysis: 86% complete (20/23 items)
+TextBlob analysis: 95% complete (22/23 items)
+TextBlob analysis: 100% complete (23/23 items)
+Determining overall sentiment classification...
+Sentiment distribution:
+  Positive: 22 items (95.7%)
+  Negative: 1 items (4.3%)
+Saved sentiment analysis to /Users/austinho/sentiment-aggregator/data/lovable_mentions_2025-03-19_with_sentiment.csv
+Processing sentiment for devin...
+Analyzing sentiment for /Users/austinho/sentiment-aggregator/data/devin_mentions_2025-03-19.csv...
+Found 62 items to analyze
+Combining title and text fields...
+Cleaning and preprocessing text...
+Running VADER sentiment analysis...
+VADER analysis: 9% complete (6/62 items)
+VADER analysis: 19% complete (12/62 items)
+VADER analysis: 29% complete (18/62 items)
+VADER analysis: 38% complete (24/62 items)
+VADER analysis: 48% complete (30/62 items)
+VADER analysis: 58% complete (36/62 items)
+VADER analysis: 67% complete (42/62 items)
+VADER analysis: 77% complete (48/62 items)
+VADER analysis: 87% complete (54/62 items)
+VADER analysis: 96% complete (60/62 items)
+VADER analysis: 100% complete (62/62 items)
+Running TextBlob sentiment analysis...
+TextBlob analysis: 9% complete (6/62 items)
+TextBlob analysis: 19% complete (12/62 items)
+TextBlob analysis: 29% complete (18/62 items)
+TextBlob analysis: 38% complete (24/62 items)
+TextBlob analysis: 48% complete (30/62 items)
+TextBlob analysis: 58% complete (36/62 items)
+TextBlob analysis: 67% complete (42/62 items)
+TextBlob analysis: 77% complete (48/62 items)
+TextBlob analysis: 87% complete (54/62 items)
+TextBlob analysis: 96% complete (60/62 items)
+TextBlob analysis: 100% complete (62/62 items)
+Determining overall sentiment classification...
+Sentiment distribution:
+  Positive: 39 items (62.9%)
+  Neutral: 14 items (22.6%)
+  Negative: 9 items (14.5%)
+Saved sentiment analysis to /Users/austinho/sentiment-aggregator/data/devin_mentions_2025-03-19_with_sentiment.csv
+Processing sentiment for cody...
+Analyzing sentiment for /Users/austinho/sentiment-aggregator/data/cody_mentions_2025-03-19.csv...
+Found 4 items to analyze
+Combining title and text fields...
+Cleaning and preprocessing text...
+Running VADER sentiment analysis...
+VADER analysis: 25% complete (1/4 items)
+VADER analysis: 50% complete (2/4 items)
+VADER analysis: 75% complete (3/4 items)
+VADER analysis: 100% complete (4/4 items)
+Running TextBlob sentiment analysis...
+TextBlob analysis: 25% complete (1/4 items)
+TextBlob analysis: 50% complete (2/4 items)
+TextBlob analysis: 75% complete (3/4 items)
+TextBlob analysis: 100% complete (4/4 items)
+Determining overall sentiment classification...
+Sentiment distribution:
+  Positive: 2 items (50.0%)
+  Negative: 1 items (25.0%)
+  Neutral: 1 items (25.0%)
+Saved sentiment analysis to /Users/austinho/sentiment-aggregator/data/cody_mentions_2025-03-19_with_sentiment.csv
+No file for today found for codeium. Processing codeium_mentions_2025-03-09_with_sentiment.csv...
+Analyzing sentiment for /Users/austinho/sentiment-aggregator/data/codeium_mentions_2025-03-09_with_sentiment.csv...
+Found 183 items to analyze
+Sentiment already analyzed for /Users/austinho/sentiment-aggregator/data/codeium_mentions_2025-03-09_with_sentiment.csv
+Processing main dashboard data...
+Analyzing sentiment for /Users/austinho/sentiment-aggregator/data/reddit_mentions_2025-03-19.csv...
+Found 201 items to analyze
+Combining title and text fields...
+Cleaning and preprocessing text...
+Running VADER sentiment analysis...
+VADER analysis: 9% complete (20/201 items)
+VADER analysis: 19% complete (40/201 items)
+VADER analysis: 29% complete (60/201 items)
+VADER analysis: 39% complete (80/201 items)
+VADER analysis: 49% complete (100/201 items)
+VADER analysis: 59% complete (120/201 items)
+VADER analysis: 69% complete (140/201 items)
+VADER analysis: 79% complete (160/201 items)
+VADER analysis: 89% complete (180/201 items)
+VADER analysis: 99% complete (200/201 items)
+VADER analysis: 100% complete (201/201 items)
+Running TextBlob sentiment analysis...
+TextBlob analysis: 9% complete (20/201 items)
+TextBlob analysis: 19% complete (40/201 items)
+TextBlob analysis: 29% complete (60/201 items)
+TextBlob analysis: 39% complete (80/201 items)
+TextBlob analysis: 49% complete (100/201 items)
+TextBlob analysis: 59% complete (120/201 items)
+TextBlob analysis: 69% complete (140/201 items)
+TextBlob analysis: 79% complete (160/201 items)
+TextBlob analysis: 89% complete (180/201 items)
+TextBlob analysis: 99% complete (200/201 items)
+TextBlob analysis: 100% complete (201/201 items)
+Determining overall sentiment classification...
+Sentiment distribution:
+  Positive: 112 items (55.7%)
+  Negative: 53 items (26.4%)
+  Neutral: 36 items (17.9%)
+Saved sentiment analysis to /Users/austinho/sentiment-aggregator/data/reddit_mentions_2025-03-19_with_sentiment.csv
+[2025-03-19 02:00:00] Aggregating data...
+Processing copilot data from copilot_mentions_2025-03-19_with_sentiment.csv...
+Processing cursor data from cursor_mentions_2025-03-19_with_sentiment.csv...
+Processing lovable data from lovable_mentions_2025-03-19_with_sentiment.csv...
+Processing devin data from devin_mentions_2025-03-19_with_sentiment.csv...
+Processing cody data from cody_mentions_2025-03-19_with_sentiment.csv...
+Processing codeium data from codeium_mentions_2025-03-09_with_sentiment.csv...
+Processing main dashboard data from reddit_mentions_2025-03-19_with_sentiment.csv...
+Combining all data sources...
+Sorting by date (newest first)...
+
+Data Summary:
+Copilot items: 255
+Cursor items: 1625
+Lovable items: 23
+Devin items: 62
+Cody items: 4
+Codeium items: 183
+Dashboard items: 201
+Total items after aggregation: 2353
+
+Sentiment distribution:
+  Positive: 1481 items (62.9%)
+  Negative: 504 items (21.4%)
+  Neutral: 368 items (15.6%)
+Aggregated data saved to /Users/austinho/sentiment-aggregator/data/aggregated_data_2025-03-19.csv
+Creating JSON version of the data...
+JSON data saved to /Users/austinho/sentiment-aggregator/data/aggregated_data_2025-03-19.json
+[2025-03-19 02:00:00] Data update completed.

@@ -1,0 +1,403 @@
+id,title,text,created_at,score,num_comments,upvote_ratio,subreddit,author,is_post,source,url,combined_text,cleaned_text,vader_sentiment,vader_compound,textblob_sentiment,textblob_polarity,textblob_subjectivity,sentiment_label,sentiment_score
+md3a1rx,,Here’s an example a friend just sent me of a company who seems to have done just this: https://lovable.dev/blog/from-python-to-go,2025-02-16 08:13:24,1,0,0.0,programming,shared_ptr,False,Reddit (r/programming),https://www.reddit.com/r/programming/comments/1iqt2dh/you_dont_need_python_to_build_ai_products/md3a1rx/,Here’s an example a friend just sent me of a company who seems to have done just this: https://lovable.dev/blog/from-python-to-go,Heres an example a friend just sent me of a company who seems to have done just this,"{'neg': 0.0, 'neu': 0.824, 'pos': 0.176, 'compound': 0.4939}",0.4939,"{'polarity': 0.0, 'subjectivity': 0.0}",0.0,0.0,Positive,0.4939
+1iu4wn3,Bolt.new vs lovable.dev vs v0,"Hi! Whilst I wish I had a fraction of the experience in this sub, alas I do not, and am starting to learn Next.js and whatever else I come across in my adventure to build something not trash. 
+
+I played around with these three AI builders and was impressed with the results… what do you think of them? Is there a ‘best’ one? Should I never touch them again? Are there any tips to use them? 
+
+Thank you! 😍 ",2025-02-20 10:04:08,0,7,0.5,webdev,stepheninfinite,True,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1iu4wn3/boltnew_vs_lovabledev_vs_v0/,"Bolt.new vs lovable.dev vs v0 Hi! Whilst I wish I had a fraction of the experience in this sub, alas I do not, and am starting to learn Next.js and whatever else I come across in my adventure to build something not trash. 
+
+I played around with these three AI builders and was impressed with the results… what do you think of them? Is there a ‘best’ one? Should I never touch them again? Are there any tips to use them? 
+
+Thank you! 😍 ","Bolt.new vs lovable.dev vs v0 Hi! Whilst I wish I had a fraction of the experience in this sub, alas I do not, and am starting to learn Next.js and whatever else I come across in my adventure to build something not trash. I played around with these three AI builders and was impressed with the results what do you think of them? Is there a best one? Should I never touch them again? Are there any tips to use them? Thank you!","{'neg': 0.047, 'neu': 0.769, 'pos': 0.185, 'compound': 0.9218}",0.9218,"{'polarity': 0.4, 'subjectivity': 0.6}",0.4,0.6,Positive,0.9218
+mduczka,,"I find Bolt.new to produce better results regardless of the prompts thoroughness. Lovable I personally haven’t had great luck with, and v0 has always been just mediocre at best. 
+
+One thing I do know is that Bolt.new is trained on much more recent UI designs so this is also why it typically follows up to date design principles. This could be why the results are typically more consistent.",2025-02-20 10:13:48,1,0,0.0,webdev,Economy-Addition-174,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1iu4wn3/boltnew_vs_lovabledev_vs_v0/mduczka/,"I find Bolt.new to produce better results regardless of the prompts thoroughness. Lovable I personally haven’t had great luck with, and v0 has always been just mediocre at best. 
+
+One thing I do know is that Bolt.new is trained on much more recent UI designs so this is also why it typically follows up to date design principles. This could be why the results are typically more consistent.","I find Bolt.new to produce better results regardless of the prompts thoroughness. Lovable I personally havent had great luck with, and v0 has always been just mediocre at best. One thing I do know is that Bolt.new is trained on much more recent UI designs so this is also why it typically follows up to date design principles. This could be why the results are typically more consistent.","{'neg': 0.075, 'neu': 0.78, 'pos': 0.144, 'compound': 0.745}",0.745,"{'polarity': 0.30757575757575756, 'subjectivity': 0.48636363636363633}",0.30757575757575756,0.48636363636363633,Positive,0.745
+1j6d84j,Best AI for Programming (2025-03),"Hey all, I've been using free-tier AI tools pretty intensively over the past few months to support my work and daily life. About 70% of my usage is for programming, and the rest is for other stuff. I’ve been jumping between tools like ChatGPT, Cursor AI, GitHub Copilot, Claude, and Deepseek—mostly because one of them is usually down or hits its limit when I need it.
+
+Recently, I discovered Lovable dev (along with similar options like Bolt and v0) and gave it a try—pretty impressive stuff 😅. Now I'm feeling a bit stuck on which one is really worth upgrading to a paid subscription.
+
+Any thoughts or suggestions? Also, if anyone’s got a setup that mixes two or more free AIs or even self-hosting options (whether on your own hardware or a rented server), I'm all ears.
+
+For context, I'm a fullstack developer. Thanks in advance!",2025-03-08 00:59:40,0,2,0.25,webdev,matchalixious,True,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j6d84j/best_ai_for_programming_202503/,"Best AI for Programming (2025-03) Hey all, I've been using free-tier AI tools pretty intensively over the past few months to support my work and daily life. About 70% of my usage is for programming, and the rest is for other stuff. I’ve been jumping between tools like ChatGPT, Cursor AI, GitHub Copilot, Claude, and Deepseek—mostly because one of them is usually down or hits its limit when I need it.
+
+Recently, I discovered Lovable dev (along with similar options like Bolt and v0) and gave it a try—pretty impressive stuff 😅. Now I'm feeling a bit stuck on which one is really worth upgrading to a paid subscription.
+
+Any thoughts or suggestions? Also, if anyone’s got a setup that mixes two or more free AIs or even self-hosting options (whether on your own hardware or a rented server), I'm all ears.
+
+For context, I'm a fullstack developer. Thanks in advance!","Best AI for Programming 202503 Hey all, Ive been using freetier AI tools pretty intensively over the past few months to support my work and daily life. About 70 of my usage is for programming, and the rest is for other stuff. Ive been jumping between tools like ChatGPT, Cursor AI, GitHub Copilot, Claude, and Deepseekmostly because one of them is usually down or hits its limit when I need it. Recently, I discovered Lovable dev along with similar options like Bolt and v0 and gave it a trypretty impressive stuff . Now Im feeling a bit stuck on which one is really worth upgrading to a paid subscription. Any thoughts or suggestions? Also, if anyones got a setup that mixes two or more free AIs or even selfhosting options whether on your own hardware or a rented server, Im all ears. For context, Im a fullstack developer. Thanks in advance!","{'neg': 0.012, 'neu': 0.788, 'pos': 0.199, 'compound': 0.9832}",0.9832,"{'polarity': 0.2543402777777778, 'subjectivity': 0.4414930555555555}",0.2543402777777778,0.4414930555555555,Positive,0.9832
+mgnp8f1,,"Claude Code is probably gonna be the best bet right now, if you don't mind the price. Lovable and Bolt are more like no code solutions and I wouldn't use them for anything too complex as it could be a nightmare trying to troubleshoot problems.",2025-03-08 01:08:29,2,0,0.0,webdev,WeeWooPeePoo69420,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j6d84j/best_ai_for_programming_202503/mgnp8f1/,"Claude Code is probably gonna be the best bet right now, if you don't mind the price. Lovable and Bolt are more like no code solutions and I wouldn't use them for anything too complex as it could be a nightmare trying to troubleshoot problems.","Claude Code is probably gonna be the best bet right now, if you dont mind the price. Lovable and Bolt are more like no code solutions and I wouldnt use them for anything too complex as it could be a nightmare trying to troubleshoot problems.","{'neg': 0.093, 'neu': 0.647, 'pos': 0.26, 'compound': 0.8524}",0.8524,"{'polarity': 0.39714285714285713, 'subjectivity': 0.4471428571428572}",0.39714285714285713,0.4471428571428572,Positive,0.8524
+1ivbqjv,Feedback on my landing page: atlasprods.com,"[https://atlasprods.com](https://atlasprods.com)
+
+This is my software dev agency landing page that I built with the help of [lovable.dev](http://lovable.dev) and [aider.chat](http://aider.chat) . Would love some feedback on how to improve it! I am also very new to SEO, so any tips on that for this React (Vite) project is also much appreciated",2025-02-21 21:40:41,0,3,0.33,webdev,ashwin_apk,True,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1ivbqjv/feedback_on_my_landing_page_atlasprodscom/,"Feedback on my landing page: atlasprods.com [https://atlasprods.com](https://atlasprods.com)
+
+This is my software dev agency landing page that I built with the help of [lovable.dev](http://lovable.dev) and [aider.chat](http://aider.chat) . Would love some feedback on how to improve it! I am also very new to SEO, so any tips on that for this React (Vite) project is also much appreciated","Feedback on my landing page atlasprods.com This is my software dev agency landing page that I built with the help of lovable.dev and aider.chat . Would love some feedback on how to improve it! I am also very new to SEO, so any tips on that for this React Vite project is also much appreciated","{'neg': 0.0, 'neu': 0.782, 'pos': 0.218, 'compound': 0.9245}",0.9245,"{'polarity': 0.33409090909090905, 'subjectivity': 0.43030303030303035}",0.33409090909090905,0.43030303030303035,Positive,0.9245
+1j402ff,IDE by Bind AI: New alternative to Lovable/Bolt with expanded language support,,2025-03-05 02:25:37,0,0,0.43,coding,Administrative-Bat18,True,Reddit (r/coding),https://www.reddit.com/r/coding/comments/1j402ff/ide_by_bind_ai_new_alternative_to_lovablebolt/,IDE by Bind AI: New alternative to Lovable/Bolt with expanded language support nan,IDE by Bind AI New alternative to LovableBolt with expanded language support nan,"{'neg': 0.0, 'neu': 0.816, 'pos': 0.184, 'compound': 0.4019}",0.4019,"{'polarity': 0.13636363636363635, 'subjectivity': 0.45454545454545453}",0.13636363636363635,0.45454545454545453,Positive,0.4019
+1j5d8j5,What's the correct way to manage billing and payments?,"Hi,
+
+Can anyone advise what the most common approach is to track customer balances?
+
+Let's say, one of the following examples: tenants rent, tuition payments, donor pledges etc. 
+
+I usually just have a single table, with a column for the Dues and a column for Amount In (payments). 
+
+Is this the recommended method? Or would you rather have a separate table for the bills and separate for payments?
+
+Also, if I want to link the payments to bills, is there an easy and efficient way for the user to click on a payment, or in the form of a new payment have a list of bills that need to be paid and automatically apply an amount to each bill? I've done something like this in appsheet but it was basically adding multiple rows, each allocation on a separate row. So if a payment covered five invoices/bills I had to add a new row for each bill allocation. 
+
+Now I'm playing around with Lovable.dev and want to create something more user friendly. 
+
+Any suggestions?",2025-03-06 18:37:51,3,13,0.67,learnprogramming,NoPerformance8615,True,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j5d8j5/whats_the_correct_way_to_manage_billing_and/,"What's the correct way to manage billing and payments? Hi,
+
+Can anyone advise what the most common approach is to track customer balances?
+
+Let's say, one of the following examples: tenants rent, tuition payments, donor pledges etc. 
+
+I usually just have a single table, with a column for the Dues and a column for Amount In (payments). 
+
+Is this the recommended method? Or would you rather have a separate table for the bills and separate for payments?
+
+Also, if I want to link the payments to bills, is there an easy and efficient way for the user to click on a payment, or in the form of a new payment have a list of bills that need to be paid and automatically apply an amount to each bill? I've done something like this in appsheet but it was basically adding multiple rows, each allocation on a separate row. So if a payment covered five invoices/bills I had to add a new row for each bill allocation. 
+
+Now I'm playing around with Lovable.dev and want to create something more user friendly. 
+
+Any suggestions?","Whats the correct way to manage billing and payments? Hi, Can anyone advise what the most common approach is to track customer balances? Lets say, one of the following examples tenants rent, tuition payments, donor pledges etc. I usually just have a single table, with a column for the Dues and a column for Amount In payments. Is this the recommended method? Or would you rather have a separate table for the bills and separate for payments? Also, if I want to link the payments to bills, is there an easy and efficient way for the user to click on a payment, or in the form of a new payment have a list of bills that need to be paid and automatically apply an amount to each bill? Ive done something like this in appsheet but it was basically adding multiple rows, each allocation on a separate row. So if a payment covered five invoicesbills I had to add a new row for each bill allocation. Now Im playing around with Lovable.dev and want to create something more user friendly. Any suggestions?","{'neg': 0.0, 'neu': 0.888, 'pos': 0.112, 'compound': 0.9444}",0.9444,"{'polarity': 0.13269382133018495, 'subjectivity': 0.39151908697363247}",0.13269382133018495,0.39151908697363247,Positive,0.9444
+1j4547j,Can someone help me solve my user signup problem by looking at my logs/any other details you want to see | I have used lovable and supabase,"Guys I've wasted nearly 40 prompts on [lovable.dev](http://lovable.dev/) which has a cost and 4 hours worth time to fix a simple student sign up issue. All I wanted was to make users sign up with their email and password and that to be stored in supabase for my food delivery site. It first frustrated me because of ""Edge Function returned a non-2xx status code"" error and now there's something called bycrypt error in edge functions which Lovable isnt able to solve.
+
+The weird fact is I've enabled email authentication already. In my food delivery website there are two sign up routes: one as a seller and one as a customer. I first made the sign up workflow for seller, it worked perfectly,I am still getting confirmation mails from supabase everytime I try registering with a new email id. Its sign up and login works perfectly. But when I asked it to do the same thing for customers too, it's not being able to do it.
+
+If someone can help me with it by looking at my logs or something,I would be thankful
+
+",2025-03-05 07:05:39,0,4,0.29,Supabase,adityamishrxa,True,Reddit (r/Supabase),https://www.reddit.com/r/Supabase/comments/1j4547j/can_someone_help_me_solve_my_user_signup_problem/,"Can someone help me solve my user signup problem by looking at my logs/any other details you want to see | I have used lovable and supabase Guys I've wasted nearly 40 prompts on [lovable.dev](http://lovable.dev/) which has a cost and 4 hours worth time to fix a simple student sign up issue. All I wanted was to make users sign up with their email and password and that to be stored in supabase for my food delivery site. It first frustrated me because of ""Edge Function returned a non-2xx status code"" error and now there's something called bycrypt error in edge functions which Lovable isnt able to solve.
+
+The weird fact is I've enabled email authentication already. In my food delivery website there are two sign up routes: one as a seller and one as a customer. I first made the sign up workflow for seller, it worked perfectly,I am still getting confirmation mails from supabase everytime I try registering with a new email id. Its sign up and login works perfectly. But when I asked it to do the same thing for customers too, it's not being able to do it.
+
+If someone can help me with it by looking at my logs or something,I would be thankful
+
+","Can someone help me solve my user signup problem by looking at my logsany other details you want to see I have used lovable and supabase Guys Ive wasted nearly 40 prompts on lovable.dev which has a cost and 4 hours worth time to fix a simple student sign up issue. All I wanted was to make users sign up with their email and password and that to be stored in supabase for my food delivery site. It first frustrated me because of Edge Function returned a non2xx status code error and now theres something called bycrypt error in edge functions which Lovable isnt able to solve. The weird fact is Ive enabled email authentication already. In my food delivery website there are two sign up routes one as a seller and one as a customer. I first made the sign up workflow for seller, it worked perfectly,I am still getting confirmation mails from supabase everytime I try registering with a new email id. Its sign up and login works perfectly. But when I asked it to do the same thing for customers too, its not being able to do it. If someone can help me with it by looking at my logs or something,I would be thankful","{'neg': 0.052, 'neu': 0.839, 'pos': 0.109, 'compound': 0.9052}",0.9052,"{'polarity': 0.15696022727272727, 'subjectivity': 0.43302218614718613}",0.15696022727272727,0.43302218614718613,Positive,0.9052
+mgalfur,,"Lovable used some shitty edge functions and I had to waste half of my monthly prompts for that. Its fixed now though, I used Supabase Auth directly. Petty problem",2025-03-05 23:27:48,1,0,0.0,Supabase,adityamishrxa,False,Reddit (r/Supabase),https://www.reddit.com/r/Supabase/comments/1j4547j/can_someone_help_me_solve_my_user_signup_problem/mgalfur/,"Lovable used some shitty edge functions and I had to waste half of my monthly prompts for that. Its fixed now though, I used Supabase Auth directly. Petty problem","Lovable used some shitty edge functions and I had to waste half of my monthly prompts for that. Its fixed now though, I used Supabase Auth directly. Petty problem","{'neg': 0.295, 'neu': 0.596, 'pos': 0.108, 'compound': -0.7096}",-0.7096,"{'polarity': 0.06666666666666668, 'subjectivity': 0.2533333333333333}",0.06666666666666668,0.2533333333333333,Negative,-0.7096
+1itgshg,💡 [Help] Can’t Create an Admin User & Access /admin with Supabase + Lovable,"Hey, I’m currently building a web application using Supabase and Lovable. My goal is to:
+
+• Create an admin user who has permissions to access /admin and manage content.
+
+• Ensure that my email has the “admin” role so I can log in and access the dashboard.
+
+However, I’m running into major issues:
+
+1. I can’t properly assign the “admin” role when creating a new user with Supabase Auth. I get endless error loops when trying to integrate it with Lovable.
+
+2. In the Supabase dashboard, I can’t manually set a new password for my email. It seems like password resets only work through magic links or reset password emails, but neither of them is working for me.
+
+3. Every attempt to implement role-based access (checking user roles before allowing access to /admin) leads to authentication issues or infinite loops.
+
+Questions:
+
+• What’s the best way to assign the “admin” role to a specific email on account creation in Supabase?
+
+• How can I manually set/reset a password for my account in the Supabase dashboard?
+
+• How do you properly check the user’s role before granting access to /admin in a Supabase + Lovable setup?
+
+Would really appreciate any guidance or working examples! Thanks in advance 🙌",2025-02-19 13:13:36,2,0,1.0,Supabase,anthonysc,True,Reddit (r/Supabase),https://www.reddit.com/r/Supabase/comments/1itgshg/help_cant_create_an_admin_user_access_admin_with/,"💡 [Help] Can’t Create an Admin User & Access /admin with Supabase + Lovable Hey, I’m currently building a web application using Supabase and Lovable. My goal is to:
+
+• Create an admin user who has permissions to access /admin and manage content.
+
+• Ensure that my email has the “admin” role so I can log in and access the dashboard.
+
+However, I’m running into major issues:
+
+1. I can’t properly assign the “admin” role when creating a new user with Supabase Auth. I get endless error loops when trying to integrate it with Lovable.
+
+2. In the Supabase dashboard, I can’t manually set a new password for my email. It seems like password resets only work through magic links or reset password emails, but neither of them is working for me.
+
+3. Every attempt to implement role-based access (checking user roles before allowing access to /admin) leads to authentication issues or infinite loops.
+
+Questions:
+
+• What’s the best way to assign the “admin” role to a specific email on account creation in Supabase?
+
+• How can I manually set/reset a password for my account in the Supabase dashboard?
+
+• How do you properly check the user’s role before granting access to /admin in a Supabase + Lovable setup?
+
+Would really appreciate any guidance or working examples! Thanks in advance 🙌","Help Cant Create an Admin User Access admin with Supabase Lovable Hey, Im currently building a web application using Supabase and Lovable. My goal is to Create an admin user who has permissions to access admin and manage content. Ensure that my email has the admin role so I can log in and access the dashboard. However, Im running into major issues 1. I cant properly assign the admin role when creating a new user with Supabase Auth. I get endless error loops when trying to integrate it with Lovable. 2. In the Supabase dashboard, I cant manually set a new password for my email. It seems like password resets only work through magic links or reset password emails, but neither of them is working for me. 3. Every attempt to implement rolebased access checking user roles before allowing access to admin leads to authentication issues or infinite loops. Questions Whats the best way to assign the admin role to a specific email on account creation in Supabase? How can I manually setreset a password for my account in the Supabase dashboard? How do you properly check the users role before granting access to admin in a Supabase Lovable setup? Would really appreciate any guidance or working examples! Thanks in advance","{'neg': 0.02, 'neu': 0.804, 'pos': 0.175, 'compound': 0.9886}",0.9886,"{'polarity': 0.2447192513368984, 'subjectivity': 0.4461229946524064}",0.2447192513368984,0.4461229946524064,Positive,0.9886
+1iwh0b7,Building 50 nano projects - what's my best solution?,"Hey guys, I am on a path to launch 50 projects this year and obviously using a paid plan for something that's mostly a hobby and not making that much money doesn't make a whole lot sense. 
+
+If I understand Supabase pricing correctly, I would spend $25 + $10 per project regardless of usage, meaning I have to spend over $500/month to run hobby projects. 
+
+What's my best solution here? Also, one very important thing - I am building all projects using AI IDE tools like Lovable or Createxyz or Creatr, and am unsure if self hosting supports those integrations. 
+
+I am also not technical beyond the basics so I would pretty much have to learn a lot of I was to self host - I am aware of that and willing to. 
+
+Thanks for your tips and help! ",2025-02-23 10:37:07,4,61,0.6,Supabase,MixPuzzleheaded5003,True,Reddit (r/Supabase),https://www.reddit.com/r/Supabase/comments/1iwh0b7/building_50_nano_projects_whats_my_best_solution/,"Building 50 nano projects - what's my best solution? Hey guys, I am on a path to launch 50 projects this year and obviously using a paid plan for something that's mostly a hobby and not making that much money doesn't make a whole lot sense. 
+
+If I understand Supabase pricing correctly, I would spend $25 + $10 per project regardless of usage, meaning I have to spend over $500/month to run hobby projects. 
+
+What's my best solution here? Also, one very important thing - I am building all projects using AI IDE tools like Lovable or Createxyz or Creatr, and am unsure if self hosting supports those integrations. 
+
+I am also not technical beyond the basics so I would pretty much have to learn a lot of I was to self host - I am aware of that and willing to. 
+
+Thanks for your tips and help! ","Building 50 nano projects whats my best solution? Hey guys, I am on a path to launch 50 projects this year and obviously using a paid plan for something thats mostly a hobby and not making that much money doesnt make a whole lot sense. If I understand Supabase pricing correctly, I would spend 25 10 per project regardless of usage, meaning I have to spend over 500month to run hobby projects. Whats my best solution here? Also, one very important thing I am building all projects using AI IDE tools like Lovable or Createxyz or Creatr, and am unsure if self hosting supports those integrations. I am also not technical beyond the basics so I would pretty much have to learn a lot of I was to self host I am aware of that and willing to. Thanks for your tips and help!","{'neg': 0.013, 'neu': 0.767, 'pos': 0.22, 'compound': 0.9846}",0.9846,"{'polarity': 0.3657142857142857, 'subjectivity': 0.4428571428571429}",0.3657142857142857,0.4428571428571429,Positive,0.9846
+medvx0z,,"Ok, do you know if that would allow me to also continue to integrate this with Lovable for example?",2025-02-23 10:50:57,1,0,0.0,Supabase,MixPuzzleheaded5003,False,Reddit (r/Supabase),https://www.reddit.com/r/Supabase/comments/1iwh0b7/building_50_nano_projects_whats_my_best_solution/medvx0z/,"Ok, do you know if that would allow me to also continue to integrate this with Lovable for example?","Ok, do you know if that would allow me to also continue to integrate this with Lovable for example?","{'neg': 0.0, 'neu': 0.664, 'pos': 0.336, 'compound': 0.7964}",0.7964,"{'polarity': 0.5, 'subjectivity': 0.5}",0.5,0.5,Positive,0.7964
+mee45u8,,"Ok, but how can I have database, RLS, tables etc connected to my Lovable project?",2025-02-23 11:30:48,0,0,0.0,Supabase,MixPuzzleheaded5003,False,Reddit (r/Supabase),https://www.reddit.com/r/Supabase/comments/1iwh0b7/building_50_nano_projects_whats_my_best_solution/mee45u8/,"Ok, but how can I have database, RLS, tables etc connected to my Lovable project?","Ok, but how can I have database, RLS, tables etc connected to my Lovable project?","{'neg': 0.0, 'neu': 0.628, 'pos': 0.372, 'compound': 0.7964}",0.7964,"{'polarity': 0.5, 'subjectivity': 0.5}",0.5,0.5,Positive,0.7964
+meiusha,,I have no clue what Lovable is tbh,2025-02-24 06:39:01,1,0,0.0,Supabase,lukyrouge3,False,Reddit (r/Supabase),https://www.reddit.com/r/Supabase/comments/1iwh0b7/building_50_nano_projects_whats_my_best_solution/meiusha/,I have no clue what Lovable is tbh,I have no clue what Lovable is tbh,"{'neg': 0.196, 'neu': 0.446, 'pos': 0.357, 'compound': 0.4215}",0.4215,"{'polarity': 0.5, 'subjectivity': 0.5}",0.5,0.5,Positive,0.4215
+melhnvs,,So you are suggesting that I can do this and have unlimited number of projects deployed in Supabase and edit them directly in Lovable or another IDE?,2025-02-24 14:10:55,1,0,0.0,Supabase,MixPuzzleheaded5003,False,Reddit (r/Supabase),https://www.reddit.com/r/Supabase/comments/1iwh0b7/building_50_nano_projects_whats_my_best_solution/melhnvs/,So you are suggesting that I can do this and have unlimited number of projects deployed in Supabase and edit them directly in Lovable or another IDE?,So you are suggesting that I can do this and have unlimited number of projects deployed in Supabase and edit them directly in Lovable or another IDE?,"{'neg': 0.0, 'neu': 0.819, 'pos': 0.181, 'compound': 0.6486}",0.6486,"{'polarity': 0.5, 'subjectivity': 0.5}",0.5,0.5,Positive,0.6486
+medwdqi,,"Lovable and Creatr as my 1st option here, I don't use Cursor yet",2025-02-23 10:53:11,1,0,0.0,Supabase,MixPuzzleheaded5003,False,Reddit (r/Supabase),https://www.reddit.com/r/Supabase/comments/1iwh0b7/building_50_nano_projects_whats_my_best_solution/medwdqi/,"Lovable and Creatr as my 1st option here, I don't use Cursor yet","Lovable and Creatr as my 1st option here, I dont use Cursor yet","{'neg': 0.0, 'neu': 0.733, 'pos': 0.267, 'compound': 0.6124}",0.6124,"{'polarity': 0.5, 'subjectivity': 0.5}",0.5,0.5,Positive,0.6124
+meli4me,,I am not sure how you would connect your instance to Lovable usually but yeah you can expose the PostgreSQL database port and connect to it.,2025-02-24 14:13:09,1,0,0.0,Supabase,LevelSoft1165,False,Reddit (r/Supabase),https://www.reddit.com/r/Supabase/comments/1iwh0b7/building_50_nano_projects_whats_my_best_solution/meli4me/,I am not sure how you would connect your instance to Lovable usually but yeah you can expose the PostgreSQL database port and connect to it.,I am not sure how you would connect your instance to Lovable usually but yeah you can expose the PostgreSQL database port and connect to it.,"{'neg': 0.114, 'neu': 0.708, 'pos': 0.179, 'compound': 0.444}",0.444,"{'polarity': 0.0, 'subjectivity': 0.5462962962962963}",0.0,0.5462962962962963,Positive,0.444
+meiddps,,"I am learning every week. But I can't do anything about the fact that Lovable integrates with Supabase natively and no other backend. 
+
+And NO, I don't think I need to learn how to code, no one needs to. I need to learn how AI works and writes code which I am doing, it's not rocket science to me, and I am only asking if anyone has a solution to my bottleneck. 
+
+There's an army of non devs building that have this exact problem. Devs that are capable should watch, listen, and build a solution vs looking down on us. I would look at this as a learning opportunity if I were you too.",2025-02-24 04:53:20,-3,0,0.0,Supabase,MixPuzzleheaded5003,False,Reddit (r/Supabase),https://www.reddit.com/r/Supabase/comments/1iwh0b7/building_50_nano_projects_whats_my_best_solution/meiddps/,"I am learning every week. But I can't do anything about the fact that Lovable integrates with Supabase natively and no other backend. 
+
+And NO, I don't think I need to learn how to code, no one needs to. I need to learn how AI works and writes code which I am doing, it's not rocket science to me, and I am only asking if anyone has a solution to my bottleneck. 
+
+There's an army of non devs building that have this exact problem. Devs that are capable should watch, listen, and build a solution vs looking down on us. I would look at this as a learning opportunity if I were you too.","I am learning every week. But I cant do anything about the fact that Lovable integrates with Supabase natively and no other backend. And NO, I dont think I need to learn how to code, no one needs to. I need to learn how AI works and writes code which I am doing, its not rocket science to me, and I am only asking if anyone has a solution to my bottleneck. Theres an army of non devs building that have this exact problem. Devs that are capable should watch, listen, and build a solution vs looking down on us. I would look at this as a learning opportunity if I were you too.","{'neg': 0.105, 'neu': 0.747, 'pos': 0.149, 'compound': 0.7544}",0.7544,"{'polarity': 0.14282407407407408, 'subjectivity': 0.46898148148148144}",0.14282407407407408,0.46898148148148144,Positive,0.7544
+1ikwjkd,Any youtube channel recommendation for learning Supabase over weekends?,"Hello, I'm a product designer and heard about Supabase from lovable. I want to learn Supabase and how backend work. Can you suggest 2-3 good YouTube channels to learn from? I plan to spend two weekends learning Supabase. Thanks ",2025-02-08 12:17:12,6,4,0.88,Supabase,Chintanned,True,Reddit (r/Supabase),https://www.reddit.com/r/Supabase/comments/1ikwjkd/any_youtube_channel_recommendation_for_learning/,"Any youtube channel recommendation for learning Supabase over weekends? Hello, I'm a product designer and heard about Supabase from lovable. I want to learn Supabase and how backend work. Can you suggest 2-3 good YouTube channels to learn from? I plan to spend two weekends learning Supabase. Thanks ","Any youtube channel recommendation for learning Supabase over weekends? Hello, Im a product designer and heard about Supabase from lovable. I want to learn Supabase and how backend work. Can you suggest 23 good YouTube channels to learn from? I plan to spend two weekends learning Supabase. Thanks","{'neg': 0.0, 'neu': 0.782, 'pos': 0.218, 'compound': 0.8875}",0.8875,"{'polarity': 0.4666666666666666, 'subjectivity': 0.43333333333333335}",0.4666666666666666,0.43333333333333335,Positive,0.8875
+1iw6roy,RLS infinite recursion detected in policy for relation,"Hi Guys
+
+Im building a order management platform for the construction industry with lovable. I have no experiance with coding, but things are still coming together nicely.
+
+I have one issue i have been battling for days now and nothing seems to work.
+
+  
+**From the console:**
+
+{code: '42P17', details: null, hint: null, message: 'infinite recursion detected in policy for relation ""organization\_members""'}
+
+  
+**The issue:**
+
+It wont fetch my organization anymore, it wont fetch team members. They are there in the backend, but it just wont fetch it.
+
+**What ive tried so far:**
+
+\- Redefining the RLS policies
+
+\- Changing to a flattened approach
+
+\- Changing to Materialized approach
+
+\- The JWT thing
+
+\- Updated the Site URL and redericting URLs to match the Vite URL
+
+  
+Lovable has suggested countless solutions ive tried out, but i still get the same issue.
+
+Does anyone have suggestions or solutions?
+
+",2025-02-23 01:54:33,2,1,1.0,Supabase,TheDipAfterTheDip,True,Reddit (r/Supabase),https://www.reddit.com/r/Supabase/comments/1iw6roy/rls_infinite_recursion_detected_in_policy_for/,"RLS infinite recursion detected in policy for relation Hi Guys
+
+Im building a order management platform for the construction industry with lovable. I have no experiance with coding, but things are still coming together nicely.
+
+I have one issue i have been battling for days now and nothing seems to work.
+
+  
+**From the console:**
+
+{code: '42P17', details: null, hint: null, message: 'infinite recursion detected in policy for relation ""organization\_members""'}
+
+  
+**The issue:**
+
+It wont fetch my organization anymore, it wont fetch team members. They are there in the backend, but it just wont fetch it.
+
+**What ive tried so far:**
+
+\- Redefining the RLS policies
+
+\- Changing to a flattened approach
+
+\- Changing to Materialized approach
+
+\- The JWT thing
+
+\- Updated the Site URL and redericting URLs to match the Vite URL
+
+  
+Lovable has suggested countless solutions ive tried out, but i still get the same issue.
+
+Does anyone have suggestions or solutions?
+
+","RLS infinite recursion detected in policy for relation Hi Guys Im building a order management platform for the construction industry with lovable. I have no experiance with coding, but things are still coming together nicely. I have one issue i have been battling for days now and nothing seems to work. From the console code 42P17, details null, hint null, message infinite recursion detected in policy for relation organization_members The issue It wont fetch my organization anymore, it wont fetch team members. They are there in the backend, but it just wont fetch it. What ive tried so far Redefining the RLS policies Changing to a flattened approach Changing to Materialized approach The JWT thing Updated the Site URL and redericting URLs to match the Vite URL Lovable has suggested countless solutions ive tried out, but i still get the same issue. Does anyone have suggestions or solutions?","{'neg': 0.027, 'neu': 0.87, 'pos': 0.103, 'compound': 0.9136}",0.9136,"{'polarity': 0.2833333333333334, 'subjectivity': 0.6041666666666666}",0.2833333333333334,0.6041666666666666,Positive,0.9136
+1ixaid1,Help : Having issues using the extensions.http_post or net.http_post to trigger Twilio Whatsapp Template.,"**Context -**   
+  
+I've used supabase for a month now (no prior coding experience), and so far it's been fairly straightforward to create the database/functions and interact with my web app (via Lovable).
+
+I've integrated Twilio Verify (for WhatsApp signups via OTP), but I'm having issues with the Content Template Builder.
+
+As per Twilio docs (https://www.twilio.com/docs/content/send-templates-created-with-the-content-template-builder) - it seems pretty straightforward. I've managed to trigger it correctly via postman.
+
+    CONTENT_VARIABLES_OBJ=$(cat << EOF
+    {
+      ""1"": ""Name""
+    }
+    EOF
+    )
+    curl -X POST ""https://api.twilio.com/2010-04-01/Accounts/$TWILIO_ACCOUNT_SID/Messages.json"" \
+    --data-urlencode ""ContentSid=HXXXXXXXXX"" \
+    --data-urlencode ""To=whatsapp:+18551234567"" \
+    --data-urlencode ""From=whatsapp:+15551234567"" \
+    --data-urlencode ""ContentVariables=$CONTENT_VARIABLES_OBJ"" \
+    -u $TWILIO_ACCOUNT_SID:$TWILIO_AUTH_TOKEN
+
+**Issues -** 
+
+However, once I start trying to use the http\_post extension, or the pg\_net http\_post, I'm having issues with sending the right authorization headers.
+
+    {""code"":20003,""message"":""Authenticate"",""more_info"":""https://www.twilio.com/docs/errors/20003"",""status"":401}
+
+    {""code"":20003,""message"":""Authentication Error - No credentials provided"",""more_info"":""https://www.twilio.com/docs/errors/20003"",""status"":401}
+    
+
+I've tried those two, as well as the database webhook to try to make a simple(?) http post, but the AI doesn't seem too helpful when it comes to structuring the request properly, and I'm sort of stuck.
+
+I didn't try the Edge Functions yet (seems a bit daunting, but I guess I'll give it a go tomorrow), especially since I think I'm sort of on the right track - and it looks like a simple syntax issue.
+
+**Function -**
+
+A lot of the variables are hard coded, I can fix by myself later, but it seems like the core issue is around passing the Authorization headers. I've tried several variations for the arguments. Here's my latest one.
+
+    CREATE OR REPLACE FUNCTION public.send_whatsapp_message() 
+    RETURNS jsonb 
+    SECURITY DEFINER AS $$
+    DECLARE
+        response jsonb;  -- Variable to hold the response
+        data jsonb;      -- Variable to hold the request body as JSONB
+        headers jsonb;   -- Variable to hold headers as JSONB
+    BEGIN
+        -- Prepare the data as a JSON object with hardcoded values
+        data := jsonb_build_object(
+            'ContentSid', 'HX4c529cXXXXXXXXXXXXX',  -- Hardcoded Content SID
+            'To', 'whatsapp:+XXXXXXXXXX',  -- Hardcoded WhatsApp number
+            'ContentVariables', jsonb_build_object(  -- Hardcoded content variables
+                '1', 'John', 
+                '2', 'John''s Supa Tournament',
+                '3', 'La Isla Beau Plan',
+                '4', '20th Feb 2025, 20:00',
+                '5', '8a550756-3eb8-408c-85e5-78ad4a0365c1'
+            ),
+            'MessagingServiceSid', 'MG6XXXXXXXXXXXXXXXX'  -- Hardcoded Messaging Service SID
+        );
+    
+      -- Prepare headers as JSONB, including the authorization header directly
+        headers := jsonb_build_object(
+            'Authorization', 'Basic ' || encode(convert_to('ACCOUNT_SID:AUTH_TOKEN', 'UTF8'), 'base64'),
+            'Content-Type', 'application/json'
+        );
+    
+        -- Make the HTTP POST request using net.http_post
+        response := net.http_post(
+            'https://api.twilio.com/2010-04-01/Accounts/ACCOUNT_SID/Messages.json',  -- URL
+            data,  -- Pass the data as JSONB
+            '{}'::jsonb,
+            headers,  -- Pass the headers directly
+            5000
+        );
+    
+        RETURN response;  -- Return the response from the HTTP request
+    
+    EXCEPTION
+        WHEN OTHERS THEN
+            RAISE NOTICE 'Error sending WhatsApp message: %', SQLERRM;
+            RETURN jsonb_build_object('success', false, 'message', SQLERRM);  -- Return error message
+    END;
+    $$ LANGUAGE plpgsql;
+
+I've also run the function (without calling the http\_post) to see whether there was an issue with the arguments when submitted, but it seems fine to me?
+
+https://preview.redd.it/q5k9dxy115le1.png?width=1302&format=png&auto=webp&s=2088ac90a9e20a333bb7d1efc2689ff8d5456618
+
+Help!  
+",2025-02-24 11:26:02,1,0,1.0,Supabase,mafmaafmaaaf,True,Reddit (r/Supabase),https://www.reddit.com/r/Supabase/comments/1ixaid1/help_having_issues_using_the_extensionshttp_post/,"Help : Having issues using the extensions.http_post or net.http_post to trigger Twilio Whatsapp Template. **Context -**   
+  
+I've used supabase for a month now (no prior coding experience), and so far it's been fairly straightforward to create the database/functions and interact with my web app (via Lovable).
+
+I've integrated Twilio Verify (for WhatsApp signups via OTP), but I'm having issues with the Content Template Builder.
+
+As per Twilio docs (https://www.twilio.com/docs/content/send-templates-created-with-the-content-template-builder) - it seems pretty straightforward. I've managed to trigger it correctly via postman.
+
+    CONTENT_VARIABLES_OBJ=$(cat << EOF
+    {
+      ""1"": ""Name""
+    }
+    EOF
+    )
+    curl -X POST ""https://api.twilio.com/2010-04-01/Accounts/$TWILIO_ACCOUNT_SID/Messages.json"" \
+    --data-urlencode ""ContentSid=HXXXXXXXXX"" \
+    --data-urlencode ""To=whatsapp:+18551234567"" \
+    --data-urlencode ""From=whatsapp:+15551234567"" \
+    --data-urlencode ""ContentVariables=$CONTENT_VARIABLES_OBJ"" \
+    -u $TWILIO_ACCOUNT_SID:$TWILIO_AUTH_TOKEN
+
+**Issues -** 
+
+However, once I start trying to use the http\_post extension, or the pg\_net http\_post, I'm having issues with sending the right authorization headers.
+
+    {""code"":20003,""message"":""Authenticate"",""more_info"":""https://www.twilio.com/docs/errors/20003"",""status"":401}
+
+    {""code"":20003,""message"":""Authentication Error - No credentials provided"",""more_info"":""https://www.twilio.com/docs/errors/20003"",""status"":401}
+    
+
+I've tried those two, as well as the database webhook to try to make a simple(?) http post, but the AI doesn't seem too helpful when it comes to structuring the request properly, and I'm sort of stuck.
+
+I didn't try the Edge Functions yet (seems a bit daunting, but I guess I'll give it a go tomorrow), especially since I think I'm sort of on the right track - and it looks like a simple syntax issue.
+
+**Function -**
+
+A lot of the variables are hard coded, I can fix by myself later, but it seems like the core issue is around passing the Authorization headers. I've tried several variations for the arguments. Here's my latest one.
+
+    CREATE OR REPLACE FUNCTION public.send_whatsapp_message() 
+    RETURNS jsonb 
+    SECURITY DEFINER AS $$
+    DECLARE
+        response jsonb;  -- Variable to hold the response
+        data jsonb;      -- Variable to hold the request body as JSONB
+        headers jsonb;   -- Variable to hold headers as JSONB
+    BEGIN
+        -- Prepare the data as a JSON object with hardcoded values
+        data := jsonb_build_object(
+            'ContentSid', 'HX4c529cXXXXXXXXXXXXX',  -- Hardcoded Content SID
+            'To', 'whatsapp:+XXXXXXXXXX',  -- Hardcoded WhatsApp number
+            'ContentVariables', jsonb_build_object(  -- Hardcoded content variables
+                '1', 'John', 
+                '2', 'John''s Supa Tournament',
+                '3', 'La Isla Beau Plan',
+                '4', '20th Feb 2025, 20:00',
+                '5', '8a550756-3eb8-408c-85e5-78ad4a0365c1'
+            ),
+            'MessagingServiceSid', 'MG6XXXXXXXXXXXXXXXX'  -- Hardcoded Messaging Service SID
+        );
+    
+      -- Prepare headers as JSONB, including the authorization header directly
+        headers := jsonb_build_object(
+            'Authorization', 'Basic ' || encode(convert_to('ACCOUNT_SID:AUTH_TOKEN', 'UTF8'), 'base64'),
+            'Content-Type', 'application/json'
+        );
+    
+        -- Make the HTTP POST request using net.http_post
+        response := net.http_post(
+            'https://api.twilio.com/2010-04-01/Accounts/ACCOUNT_SID/Messages.json',  -- URL
+            data,  -- Pass the data as JSONB
+            '{}'::jsonb,
+            headers,  -- Pass the headers directly
+            5000
+        );
+    
+        RETURN response;  -- Return the response from the HTTP request
+    
+    EXCEPTION
+        WHEN OTHERS THEN
+            RAISE NOTICE 'Error sending WhatsApp message: %', SQLERRM;
+            RETURN jsonb_build_object('success', false, 'message', SQLERRM);  -- Return error message
+    END;
+    $$ LANGUAGE plpgsql;
+
+I've also run the function (without calling the http\_post) to see whether there was an issue with the arguments when submitted, but it seems fine to me?
+
+https://preview.redd.it/q5k9dxy115le1.png?width=1302&format=png&auto=webp&s=2088ac90a9e20a333bb7d1efc2689ff8d5456618
+
+Help!  
+","Help Having issues using the extensions. or net. to trigger Twilio Whatsapp Template. Context Ive used supabase for a month now no prior coding experience, and so far its been fairly straightforward to create the databasefunctions and interact with my web app via Lovable. Ive integrated Twilio Verify for WhatsApp signups via OTP, but Im having issues with the Content Template Builder. As per Twilio docs it seems pretty straightforward. Ive managed to trigger it correctly via postman. CONTENT_VARIABLES_OBJcat EOF 1 Name EOF curl X POST dataurlencode ContentSidHXXXXXXXXX dataurlencode Towhatsapp18551234567 dataurlencode Fromwhatsapp15551234567 dataurlencode ContentVariablesCONTENT_VARIABLES_OBJ u TWILIO_ACCOUNT_SIDTWILIO_AUTH_TOKEN Issues However, once I start trying to use the extension, or the pg_net Im having issues with sending the right authorization headers. code20003,messageAuthenticate,more_info code20003,messageAuthentication Error No credentials provided,more_info Ive tried those two, as well as the database webhook to try to make a simple? http post, but the AI doesnt seem too helpful when it comes to structuring the request properly, and Im sort of stuck. I didnt try the Edge Functions yet seems a bit daunting, but I guess Ill give it a go tomorrow, especially since I think Im sort of on the right track and it looks like a simple syntax issue. Function A lot of the variables are hard coded, I can fix by myself later, but it seems like the core issue is around passing the Authorization headers. Ive tried several variations for the arguments. Heres my latest one. CREATE OR REPLACE FUNCTION public.send_whatsapp_message RETURNS jsonb SECURITY DEFINER AS DECLARE response jsonb Variable to hold the response data jsonb Variable to hold the request body as JSONB headers jsonb Variable to hold headers as JSONB BEGIN Prepare the data as a JSON object with hardcoded values data jsonb_build_object ContentSid, HX4c529cXXXXXXXXXXXXX, Hardcoded Content SID To, whatsappXXXXXXXXXX, Hardcoded WhatsApp number ContentVariables, jsonb_build_object Hardcoded content variables 1, John, 2, Johns Supa Tournament, 3, La Isla Beau Plan, 4, 20th Feb 2025, 2000, 5, 8a5507563eb8408c85e578ad4a0365c1 , MessagingServiceSid, MG6XXXXXXXXXXXXXXXX Hardcoded Messaging Service SID Prepare headers as JSONB, including the authorization header directly headers jsonb_build_object Authorization, Basic encodeconvert_toACCOUNT_SIDAUTH_TOKEN, UTF8, base64, ContentType, applicationjson Make the HTTP POST request using net. response net. URL data, Pass the data as JSONB jsonb, headers, Pass the headers directly 5000 RETURN response Return the response from the HTTP request EXCEPTION WHEN OTHERS THEN RAISE NOTICE Error sending WhatsApp message , SQLERRM RETURN jsonb_build_objectsuccess, false, message, SQLERRM Return error message END LANGUAGE plpgsql Ive also run the function without calling the to see whether there was an issue with the arguments when submitted, but it seems fine to me? Help!","{'neg': 0.073, 'neu': 0.843, 'pos': 0.084, 'compound': 0.6501}",0.6501,"{'polarity': 0.08463827838827837, 'subjectivity': 0.4077838827838827}",0.08463827838827837,0.4077838827838827,Positive,0.6501

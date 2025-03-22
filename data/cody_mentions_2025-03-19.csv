@@ -1,0 +1,12 @@
+id,title,text,created_at,score,num_comments,upvote_ratio,subreddit,author,is_post,source,url
+mhp4wdm,,"Hi! Agentic Chat is currently using Sonnet 3.5, and **at the moment**, there are no official plans to upgrade to 3.7. But if that changes, we'll be sure to keep you posted right here: [https://sourcegraph.com/changelog](https://sourcegraph.com/changelog)",2025-03-14 00:45:16,1,0,0.0,sourcegraph,jdorfman,False,Reddit (r/sourcegraph),https://www.reddit.com/r/sourcegraph/comments/1jaq2bl/is_agentic_chat_updated_with_sonnet_37/mhp4wdm/
+1jeik86,"I regret subscribing to the Cody pro version, I just signed up and I started getting usage policy violation errors. Is anyone else experiencing this problem?","I keep getting this error, I don't use it for anything other than assistance with refactoring and code creation, this is really annoying. Is anyone else experiencing this problem?  
+  
+\`\`\`Error: Anthropic (Sourcegraph Cody Gateway): unexpected status code 400: {""error"":""We blocked your request because we detected your prompt to be against our Acceptable Use Policy (https://sourcegraph.com/terms/aup). Try again by removing any phrases that may violate our AUP. If you think this is a mistake, please contact support@sourcegraph.com and reference this ID: ec19654b2a9815169c9306b6b8f88a77""}
+
+\`\`\`",2025-03-18 18:59:28,2,0,1.0,sourcegraph,emanuel-braz,True,Reddit (r/sourcegraph),https://www.reddit.com/r/sourcegraph/comments/1jeik86/i_regret_subscribing_to_the_cody_pro_version_i/
+mduphdp,,Cody by Sourcegraph has had this for ages,2025-02-20 14:10:21,2,0,0.0,vscode,timvk23,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mduphdp/
+1ivilon,Looking for an extension but can't remember what it is called,"Looking for a vscode extension that lets you highlight a function, and searches for functions by name across multiple repositories, similar to Sourcegraph search functionality, but github focused (maybe).
+
+  
+I recall using it a few years ago and was wowed but I can't remember it now.",2025-02-22 08:21:55,1,0,1.0,vscode,hoffeig,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ivilon/looking_for_an_extension_but_cant_remember_what/

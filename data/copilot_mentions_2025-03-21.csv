@@ -1,0 +1,1234 @@
+id,title,text,created_at,score,num_comments,upvote_ratio,subreddit,author,is_post,source,url
+1jeugfh,Is it possible to bypass copilot free period,"My copilot auto complete just stopped working cuz of the ending of the free trial 
+Can I just make a new GitHub account to bypass.",2025-03-19 07:08:31,0,6,0.19,github,ialwaysmakenewaccnts,True,Reddit (r/github),https://www.reddit.com/r/github/comments/1jeugfh/is_it_possible_to_bypass_copilot_free_period/
+millv5y,,Yeah it’s called GitHub copilot pro,2025-03-19 07:13:19,12,0,0.0,github,matfat55,False,Reddit (r/github),https://www.reddit.com/r/github/comments/1jeugfh/is_it_possible_to_bypass_copilot_free_period/millv5y/
+1ja5zpu,Is GPT-4o Copilot really better?,"Maybe I'm mistaken because I mainly use PHP and Laravel with PhpStorm. Yes, this new model is faster but I think the quality of the suggestions and its awareness about surrounding code and comments are reduced compared to whatever model selected by default previously.
+
+What is your experience with it?",2025-03-13 02:46:31,4,3,0.75,github,pasinduru,True,Reddit (r/github),https://www.reddit.com/r/github/comments/1ja5zpu/is_gpt4o_copilot_really_better/
+miyfrh7,,"the previous model was **GPT-3.5 turbo**
+
+The only thing that i feel like is worse is the speed actually sometimes its SUPER fast and others it takes 2 minutes to update a single line of code also sometimes (might be a copilot issue) when the edit mode generates 2 edits in the same message for the same file a conflict happens and i get alot of syntax errors i don't remember this happening using the 3.5 turbo version",2025-03-21 07:27:47,1,0,0.0,github,XIVIX1345,False,Reddit (r/github),https://www.reddit.com/r/github/comments/1ja5zpu/is_gpt4o_copilot_really_better/miyfrh7/
+1j03wek,github copilot pro isn't working,"hello everyone i got copilot pro with my student mail but it reached a monthly limit, isn't the copilot pro supposted to have unlimited chat messages?  
+
+https://preview.redd.it/9c4giyavmule1.png?width=1312&format=png&auto=webp&s=09c4006f791c1482e45d54c37db2fb35d32b238b
+
+https://preview.redd.it/cvl5zbi3nule1.png?width=1376&format=png&auto=webp&s=5f66b6895ab867662df04fe2f0c05b8c431c9ac5
+
+",2025-02-28 04:31:21,0,3,0.29,github,cafarlegn,True,Reddit (r/github),https://www.reddit.com/r/github/comments/1j03wek/github_copilot_pro_isnt_working/
+1j7ptc5,Why github copilot disabled sonnet 3.7 to be used on third party vscode apps?,"I've got github copilot pro only because I'd liked to access  Claude 3.7 sonnet  without paying through nose per token and copilot claims to offer \`Unlimited messages and interactions\` with ai models. To my disappointment though, I realised that, in vscode LM API (which I wanted to use on Cline), github only allows sonnet 3.5 and a few more sub-par models. So I'm wondering what is the reason behind this restriction and if there is any chance that this ban on 3.7 be removed anytime soon?  ",2025-03-09 23:43:22,0,1,0.5,github,blnkslt,True,Reddit (r/github),https://www.reddit.com/r/github/comments/1j7ptc5/why_github_copilot_disabled_sonnet_37_to_be_used/
+1jb3dvi,The Rise Of Vibe Coding: A Practical Experiment With GitHub Copilot,,2025-03-14 09:02:37,0,0,0.33,github,derjanni,True,Reddit (r/github),https://www.reddit.com/r/github/comments/1jb3dvi/the_rise_of_vibe_coding_a_practical_experiment/
+1iyhdrr,Clarification on Copilot Pro Subscription Cancellation and Billing,"I mistakenly activated Copilot Pro on February 26, but I noticed that it started without charging me the $10 monthly fee. I immediately canceled the subscription without using the service. However, my billing page now shows that my access will expire in 3 days, and it still lists a $10 next payment scheduled for February 28, 2025.
+
+Since I haven’t used the service and canceled it right away, I’d like to confirm whether I will be charged on February 28. If a charge does occur, is there a way to request a refund?",2025-02-26 01:38:54,1,1,1.0,github,remanapple,True,Reddit (r/github),https://www.reddit.com/r/github/comments/1iyhdrr/clarification_on_copilot_pro_subscription/
+1ixfcra,Claude 3.5 Sonnet model is unavailable in Copilot,,2025-02-24 17:42:43,0,1,0.2,github,ghredditbot,True,Reddit (r/github),https://www.reddit.com/r/github/comments/1ixfcra/claude_35_sonnet_model_is_unavailable_in_copilot/
+1izefmq,Github copilot public preview,"Website says copilot code reviews in public preview but says i cant sign up cause im already on the waiting list
+
+https://github.blog/changelog/2025-02-26-code-review-in-github-copilot-is-now-in-public-preview/
+
+```Member has already signed up for the waitlist ```
+
+Edit: seems theres a discussion about this problem here: https://github.com/orgs/community/discussions/141896",2025-02-27 07:19:00,2,0,1.0,github,mixxituk,True,Reddit (r/github),https://www.reddit.com/r/github/comments/1izefmq/github_copilot_public_preview/
+1ixtne8,Why many errors in editting mode on vscode copilot. Just tried sonnet 3.5 and also 3.7 preview.,,2025-02-25 07:18:17,0,0,0.25,github,Longjumping-Neck-317,True,Reddit (r/github),https://www.reddit.com/r/github/comments/1ixtne8/why_many_errors_in_editting_mode_on_vscode/
+mes5u6a,,"Have you tried asking copilot to explain the repository? I find it useful, or ask it where something specific is like where's are the routes in this ruby on rails project? etc",2025-02-25 17:20:51,1,0,0.0,github,Acrobatic_Idea_3358,False,Reddit (r/github),https://www.reddit.com/r/github/comments/1iy5jpo/trying_to_get_started_on_open_source_but_cant/mes5u6a/
+meyorya,,Ask copilot workspace or AI in general,2025-02-26 16:55:05,1,0,0.0,github,webdevmax,False,Reddit (r/github),https://www.reddit.com/r/github/comments/1iy5jpo/trying_to_get_started_on_open_source_but_cant/meyorya/
+mfaws2d,,"GitHub Copilot is available free for everyone now, just open a project on the GitHub website and ask it to describe how the code works or where certain features are implemented. It will help you untangle the spaghetti. It can write a full set of documentation for a project that has none and explain any code that you don't understand.",2025-02-28 14:23:31,1,0,0.0,github,MotivatedMacaroni,False,Reddit (r/github),https://www.reddit.com/r/github/comments/1iy5jpo/trying_to_get_started_on_open_source_but_cant/mfaws2d/
+1it1l3v,"Is a "".copilotignore"" Feature on the Horizon for Individual Users?","I’ve been digging into ways to enhance security while using GitHub Copilot—specifically, a method to prevent it (and Copilot Chat) from reading certain sensitive files (like .env, .config files). I’m aware that GitHub Copilot Business/Enterprise has content exclusion settings that let you specify file paths to ignore. However, as an individual subscriber, I don’t see an equivalent option.
+
+My ideal solution would be something similar to a “.copilotignore” file (or a configuration option within VSCode) that would allow me to disable Copilot’s access to files containing sensitive data. 
+
+Has anyone heard any news about plans for a native “.copilotignore” support or similar feature for individual users? Or are there any reliable workarounds that you’ve come across? I’d love to hear your thoughts and any updates on this feature request.
+
+Thanks in advance!",2025-02-19 04:30:57,16,9,0.86,github,Regular_Low6356,True,Reddit (r/github),https://www.reddit.com/r/github/comments/1it1l3v/is_a_copilotignore_feature_on_the_horizon_for/
+mdl8e9r,,"This is already available for Business and Enterprise Copilot accounts : https://docs.github.com/en/copilot/managing-copilot/configuring-and-auditing-content-exclusion/excluding-content-from-github-copilot
+Not individual accounts yet though.",2025-02-19 04:51:02,9,0,0.0,github,guigui42,False,Reddit (r/github),https://www.reddit.com/r/github/comments/1it1l3v/is_a_copilotignore_feature_on_the_horizon_for/mdl8e9r/
+mhwrc0c,,"try go to [GitHub Education](https://education.github.com/learner/learn) page. On the right side of this page, in a yellow box, it will say ""Enabling Copilot To ensure your free Copilot benefit is enabled, redeem by going to this link."" Click on the LEARN MORE button. You can activate the pro plan from the page you are directed to.
+
+EDIT: You can also see the offers received (Claimed offers) just below the yellow box.
+
+#",2025-03-15 08:17:10,32,0,0.0,github,Curious_Person_fr,False,Reddit (r/github),https://www.reddit.com/r/github/comments/1jbto0m/i_got_github_pro_using_my_college_mail_but_on_the/mhwrc0c/
+mdsx3zj,,"Projects
+
+Wiki
+
+Issues
+
+Actions
+
+Copilot
+
+Pull Requests",2025-02-20 09:05:18,8,0,0.0,github,MaybeLiterally,False,Reddit (r/github),https://www.reddit.com/r/github/comments/1ityr38/what_can_you_do_on_github_besides_keep_a_history/mdsx3zj/
+mdt0lwy,,"GitHub is:
+
+* Cloud hosting for Git repos (and that doesn't just mean you can see what changed - you can also rewind to previous points in time)
+* Somewhere to examine and accept [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) from other developers
+* Somewhere to [track issues](https://github.com/features/issues) with your code
+* Somewhere to [plan your work](https://docs.github.com/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
+* Hosting for [simple static websites](https://pages.github.com/) about you and your projects
+* Somewhere to run your [continuous integration and continuous deployment](https://github.com/features/actions)
+* Your [AI pair programmer](https://github.com/features/copilot)
+
+And many other things.",2025-02-20 09:24:41,9,0,0.0,github,davorg,False,Reddit (r/github),https://www.reddit.com/r/github/comments/1ityr38/what_can_you_do_on_github_besides_keep_a_history/mdt0lwy/
+mg71eb8,,Doesn't Github Copilot already support this?,2025-03-05 14:03:53,1,0,0.0,github,500_internal_error,False,Reddit (r/github),https://www.reddit.com/r/github/comments/1j47ysu/code_reviews_take_forever_anyone_using_pr_bot/mg71eb8/
+mevb0d6,,"GitHub Copilot Labs has a feature that scans issues in repos. It's still experimental, so take it with a grain of salt.
+
+You can also use GitHub's search with specific keywords + filters. Not AI, but you can quickly find similar issues others faced.",2025-02-26 06:33:52,1,0,0.0,github,Smashing-baby,False,Reddit (r/github),https://www.reddit.com/r/github/comments/1iyl2ry/is_there_software_that_uses_ai_to_read_through/mevb0d6/
+1j38tgx,Having problems signing in to github on codespaces 😭,"So when I open one of my codespaces, it doesn't automatically sign in to github, so I can't even use copilot, can't use source control or github actions. I don't know what to do at this point ",2025-03-04 06:36:49,0,0,0.4,github,Lowkeeey1,True,Reddit (r/github),https://www.reddit.com/r/github/comments/1j38tgx/having_problems_signing_in_to_github_on_codespaces/
+1isa99s,Locked out of an account with ongoing subscription,"First of all and in my defense I was very young when I set up my github account first year of school about a decade ago, barely ever touched it after that, quickly set up sub for Copilot at some point and never bothered to check my old student email for warnings about 2FA.
+
+Now I don't know if I didn't set up 2FA properly or if someone got access to my account and set it up for themseleves (account looks fine, old public repositories ok, no visible activity on my profile) but it sure is enabled and I have essentially no way to log in ever again. 
+
+Whatever, such is the game of 2FA, fine. It's an old student account with almost nothing on it anyway.
+
+However, my subscription is still going. I made a support request (TERRIBLE system when you can't log in by the way) to have it cancelled in late December. No answer a month and a half later, and still being billed.
+
+Now, the next steps available to me are a legal private information deletion request (legal in my country) or getting a whole ass new credit card just for github. Needless to say it would be a massive hassle.
+
+Has anyone ever managed to have their subscription stopped without being able to log in? ",2025-02-18 06:07:20,1,1,0.56,github,Reiisalie,True,Reddit (r/github),https://www.reddit.com/r/github/comments/1isa99s/locked_out_of_an_account_with_ongoing_subscription/
+1ixu61k,Introducing GitHub Copilot agent mode (preview),,2025-02-25 07:47:25,131,55,0.95,vscode,feross,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ixu61k/introducing_github_copilot_agent_mode_preview/
+mepggag,,"Hi - Isidor here, I am the author of the blog and a PM on the VS Code team.  
+If you have any questions about Copilot agent mode, or VS Code general just ask, and I will be happy to answer.
+
+Also I would love to hear how Copilot agent mode is working for you? What's good? What needs to be improved. Thanks!",2025-02-25 09:36:00,50,0,0.0,vscode,PoemBusiness6939,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ixu61k/introducing_github_copilot_agent_mode_preview/mepggag/
+mexk0kt,,"Hi Isidor! Awesome upgrades to GitHub Copilot since inception. I’m actually learning by using it. One question about Agent mode. Is it enabled by default or do I need to manually. I’m not seeing the “agent” drop-down, just the edit. I am a pro subscriber and have a good sense of the UI in VS code but I’m not able to use agent mode after switching from chat mode. Would greatly appreciate some guidance. (Or anyone who may know) 
+
+Thanks 😀
+
+Edit: Just read a comment that reflects why I’m not seeing it. Patiently awaiting the push the “regular” plug-in. 🤓",2025-02-26 13:49:22,1,0,0.0,vscode,bermuda-stew190,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ixu61k/introducing_github_copilot_agent_mode_preview/mexk0kt/
+meqd084,,"The main flaw of Copilot Agent mode when I tried it is that it can't run the linter/formatter. Ideally, it should do this after every single file change.
+
+Picture a codebase with a very strict TSConfig and ESLint config. When the AI generates code, it generates non-compliant code. It then finds a bajillion errors that AI fundamentally cannot understand or fix. It then tries to fix by typing random bullshit everywhere, and the cycle continues until you've wasted enough tokens to be rate limited or something.
+
+That's a garbage user experience and the MVP shouldn't come out without the ability to save the files & run auto-fixes.",2025-02-25 12:16:49,5,0,0.0,vscode,NatoBoram,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ixu61k/introducing_github_copilot_agent_mode_preview/meqd084/
+mepy4n1,,"Hey Isidor, love seeing you guys catching up to the competition. Quick question, are you running anything behind the scenes that might be reducing the effectiveness of our prompts? Especially with a pricey model like Claude, I sometimes feel like the one inside GitHub Copilot isn’t as sharp as when I call the API directly.",2025-02-25 11:05:51,3,0,0.0,vscode,pica16,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ixu61k/introducing_github_copilot_agent_mode_preview/mepy4n1/
+merxqf3,,"Thanks for developing these features and getting to answer some questions. I have a few:
+
+1. Will the agents feature cost extra to regular copilot? Will there be faster and slower requests depending on your subscription? A ballpark figure would be fine
+1. Will the agents feature allow selecting different AI models to send questions to?
+1. When do you guess this is going to move to stable? Ballpark figure is fine as well, I understand there can be a long road ahead.
+1. Why is it called Copilot when under the hood it uses the Claude model? I thought all Copilot branding from Microsoft uses the ChatGPT and other OpenAI models?
+1. Are there third party AI assistants you look at for inspiration and what features you saw them implement that you just had to have?
+1. Will there be a solution to automatically import dependencies with autocomplete or do you really rely on agents to do that?
+1. Will Copilot in the future implement eslint/stylelint/htmlhint and other linters to write the code how you want it?
+1. Will copilot be open to third party extensions to implement as AI backend or have them use AI for certain features too or will it be limited to what VSCode and Copilot decide?
+1. Will third party extensions get the same API's for VSCode that Copilot is using?
+
+I have had some experience with Cline and Cursor. I love how they can do all kinds of things automatically and think there's a big future to having them do stuff. Still a lot of work to do and fine-tune because at times they still make stuff up, keep circling around the same solution or get confused about the issues to fix. Or that it refuses to look into my constants and interface (files) to see what the object will be like. But I also noticed that its a lot more expensive than what a regular subscription is able to do. And I get it, these requests cost more power, but it would still be nice to have some unlimited (with some fair use off course) subscriptions so its easy to forward the costs to my employer and whatnot.",2025-02-25 16:42:06,1,0,0.0,vscode,AwesomeFrisbee,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ixu61k/introducing_github_copilot_agent_mode_preview/merxqf3/
+meuyoaw,,"Hi, I would love to have a setting to prevent autoscrolling of the responses. Or that it always resets to the top... I know about several openend issues like [https://github.com/microsoft/vscode-copilot-release/issues/138](https://github.com/microsoft/vscode-copilot-release/issues/138) but they are all closed. 
+
+My ""workarounds"" are two options which are annoying af:
+
+1. I don't look at it... until it's done.
+
+2. I immediatly move the content a bit down, so it doesn't scroll automatically. And ... wait.",2025-02-26 04:34:41,1,0,0.0,vscode,hackedieter,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ixu61k/introducing_github_copilot_agent_mode_preview/meuyoaw/
+meqkbcg,,"Thanks for your feedback. Agent already auto-saves. And there is the getErrors tool that handles exactly this - it gets lint and language errors and auto-corrects.  
+I wonder what model did you use for your flow. I did notice that GPT-4o is a bit reluctant to use some tools. So this should work better with Claude Sonnet.
+
+If you can constantly repro the agent not getting errors it would be great if you file an issue here [http://github.com/microsoft/vscode-copilot-release/issues/](http://github.com/microsoft/vscode-copilot-release/issues/) and ping me at isidorn. Then we can investigate and fix.",2025-02-25 12:51:16,8,0,0.0,vscode,PoemBusiness6939,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ixu61k/introducing_github_copilot_agent_mode_preview/meqkbcg/
+meq9ucp,,"(Connor from vscode) There are some minor architectural changes we need to make in copilot to deal with their representation of reasoning. I investigated this, but we're starting our release process this week and opted not to try to squeeze it in for this release.
+
+It should be on Insiders as soon as next week though :)",2025-02-25 12:01:49,13,0,0.0,vscode,connor4312,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ixu61k/introducing_github_copilot_agent_mode_preview/meq9ucp/
+mes4fe3,,"Thanks for interesting questions. Let me answer, but keep in mind that this is my personal point of view as a VS Code product manager.  
+1. Right now I am not aware of any no plans to change the cost structure. So agent mode will be available to Free/Pro/Business/Enterprise.
+
+2. It already allows (claude 3.5, 3.7, gpt-4o) - give it a try!
+
+3. I already answered that in this discussion. Rough estimate mid-March
+
+4. This is a more of a marketing / branding question. But just because it is called Copilot does not mean it must only talk to OpenAI models. I do not think we as MS ever made that statement for any of the Copilot products.
+
+5. We already get a large amount of user feedback / feature requests. So as always just listening to our users gives us enough signals to decide what to do next
+
+6. Regular suggestions (non AI ones) can auto import on accept sometimes. It makes sense that GH Copilot supports this. Please file a feature request [https://github.com/microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release) and ping me at isidorn
+
+7. Agent mode already listens on lint / error changes via the getErrors tool and auto-corrects
+
+8. We already have a Chat and Language Model extensibility story [https://github.com/microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release) and [https://code.visualstudio.com/api/extension-guides/language-model](https://code.visualstudio.com/api/extension-guides/language-model) and we continuously try to expand our API surfaces. So tell us what you would like to see, and share your scenarios!
+
+9. Per each API we decide if we want to finalise it and expose it to all extensions or not. So far we have finalised: completions, chat, language model, shell integration (that Cline extension send kudos to us for doing). Having said that there are still APIs that are proposed and not possible to be used by all 3rd party extensions. Finalising APIs is an investment for our small team, so we carefully decide what we finalise. 
+
+Thanks for feedback",2025-02-25 17:13:58,5,0,0.0,vscode,PoemBusiness6939,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ixu61k/introducing_github_copilot_agent_mode_preview/mes4fe3/
+mevjjds,,"Really appreciate the reply! Thanks for all the work you all are doing on this.
+
+In regards to 2.
+
+So I am actually referring to this:
+
+https://code.visualstudio.com/docs/copilot/copilot-customization#_reusable-prompt-files-experimental
+
+There is experimental support for prompt files but I feel like the context is thrown out completely in agentic mode.
+
+A use case for this is, if I want to have it repeat back its plan (better performance) and ask permission before going ahead. Using a prompt file for specific things I will use all the time is convenient but it has proven unreliable so I just end up typing instead.",2025-02-26 07:39:05,1,0,0.0,vscode,monkeyman1211,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ixu61k/introducing_github_copilot_agent_mode_preview/mevjjds/
+mevu0ad,,Thanks for feedback. Best to file here [https://github.com/microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release) and ping me at isidorn on the feature requests you create!,2025-02-26 08:45:02,1,0,0.0,vscode,PoemBusiness6939,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ixu61k/introducing_github_copilot_agent_mode_preview/mevu0ad/
+mevuepy,,"Thank you. I will try to gather some meaningful examples over the next few days and get back to you on gh.
+
+I really want this tool to be as amazing as possible since at work we have a partnership with MSFT so the only AI coding tool we're allowed to use is Copilot ahahaha",2025-02-26 08:47:22,1,0,0.0,vscode,KokeGabi,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ixu61k/introducing_github_copilot_agent_mode_preview/mevuepy/
+1jdoqyu,Copilot icon not on bottom?,"So on two MacBooks, both with version 1.98.2 of vs code, one has the small copilot icon on the bottom bar that when clicked on shows some options along with how much usage I have available. This is not appearing on my other Mac for some reason. Anyone know why? Thanks! ",2025-03-17 17:44:22,0,8,0.5,vscode,Gemified,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1jdoqyu/copilot_icon_not_on_bottom/
+midpa28,,"The icon in the status bar that shows the usage of Copilot Free is an experimental setting that must be enabled.
+
+https://code.visualstudio.com/updates/v1_98#_copilot-status-overview-experimental",2025-03-17 23:30:19,3,0,0.0,vscode,TheCodifier,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1jdoqyu/copilot_icon_not_on_bottom/midpa28/
+mid3drg,,There is no copilot option when I right click the status bar. The extension is installed,2025-03-17 21:16:22,1,0,0.0,vscode,Gemified,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1jdoqyu/copilot_icon_not_on_bottom/mid3drg/
+1jaah64,GitHub Copilot is Using Outdated Models (2023 Cutoff) – How to Use Newer AI Like ChatGPT-4 & Claude?,"I've been using GitHub Copilot, but I noticed it's running on older AI models with a cutoff date in 2023. Compared to that, I have ChatGPT Plus (GPT-4-turbo) and Claude Sonnet, both of which have a 2024 knowledge cutoff and are significantly better in terms of reasoning, coding, and overall assistance.
+
+I've tried different models within GitHub Copilot (Claude, ChatGPT 4o, o1), and they all produce same result. I want to integrate newer AI models (like GPT-4-turbo or Claude) with GitHub Copilot to get better suggestions.
+
+Has anyone figured out a way to do this? Maybe via custom APIs, plugins, or third-party extensions? Would love to hear your thoughts!
+
+TL;DR: GitHub Copilot is stuck with 2023 models. I have access to better AI (GPT-4-turbo & Claude Sonnet with a 2024 cutoff). How do I connect them to GitHub Copilot for coding assistance?",2025-03-13 08:10:26,0,7,0.27,vscode,doraemonqs,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1jaah64/github_copilot_is_using_outdated_models_2023/
+mhk155l,,"you can enable previews of other models in your settings.  
+[https://github.com/settings/copilot](https://github.com/settings/copilot)  
+Some are only available with paid accounts.",2025-03-13 08:43:26,6,0,0.0,vscode,wyrdfish42,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1jaah64/github_copilot_is_using_outdated_models_2023/mhk155l/
+mhk0qjd,,"You can't, this is specifically designed this way, so the copilot as a whole is not an alternative to subscriptions of all these AI models. If you want to have these AI models latest versions, you need to purchase them seperately, but I'm not 100% sure on that.",2025-03-13 08:40:51,1,0,0.0,vscode,LubieRZca,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1jaah64/github_copilot_is_using_outdated_models_2023/mhk0qjd/
+1j9nzpv,Using Copilot ins VScode with my own Azure instance,"Hi there !  
+Cursor offers a way to use my own Azure API instance with gpt-4o my company has set for us for security reasons.   
+I'm having a hard time figuring out if it's possible to do the same with VSCode and Copilot.  
+is it ?  
+and how ?  
+best",2025-03-12 12:24:38,0,4,0.25,vscode,routinemass,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1j9nzpv/using_copilot_ins_vscode_with_my_own_azure/
+mhesk1m,,"I don’t believe that is possible with Copilot but as you already know, it is possible to use other local LLM’s in Vs Code",2025-03-12 12:42:07,1,0,0.0,vscode,AllCapsSon,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1j9nzpv/using_copilot_ins_vscode_with_my_own_azure/mhesk1m/
+1j0yzds,Copilot Claude or claude.ai ?,"Sorry in advance if this is a stupid question but what is the difference between using Copilot Claude in VScode and using Claude.ai?
+I'm looking at the price difference and wondering why you wouldn't just pay for copilot?",2025-03-01 08:02:38,0,5,0.4,vscode,Remarkable_Archer_82,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1j0yzds/copilot_claude_or_claudeai/
+mfglser,,"I've been using Claude preview and in my experience it is much more versatile than any of the copilot models. It feels more like an entity that is present and actively helping you. You still need to mind your prompts though, and it helps if you have a [code style file set up](https://code.visualstudio.com/docs/copilot/copilot-customization)",2025-03-01 12:22:16,3,0,0.0,vscode,zxmalachixz,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1j0yzds/copilot_claude_or_claudeai/mfglser/
+mffdewf,,"Copilot seems to have fallen behind, and they've done a lot of negative optimizations that make the experience poor. Now Copilot is free to use for a limited amount of credit, so you can try it out before you decide.",2025-03-01 08:21:25,2,0,0.0,vscode,vihv,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1j0yzds/copilot_claude_or_claudeai/mffdewf/
+mfjobcs,,I use GH copilot with Claude 3.7 Sonnet. Works pretty well.,2025-03-01 22:20:01,2,0,0.0,vscode,NightCrawlerProMax,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1j0yzds/copilot_claude_or_claudeai/mfjobcs/
+mfnz1as,,Cline could also be an option. Through open router or something else. Is able to do more things on it's own but is not unlimited like copilot is,2025-03-02 15:37:00,1,0,0.0,vscode,AwesomeFrisbee,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1j0yzds/copilot_claude_or_claudeai/mfnz1as/
+1j2c2id,Will GitHub Copilot Agent Mode Kill Cursor and Windsurf? - Project Padawan can be a game-changer!,,2025-03-03 01:03:00,0,4,0.5,vscode,zarinfam,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1j2c2id/will_github_copilot_agent_mode_kill_cursor_and/
+1jgm8j7,Need help regarding VS Code copilot,,2025-03-21 13:22:44,0,1,0.29,vscode,This_Job_4087,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1jgm8j7/need_help_regarding_vs_code_copilot/
+1jgf3el,Is there any extension that allows features of Copilot Agent using my own models / GPU?,"I know that is extension called Continue that can be used for code completion, but I am looking for something that can fully substitute what Copilot Agent is doing now (eg. chat panel where I tell it what I need and it iterates over the problem) and that would allow me to run my own models on my own GPU for this, so that it would also work in air-gapped environment.
+
+Did anyone make anything like this? I am considering making such extension myself, but don't want to reinvent the wheel.",2025-03-21 07:57:11,0,1,0.5,vscode,petr_bena,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1jgf3el/is_there_any_extension_that_allows_features_of/
+miyn85u,,Not sure about Copilot proper but I believe you can setup cline in VSCode to use Ollama for local options. I haven't tried it yet but it's on my list to get to.,2025-03-21 08:21:35,1,0,0.0,vscode,iamglk,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1jgf3el/is_there_any_extension_that_allows_features_of/miyn85u/
+1j9ky84,I've been using Copilot free for about a week & it has stopped responding to me. It will not login on other computers. Signin with github just spins. Did I go over the limit? I will go pro if that's all it is but I want to make sure it's not a config on my account before I pay and have the same issu,,2025-03-12 10:09:52,0,1,0.44,vscode,distearth,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1j9ky84/ive_been_using_copilot_free_for_about_a_week_it/
+1j2hniq,Is My Copilot Broken?,"So I just installed copilot and for some reason no matter what I type is keeps getting filtered. I don't think I'm writing anything bad, I keep asking how to make text bold, and I even asked ""what can you do?"" which I think all AI should be able to answer but it results in the same filtered message. Is there anyway to fix this?",2025-03-03 07:34:04,0,2,0.11,vscode,Unhappy_Potential818,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1j2hniq/is_my_copilot_broken/
+1j7rjt4,"Part 5: Implementing a Web UI using Vaadin and GitHub Copilot Agent Mode - 
+Why LLMs are not suitable for lesser-known programming languages ​​and frameworks",,2025-03-10 01:29:37,0,0,0.33,vscode,zarinfam,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1j7rjt4/part_5_implementing_a_web_ui_using_vaadin_and/
+1j4qh53,github copilot login problem in my vscode ide,"https://preview.redd.it/ye5lmkgry0ne1.png?width=1600&format=png&auto=webp&s=b9eac0b5e175aabfcdf7a5b55eda9e1255100aa8
+
+whenever i try to login in to github copilot it shows this . Please tell me how to resolve this?",2025-03-06 02:52:43,0,0,0.4,vscode,tenma47677,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1j4qh53/github_copilot_login_problem_in_my_vscode_ide/
+1it3dhw,"[Question] Any way to use ""local"" ai in the github copilot extension?",So i am running local ai on a server and the way i have access to it is trough a proxy link with a password (i could just use cursor since it does give the ability to use proxies) but i wanna use vscode due to some  things that annoy me with cursor that i won't get into ,2025-02-19 06:31:35,2,1,0.76,vscode,Omen-OS,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1it3dhw/question_any_way_to_use_local_ai_in_the_github/
+1iuc66b,AI Code Editors V/S Copilot Extension?,"Just wondering what you suggest for 2025, AI cide editors like cursor or copilot with VS Code.
+
+Are there any good extensions for VS Code which can beat Cursor?
+
+Looking for suggestions...",2025-02-20 18:05:04,0,1,0.5,vscode,rahulmukati,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1iuc66b/ai_code_editors_vs_copilot_extension/
+1ix36z5,CPU run at 100% after using Copilot,"Hi,
+
+From time to time, my CPU gets stuck at 100% after using Copilot. It’s not just a spike, it’s constant and seems like it could last indefinitely.
+
+In Windows Task Manager, the only app using the CPU is VSCode. Everything goes back to normal when I manually restart the Extension Host Manager. I’m pretty sure it’s related to Copilot because this happens repeatedly after the first prompt.
+
+I reinstalled VSC and cleaned his cache in the APP\_DATA folder. I also recently changed my CPU and motherboard, but the issue persists.
+
+Any ideas?
+
+Thanks! :)",2025-02-24 09:24:07,1,0,0.6,vscode,Guysmo,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ix36z5/cpu_run_at_100_after_using_copilot/
+1ita366,Why do people switch to Cursor?,"I tried Cursor, but I don’t really get the hype. It feels like a VS Code wrapper with AI, and you can already add AI to VS Code using Copilot or other extensions. I didn’t feel like I was missing anything by sticking with VS Code.
+
+For those who switched, what makes Cursor worth it for you? Is there something I’m overlooking?",2025-02-19 11:48:23,195,124,0.9,vscode,PumpingBytes,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/
+mdn6oet,,"For me, it was mostly the awesome autocomplete that can span the entire file.  But Copilot is now in preview with the same feature.",2025-02-19 12:05:51,31,0,0.0,vscode,eleqtriq,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mdn6oet/
+mdnilxr,,"I tried it out last weekend. The killer feature is @codebase, which indexes the whole package you have open, and has the ability to look at all the files and suggest updates, not just the file thats open. Far better than copilot with code. 
+So I had a complex and large repo open, and asked about changing a model. It also gave contextual info about forms, filters, quersets, and html updates. As well as which order to do it in, and when I needed to make a migration.",2025-02-19 12:59:05,20,0,0.0,vscode,reload_noconfirm,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mdnilxr/
+mdnrize,,I tried to switch back to vscode/copilot. I paid the $10. they ended up rate-limiting me halfway through the project. I switched back.,2025-02-19 13:38:56,7,0,0.0,vscode,scragz,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mdnrize/
+mdrmw0g,,Guys i switched over to copilot in microsoft version vscode. They do the same thing. Copilot is cheaper.,2025-02-20 02:37:51,2,0,0.0,vscode,undercontr,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mdrmw0g/
+mdu6df3,,VSCode's copilot of whatever integration is nowhere near as good as cursor.,2025-02-20 12:44:07,2,0,0.0,vscode,zireael9797,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mdu6df3/
+mdycao6,,"On my side - Copilot is still not that effective for me as Cursor is, even after the last update with agentic flow Copilot looks closer to Cursor but autocomplete in diff view didn't work well for me, i gonna try again if that's fixed, and also i'm trying to find a good usage for my Copilot subscription in Nvim (my most favorite code editor), i have a Cursor subscription because the pricing is far better then other options, unlimited requests just for $10!  
+   
+Really have a pain to use VS Code, switch to Nvim to investigate the codebase and back to VS - but Cursor work too good for my coding needs and improves my workflow dramatically, i wasn't possible to build so huge updates on large projects and cover them with tests. I stopped to hate my colleagues for code review comments and happy to implement requested updates and tests )) Cursor pricing is quite worse then Copilot and you're limited with 500 credits per month.
+
+The worse experience been with Windsurf - totally unexpected for me as i'm a big fan of their Codeium free autocomplete extension and using it for years, it's very good! But the pricing model of Windsurf is far too greedy, they charge a credit for each message you send to Sonnet and it differs a lot from Cursor a lot, i just got scared how quick my 5 test credits were spent on Windsurf. Cursor eats your money far slower. 
+
+So for now Cursor functionality and pricing is a winner combo for me, but as soon as Copilot will update extension bit more and get closer to Cursor - i'll switch for Copilot as i don't like the idea of limited credits, and 500 monthly limit wasn't enough for my needs.",2025-02-21 02:42:58,2,0,0.0,vscode,cyberloh,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mdycao6/
+mdo4041,,"So far it have been really good compared with copilot, a lot faster too and you can use a lot of different models",2025-02-19 14:34:42,1,0,0.0,vscode,Asura24,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mdo4041/
+mdqjy54,,im seeing comments on the option to work with the whole project rather than just a file like chatgpt does. i wish the latter could do the same since i dont feel like paying for copilot/cursor atm having openai subscription,2025-02-19 21:52:14,1,0,0.0,vscode,xav1z,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mdqjy54/
+mdqwvz8,,"VS code with copilot is buggy( at least couple months ago it was) , so I switched to cursor and it's day and night difference
+
+99% of my time is spent in agent composer mode, its just good",2025-02-19 23:10:53,1,0,0.0,vscode,ryenugu,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mdqwvz8/
+me3lsnd,,"vs code is just fine. there’s augment, supermaven, continue for extensions as well as copilot now all with free versions. it’s all a marketing game for these services at this point they’re all using the same models.",2025-02-21 21:51:29,1,0,0.0,vscode,livewaves,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/me3lsnd/
+me8u280,,"It is to some degree decent at finding the correct relevant files without having to spoon-feed it the files. And I like the composer in agent mode. It can do changes in multiple files while also do cli commands. As an example it can call an api using the cli to validate it then build code spreading to multiple files to integrate with it. Only issue is that it often try to do more changes than I ask it to do.
+
+I haven't checked in a while. But I don't think this can easily be done in vs code. And especially not with copilot. Copilot is not that good. They need a new model. But maybe there are some extentions that can do this just as good.",2025-02-22 17:42:54,1,0,0.0,vscode,KimmiG1,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/me8u280/
+me942vl,,"🤖 Cline + Supermaven  > Windsurf  >Trae  > Cursor > Copilot
+
+https://cline.bot 👈",2025-02-22 18:38:18,1,0,0.0,vscode,Tizzolicious,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/me942vl/
+mea36qn,,"The ai it’s way smarter than copilot and even better than chat gpt for coding, and it can get context of your code base",2025-02-22 22:02:47,1,0,0.0,vscode,Mysterious-Hotel-824,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mea36qn/
+meej2tu,,"Once you spend more time with Cursor (say 2 weeks worth of trial), you’ll probably never wanna get back to raw vscode, even with the copilot.
+
+I’ve done both for quite since time and copilot feels incapable of following the complexity that Cursor nails (especially with the composer set to agent mode).",2025-02-23 15:43:57,1,0,0.0,vscode,data_owner,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/meej2tu/
+mdnosra,,"Copilot was like that in beta, before they added a bunch of guardrails to lower costs and prevent generating tokens that would result in invalid code (which is why it now never generates the last parenthesis after a lambda). It's kinda crazy that it got crippled and then someone else decided to just make an un-crippled version.",2025-02-19 13:26:57,13,0,0.0,vscode,NatoBoram,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mdnosra/
+mdnb9yw,,"Yes, I have been using copilot for a really long time and forgot it was only in preview.",2025-02-19 12:26:24,4,0,0.0,vscode,PumpingBytes,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mdnb9yw/
+mdpu8pr,,"Copilot isn't even on the same level, especially without MCP",2025-02-19 19:28:44,1,0,0.0,vscode,CacheConqueror,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mdpu8pr/
+mdn9etz,,Which AI model are you using in VS Code/GitHub CoPilot?,2025-02-19 12:18:05,4,0,0.0,vscode,BranchLatter4294,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mdn9etz/
+mdnbq66,,I have been using copilot for a while now. The autocomplete and chat answers felt pretty similar. Çan share those screenshots?,2025-02-19 12:28:24,3,0,0.0,vscode,PumpingBytes,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mdnbq66/
+mdngmjo,,"Yes, please show some examples, would be much appreciated. I am also struggling to see the difference with Copilot Chat and Copilot Edits (soon to be renamed to Copilot Agents) but I have not spent much time on using Windsurf or Cursor. I just know that some people have not really been paying attention to Copilot developments after simple autocompletion, e.g. Chat, Edits, Agents. [https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)",2025-02-19 12:50:22,1,0,0.0,vscode,balticfolar,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mdngmjo/
+mdp3qs7,,"I think there's an opt-in setting for some kind of private mode, but I haven't looked into what it does. Ultimately though it's like any tool or cloud service that requires you to send propriety or sensitive information outside your owned and operated system -- you have to take their word that your data is your data, and accept the risks therein. 
+
+That said, I wouldn't trust these tools if that's a major concern. Especially not GitHub Copilot after their egregious training on public repositories & ignoring the licences.",2025-02-19 17:14:10,3,0,0.0,vscode,s-jb-s,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mdp3qs7/
+mfiih4s,,"This is really not true at all. Been using Copilot for 6 months - its O.K. But when it fails, you sometimes have to reiterate over and over again, to correct its mistakes. And sometimes it gets completely stuck.
+
+I have not experienced this with Cursor - and Cursor even produce more robust and simpler solutions, while - as others have mentioned - can access the whole codebase and hence find problems that exists between files.
+
+Dont waste time on copilot really. Its fine for beginners.",2025-03-01 18:17:09,1,0,0.0,vscode,jalokin98,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mfiih4s/
+mdo0key,,That's a ridiculous comparison. He's comparing Cursor with vscode without ai extensions. He should be comparing Cursor with Github Copilot running on vscode,2025-02-19 14:19:21,3,0,0.0,vscode,joeballs,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mdo0key/
+mdpuz6y,,"I don't know if you tried to do some real work in it (or if you let Cursor index your project), but the proactive code completions in Cursor blows copilot away (at least at the point I switched ~3 months ago).
+
+It keeps way more context about the changes you're making and the next one you're likely to make. I don't want to admit how much of my job now is just hitting `Tab` because Cursor/Claude knows the next change I want to make.",2025-02-19 19:32:44,9,0,0.0,vscode,ignu,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mdpuz6y/
+mdy4o3a,,"Nah, they mean multi line autocomplete. It was the USP of Cursor but now also Copilot has it in preview.",2025-02-21 01:33:46,2,0,0.0,vscode,mcc011ins,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mdy4o3a/
+mehsrq6,,"If you use copilot chat, you can use @workspace. But not sure if this fits the ask",2025-02-24 04:53:05,1,0,0.0,vscode,WizardofRaz,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mehsrq6/
+metxpmh,,"VsCode can do this, you can use the same \`@codebase\` command as well. Between copilot edits and NES, feels like VsCode is almost at feature parity on paper. 
+
+I haven't used cursor much yet, just started tonight, but I'm finding it to be better at understanding context. For example being in file A, then moving over to file B will auto suggest importing the file I was just looking at if my cursor is near my import code, including the correct path to the file which I have yet to see VsCode/Copilot do.",2025-02-25 23:13:37,1,0,0.0,vscode,martycochrane,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/metxpmh/
+mdritiy,,@workspace is terrible with Copilot. Hallucinations out the wazoo and it never gets context right. Cursor is so much better with workspace context,2025-02-20 01:59:41,4,0,0.0,vscode,FURyannnn,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mdritiy/
+mdqhjmn,,"I’ve tried both out. Cursor is superior imho. Yes they both supposedly do the same thing, but I think the depth of the responses from cursor is superior. Used the @workspace today on copilot - a client I work for blocks every AI endpoint but that one. The response was not correct, and didn’t have the detail I needed. It seemed to me that it was still surface level. 
+But try them both out and compare! See what works for you. I enjoy testing out new tech.",2025-02-19 21:38:07,2,0,0.0,vscode,reload_noconfirm,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mdqhjmn/
+me5w345,,"I have a monolith project, python backend, angular frontend and I have mixed results with @workspace. 80% of the time it works flawlessly, but sometimes it starts referring the installed python packages when I'm asking about the angular part. Probably i should configure it properly already. :D
+My bigger problem is that the model's performance is degrading. When I started working with it it was on pair with chatgpt, but chatgpt got better, copilot got worse somehow.",2025-02-22 08:50:21,2,0,0.0,vscode,Cool-Ad552,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/me5w345/
+mds2bs4,,"copilot is too slow to be competitive, their next edit prediction is trash compared to cursor, and even now zed and windsurf",2025-02-20 05:12:59,3,0,0.0,vscode,opiumjim,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mds2bs4/
+mdnbebh,,"No it doesn’t. Cursors will make updates across the entire file. For example if I change an import it will automatically suggest updating the other imports in the file even if my mouse cursor is in the middle of the file. 
+
+I’m referring to the “Copilot++” feature, which I don’t think is enabled in Cursor by default. But it is amazing",2025-02-19 12:26:56,8,0,0.0,vscode,nicguy,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mdnbebh/
+mfl86a4,,"I don't agree. It's not always about the performance. Cursor has hard limit for usage for $20. You need to pay another $20 if you exceed the quota. On the other hand Copilot has unlimited usage per monthly payment and also provides support for ""o1"". Where as Cursor o1 have limit very low compared to Claude Sonnet 3.5. You can iterate as much as you want with Copilot. and mostly you will get right result on first 3 answers.",2025-03-02 06:25:51,1,0,0.0,vscode,undercontr,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mfl86a4/
+mebkznk,,"Really? I did copilot very accurate at allowimg tab completion based on the context of what I've been working on.
+
+I'm a big fan of the auto-complete on steroids usecase of LLMs. Keeps the code in your mind whilst removing the boring typing work.",2025-02-23 05:30:46,1,0,0.0,vscode,Pluckerpluck,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mebkznk/
+mdpyob8,,"It does, with copilot edits it’s even more in depth. Not only will it make edits in the current file but it can make edits across multiple files aka a working set.
+
+So you can say something like “make X change and adjust Y files to use X change”",2025-02-19 19:52:25,1,0,0.0,vscode,IT_fisher,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mdpyob8/
+mflbyu5,,"Honestly im on the free version of cursor, and it solved a problem first try that copilot couldnt solve no matter how much i iterated. Copilot got stuck and kept suggesting the same two solutions, even after that i informed it didnt work. And even after i gave it a hint about what the problem could possibly be.
+
+When im subscribing to cursor (which i will soon enough) i just expect it to be slightly better and overall faster. So far, what i produced with cursor, would never have been possible with copilot.
+
+Have you tried cursor recently - it might have changes to the better since your last try? :)",2025-03-02 07:01:20,1,0,0.0,vscode,jalokin98,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mflbyu5/
+mdqlgg3,,"That's a bit different. I'm not referring to anything where I have to prompt Copilot or type anything in chat. This is done in cursor automatically with autocomplete suggestions, without having to prompt",2025-02-19 22:01:02,1,0,0.0,vscode,nicguy,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mdqlgg3/
+mflcz82,,"I moved from Cursor last month. I want to ask question as many as possible. I don't like the stress it gives me when I ask a question and think about the quota i have left. Copilot is very good. If you want AI to do the most of the work then Cursor may be a better choice, but I give AI small works like manual labour such as rename a file with regex or write a repository for entities in nestjs and stuff like that. I never give it huge workload because they always fail to do that.",2025-03-02 07:09:57,1,0,0.0,vscode,undercontr,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mflcz82/
+1ja6b34,Which AI coding extension do you use ?,"There are so many AI coding extensions like Copilot, Blackbox AI, Tabnine, Codeium, and more. So which one do you actually use and why? ",2025-03-13 03:10:15,13,82,0.59,vscode,Eugene_33,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ja6b34/which_ai_coding_extension_do_you_use/
+mhjb2dg,,Copilot,2025-03-13 05:05:25,29,0,0.0,vscode,Stiddles,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ja6b34/which_ai_coding_extension_do_you_use/mhjb2dg/
+mhj16dt,,"Copilot just for repetitive tasks and documentation. I don't like to do everything with AI, I prefer to use my brain, it's faster and better.",2025-03-13 03:18:28,38,0,0.0,vscode,Andr3xC,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ja6b34/which_ai_coding_extension_do_you_use/mhj16dt/
+mhjbsac,,I tried a few but went back to copilot as it has a free tier now and in my experience is the best integrated into vscode. It doesn't really get in the way and provides some interesting inspiration and help with repetitive tasks.,2025-03-13 05:13:08,5,0,0.0,vscode,STSchif,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ja6b34/which_ai_coding_extension_do_you_use/mhjbsac/
+mhjcztg,,I use copilot at work. It can be helpful at times but you also have to be very careful with it because it is often wrong. The biggest problem is when it is only a little wrong. The best way to use it is as a smarter auto complete so that it only generates small chunks of code and you can immediately correct it. Also write tests as you go.,2025-03-13 05:25:42,2,0,0.0,vscode,Immudzen,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ja6b34/which_ai_coding_extension_do_you_use/mhjcztg/
+mhjkfmr,,"I try not to use them tbh but if I had to, it would be copilot or blackbox.",2025-03-13 06:38:06,1,0,0.0,vscode,Lucky_Town_5417,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ja6b34/which_ai_coding_extension_do_you_use/mhjkfmr/
+mhjl7ry,,"Copilot, but I still prefer to use my brain instead.",2025-03-13 06:45:01,1,0,0.0,vscode,NabilMx99,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ja6b34/which_ai_coding_extension_do_you_use/mhjl7ry/
+mhk0wil,,Copilot for Edits,2025-03-13 08:41:54,1,0,0.0,vscode,hu-beau,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ja6b34/which_ai_coding_extension_do_you_use/mhk0wil/
+mhkc764,,copilot pro + cline,2025-03-13 09:47:48,1,0,0.0,vscode,deeplyhopeful,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ja6b34/which_ai_coding_extension_do_you_use/mhkc764/
+mhwjlz7,,Yes copilot,2025-03-15 07:10:35,1,0,0.0,vscode,Beautiful_Song_3603,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ja6b34/which_ai_coding_extension_do_you_use/mhwjlz7/
+mhj308i,,"also it’s great way how to browse most documentation of popular frameworks you aren’t so familiar with.   
+You need some UI element, but you don’t know its name or how can it be customized? Copilot got you covered. You don’t know how to use some library? Just start typing, it appears and you change it to how you like it.   
+  
+But actually writing logic? No way in hell I’ll let copilot do that. But it saves hours looking at the documentation.",2025-03-13 03:38:05,7,0,0.0,vscode,Tupcek,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ja6b34/which_ai_coding_extension_do_you_use/mhj308i/
+mhjrhk1,,Same but I use copilot to generate my snippets 🤣,2025-03-13 07:36:37,2,0,0.0,vscode,mattthesimple,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ja6b34/which_ai_coding_extension_do_you_use/mhjrhk1/
+mhj8mre,,"It depends on the situation, if it is documentation within the code, I just do a small part on my own and Copilot does the rest practically alone. If you have to document outside of the code, I make a template and pass my code to it and it makes it almost perfect. This works for me in my projects and work.",2025-03-13 04:38:46,3,0,0.0,vscode,Andr3xC,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ja6b34/which_ai_coding_extension_do_you_use/mhj8mre/
+mhjz5sd,,There is a /doc command for this in CoPilot.,2025-03-13 08:30:45,2,0,0.0,vscode,BranchLatter4294,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ja6b34/which_ai_coding_extension_do_you_use/mhjz5sd/
+mirwpf4,,"I literally just used Copilot to create a React/Nextjs e-commerce website from scratch. I wanted to see if it was capable. It came up with not only a great design but a fully featured website with NextAuth authentication. Works like a charm, no errors and great performance. It took only a few hours. That is something you ""senior"" can only dream of. Can you be so arrogant to think you can beat a computer at being a computer? :D It's gonna hurt a lot when you hit the ground, I would start being more humble immediately and buy a parachute if I were you...",2025-03-20 06:52:56,0,0,0.0,vscode,Ok_Communication3378,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ja6b34/which_ai_coding_extension_do_you_use/mirwpf4/
+mirxb7o,,"Good luck fighting with CVEs later. If you don't see problems now, it doesn't mean that you won't get them later. Also, ""I literally just used copilot"" doesn't mean you are a programmer. Real programmer can use AI to brainstorm complex problems, and it can give some good ideas. Can sometimes help find a bug. But definitely not to write and maintain a huge codebase (>1M LOC) and keep it safe. Soo, good luck enjoying ""modern vibe coding"" and feeling your brain degrade to the complete fucking ground.",2025-03-20 06:58:07,1,0,0.0,vscode,HyperWinX,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ja6b34/which_ai_coding_extension_do_you_use/mirxb7o/
+miry2nc,,"You see? You just can't come to terms with the fact that every single minute that goes by you become less and less important in the IT world. ""Seniors"" have always been arrogant, always looking down on others, carrying out stupid interviews asking about algorithms and all that shit. And now the time has come for your final humbling. Reading the codebase? Haha, man, Copilot can already read the codebase and it's GREAT at it. You attach the codebase and you ask it anything you want or ask it to make any change you want. It not only understands immediately what you need, but it makes exactly the change you want it to. And it's only getting better. Ten months ago, it kinda sucked, now, it got SOOOO much better. Why would we need YOU when we can have the machine itself do it much better and much more quickly? You either accept the reality of things or reality will hit you hard, way way sooner than you're trying to make yourself believe.
+
+PS: downvoting every one of my comments like a 5-year-old is not gonna change reality for you :)",2025-03-20 07:04:37,1,0,0.0,vscode,Ok_Communication3378,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ja6b34/which_ai_coding_extension_do_you_use/miry2nc/
+1je1i6h,What are the best AI code assistants for vscode in 2025?,"I’m a JavaScript/React developer with 10+ years of experience, and I’ve been using VSCode for a long time. However, my recent jobs didn’t allow the use of AI coding assistants, so I haven’t kept up with the latest developments in the field.
+
+Now that I’m working on a personal project, I’d like to give AI-assisted coding a try. I’m aware of GitHub copilot, but with the rapid advancements in AI coding tools, I wonder what the best options are today. Are there assistants that integrate particularly well with vscode? Do any alternatives offer significant advantages over copilot?",2025-03-18 06:07:16,30,47,0.6,vscode,UnderstandingOne6879,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1je1i6h/what_are_the_best_ai_code_assistants_for_vscode/
+miexqv8,,"At the time of commenting I'm seeing so far these have been suggested 
+
+* GitHub Copilot 
+* Cursor
+
+I'd say other good options to check out would be 
+
+* Cline 
+* RooCode (If you liked Cline but want more options/features)
+* Codeium/Windsurf IDE (btw Codeium is the extension Windsurf is another VSCode fork)
+
+I haven't personally tried Codeium/windsurf but I've read that it's a real hog on ""Credits"" which is their billing metric. Although the auto complete is free and I've heard of people using it just for auto complete and pairing it with other extensions for more agentic coding.",2025-03-18 06:38:40,15,0,0.0,vscode,fmaya18,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1je1i6h/what_are_the_best_ai_code_assistants_for_vscode/miexqv8/
+mig5jg1,,"GitHub copilot is the best in my experience. 
+
+
+
+If you need to run the llm locally (if required by work), then I recommend downloading the Continue extension which requires the Ollama app. I've been using deepseek coder v2 with that.
+
+
+What do other think is the best local llm model right now?",2025-03-18 11:10:52,8,0,0.0,vscode,Virtual-Ducks,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1je1i6h/what_are_the_best_ai_code_assistants_for_vscode/mig5jg1/
+miihdpd,,"* Cline (with Openrouter) as chat assistant - Copilot as backup
+* Tabnine as autocomplete
+* Claude 3.7 as LLM
+
+I find copilot to be too slow to provide autocomplete. With Tabnine you can just keep pressing tab and it will continue writing stuff that is useful. Cody is a bit faster but also costs way more. Both have unlimited completions for a fixed monthly fee. Copilot is going to get better but overall is still very slow. Both in chat responses and in autocomplete. If they fix that, I would return. Cline is very useful in its automation, much like Cursor. I find Cursor to be more expensive vs Cline and I don't need to setup a new IDE (the migration doesn't work well for me, it automatically enables plugins I have disabled but installed and doesn't seem to pick up all my VSCode settings all too well. And Cline basically does the same thing. I have it set up with Claude 3.7 through Openrouter and its fine.
+
+Overall with chat I notice that too often it still comes back to the same solutions that don't work. It also often provides outdated suggestions for API's that are already changed or renamed. And even though I have a lot of stuff in my context that I always use, it still frequently ignores stuff and uses more common code style and stuff that I just dislike for it being very basic and not very standardized (like not having any ESLint/Prettier/Stylistic improvements). For testing it frequently suggests using stuff from a different library and it hardly ever looks at my enums, constants and interfaces to see what the value might look like.
+
+Autocomplete works best if you provide a comment on what you want to autocomplete.
+
+Like, if you give it a comment like `// here is a list of cars with red, blue, green and yellow paint` it will immediately suggest `paint: ""red""` as the first one and so on. Which is why I now have a lot more comments in my code as it just helps with generation (though I still remove plenty when I'm done). I also often ask it to provide proof or links to documentation first before I accept his suggestions so I know it doesn't just make shit up.
+
+Overall Claude seems the most useful right now and for what I write it will likely be that for some time. My stack is Typescript, Angular, Vitest, Playwright with BDD, Storybook and Tailwind. It took some time to write a context that it seems to use the most but sometimes its still like I'm arguing with a small child when I want it to do stuff.
+
+I've tried quite a few tools and I wouldn't be surprised if half won't exist in 2026 or are so expensive that it is no longer a real option.",2025-03-18 17:46:58,2,0,0.0,vscode,AwesomeFrisbee,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1je1i6h/what_are_the_best_ai_code_assistants_for_vscode/miihdpd/
+mif6m69,,GitHub copilot; best of all.,2025-03-18 07:50:57,1,0,0.0,vscode,LiveLaurent,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1je1i6h/what_are_the_best_ai_code_assistants_for_vscode/mif6m69/
+mifddlm,,I use copilot for repetitive tasks and boilerplate. It's great when you know how to formulate precise instructions but most AI assistants fail to implement sensible architectures or vaguely described Features and that's when you spend a lot of time fixing up ai slop and hallucinations.,2025-03-18 08:37:47,1,0,0.0,vscode,carten67,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1je1i6h/what_are_the_best_ai_code_assistants_for_vscode/mifddlm/
+mifvqcq,,"I would highly recommend Cursor (a vscode fork). Having something agentic that can modify multiple files is beyond incredible. If you really want to Copilot does have an agent mode available for VSCode, but you have to have VSCode Insiders in order to enable it.
+
+I did have some problems with the python extensions not working in forks of vscode. I'm assuming that workarounds are well documented now, just haven't gotten around to it. If I want agentic editing for my python projects, I use Copilot Agent in vscode insiders. But for everything else, I'm using cursor (usually with Claude Sonnet 3.7). The $20/mo for 500 requests has been more that sufficient for me.",2025-03-18 10:22:03,1,0,0.0,vscode,viggity,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1je1i6h/what_are_the_best_ai_code_assistants_for_vscode/mifvqcq/
+mijjiry,,"hello op! i pretty much am always testing out ai coding extensions. The only ones I recommend to you are cline/roo code, which are very similar (roo code is a fork of cline with more features). If you'd like, you can try github copilot in vscode insiders for the agentic features, but outside of there it's not really worth it. 
+
+  
+However, I noticed you said you are mostly focused on autocomplete, which cline and roo do not have. Copilot's is pretty good, but if you wanna try a brand new ide, i'd recommend [Zed.dev](http://Zed.dev)  's autocomplete, which is great. It's very different than vscode (not vscode based, a whole new ide and extensions selection etc). Or try [continue.dev](http://continue.dev) with codestral. Or just stick with copilot it doesn't really matter.",2025-03-18 21:11:22,1,0,0.0,vscode,matfat55,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1je1i6h/what_are_the_best_ai_code_assistants_for_vscode/mijjiry/
+mikcxwk,,"I have used both Copilot and Cursor. If you want to build something great, invest a little money in Cursor and use Claude 3.7 Sonnet—it’s excellent.
+
+However, if you just want to practice coding or use AI casually, Copilot is a good choice.",2025-03-19 00:17:30,1,0,0.0,vscode,amareshadak,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1je1i6h/what_are_the_best_ai_code_assistants_for_vscode/mikcxwk/
+milmhha,,"Definitely check out Qodo ai. It’s a solid alternative to Copilot with some unique strengths. The big advantage is its context awareness, it understands larger codebases better than most AI assistants, which helps with refactoring and debugging across files.",2025-03-19 07:18:20,1,0,0.0,vscode,cmanager,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1je1i6h/what_are_the_best_ai_code_assistants_for_vscode/milmhha/
+mim4xms,,Cline with copilot api,2025-03-19 09:22:32,1,0,0.0,vscode,lmagusbr,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1je1i6h/what_are_the_best_ai_code_assistants_for_vscode/mim4xms/
+mimfxpb,,"Claude for sure, I’ve been using GitHub copilot for work and have been very disappointed. Most of my team is starting to move to Claude instead for software. I use it for js/ts development and Claude is very good at tracing through components in different files to help with debugging or architecting a solution",2025-03-19 10:23:24,1,0,0.0,vscode,Cuttlefish-13,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1je1i6h/what_are_the_best_ai_code_assistants_for_vscode/mimfxpb/
+mimtr0q,,I use Cody (by sourcegraph) and GitHub copilot. The former works much better than the latter…,2025-03-19 11:33:30,1,0,0.0,vscode,MrNotSoRight,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1je1i6h/what_are_the_best_ai_code_assistants_for_vscode/mimtr0q/
+mir3xz2,,"I thought pycharm would have more AI integration but a little disappointed. Copilot sonnet doesn't seem to run as well as competitors it felt like. If you really want to step into the realm of GOD TIER AI coding, Cursor is really the only option I've found. Augment code is looking like it could be a good alternative, it also uses sonnet 3.7 for the agent feature. I am working on integrating MCP servers into my cursor is already making the AI even higher than god tier function.",2025-03-20 01:54:06,1,0,0.0,vscode,TrainingReasonable70,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1je1i6h/what_are_the_best_ai_code_assistants_for_vscode/mir3xz2/
+mievpoo,,"Here is what my AI coding assistant said:  
+  
+""  
+    
+If you’re jumping into AI coding assistants for VSCode in 2025, here’s the rundown:
+
+GitHub Copilot is still the default choice, now with support for multiple AI models (OpenAI, Google, Anthropic, etc.).
+
+Tabnine is decent if you want AI completions but care about privacy (local and cloud models available).
+
+Cursor is actually a VSCode fork, not just an extension. It’s basically VSCode but with AI baked into the editor itself—code generation, refactoring, explanations, etc. If you want AI fully integrated rather than just a plugin, it’s worth checking out.
+
+
+If you’re already used to VSCode, Copilot is probably the easiest to start with, but Cursor is an interesting option if you want AI at every level.
+
+""
+
+Edit: I use Cursor btw but I'm a Python programmer/ coder and I just do stuff for myself, nothing professional just things like Todo list or a password manager.",2025-03-18 06:19:48,1,0,0.0,vscode,ilan1k1,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1je1i6h/what_are_the_best_ai_code_assistants_for_vscode/mievpoo/
+mif5s4q,,"I had the same question the other day and tried Tabnine, Codeium, Cody and Copilot.
+
+
+
+Only Copilot returned correct results in the autocomplete, all the others returned total nonsense or incomplete results.
+
+Copilot very often actually returned exactly what I wanted to write myself in the autocomplete.
+
+
+
+What I don't like about Copilot is the chat window, I find it messy and the font is much too small.
+
+Unfortunately, Copilot often doesn't manage to fix errors, it simply returns the same result (I have also seen this with other AI assistants).
+
+
+
+I am not a professional programmer, I write small programs for my own use in various languages.
+
+I'm currently trying out Rust, so it may well be that the other tools only have problems with Rust and deliver better results with other languages.",2025-03-18 07:44:46,1,0,0.0,vscode,lHelmchen,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1je1i6h/what_are_the_best_ai_code_assistants_for_vscode/mif5s4q/
+mihlk63,," I am a Python programmer, and I use VSCode, having ditched PyCharm a few months back. For your use case, most likely it will help you to use the GitHub Copilot and Codium extensions together. 
+
+My use case is exactly like yours. It’s nice to have auto-complete suggestions for free using Codium, while GitHub Copilot reaches its limit of auto-completion quite fast, but its chat section has a broader limit, mostly because we don't use it often. So, you will get the best of both worlds using GitHub Copilot and Codium.",2025-03-18 15:15:24,5,0,0.0,vscode,stoic_trader,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1je1i6h/what_are_the_best_ai_code_assistants_for_vscode/mihlk63/
+miiusns,,GitHub Copilot with Claude 3.7 is also very nice for coding.,2025-03-18 18:56:01,1,0,0.0,vscode,alashcraft,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1je1i6h/what_are_the_best_ai_code_assistants_for_vscode/miiusns/
+1j6opqa,Which vim extension should I use? Vim (VIM by vscodevim) or VSCode Neovim (by Alexey Svetliakov)?,"I primarily work with .NET C# and I've only ever used normal VS Code as my editor/IDE over the years. I've recently been learning vim motions in vanilla vim on the side to increase my productivity. Ideally, I'd have liked to make a full switch to vim or neovim, but I can't because they have bad support for .NET C# and Github Copilot. Therefore, I'm only left with the option to make vim work from within VSCode. So, should I use VsCodeVim or VsCode Neovim extension, and why? I'd ideally like to hear from people with first hand experience of having tried out those extensions.
+
+Note: I have no experience of using neovim, but if necessary, I am willing to put in the hours to learn it if that's a prerequisite for using VSCode Neovim extension.
+
+*Edit: Thanks for all your feedback. For now, I decided to go with vscodevim for simplicity as I don't want to get boggled down with the extra effort of making neovim configurations work with vscode. Once I am proficient enough with vim motions, I plan to try out the neovim extension to leverage the more advanced features it offers.*",2025-03-08 14:23:13,7,17,0.77,vscode,kettlesteam,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1j6opqa/which_vim_extension_should_i_use_vim_vim_by/
+1isi35c,Where are these suggestions come from? I am out of ideas,"https://preview.redd.it/w9gf6nn8mxje1.png?width=2352&format=png&auto=webp&s=1884379a94f5fa4d9764c238e6accf6a255fccd7
+
+* Disabled github copilot
+* Removed PSReadLine
+
+  
+Solution: I did not remove PSReadLine properly. Also vscode used powershell 7 and I used powershell 5 (which i was not aware off) prompt.
+
+This disabled it properly:
+
+`Set-PSReadlineOption -PredictionSource None`",2025-02-18 12:24:27,1,12,0.67,vscode,Tschenkelz,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1isi35c/where_are_these_suggestions_come_from_i_am_out_of/
+1iyvjk8,Auto complete for VSCode is awesome - what does the paid version get you?,"I'm writing C++ code and the auto completion is just awesome!
+
+Adding comments - it gets 90% of it written for me!
+
+I've been meaning to try GitHub Copilot in VS Code.
+
+I'm intrigued... is it 10x better than what I'm currently getting in VSCode for free?
+
+Just wondering.
+
+Thanks.",2025-02-26 14:12:08,0,10,0.5,vscode,enginestar,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1iyvjk8/auto_complete_for_vscode_is_awesome_what_does_the/
+mexrvig,,"Yea its better, and it does have copilot chat in it (but I dont use it).  My company paid for it, it expired a few weeks ago and realized how much I liked it.",2025-02-26 14:25:35,4,0,0.0,vscode,Solid_Mongoose_3269,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1iyvjk8/auto_complete_for_vscode_is_awesome_what_does_the/mexrvig/
+mey2d78,,GitHub CoPilot is free. Give it a try.,2025-02-26 15:13:47,2,0,0.0,vscode,BranchLatter4294,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1iyvjk8/auto_complete_for_vscode_is_awesome_what_does_the/mey2d78/
+1ix2xm9,vscode-vim-mode: A Gentle Path to Vim Bliss in VS Code,">***TL;DR***
+
+>\- This is a plugin promotion. Feel free to skip if you're not interested. I developed this tool to address specific workflow needs and hope it benefits others too.
+
+>\- Transforms VS Code into a GVim  by running Vim within its integrated terminal
+
+>\- Preserves editing states between sessions, sync file save actions between VSCode and Vim/Neovim
+
+>\- Only suitable for hardcore Vim users, you need to have a meticulously configured Vim environment already in place
+
+>\- Untested on Windows, it should work with WSL
+
+🌟 **Hello Vim Enthusiasts!** 🌟
+
+As a fellow Vim lover, I’ve built **vscode-vim-mode** to gently bridge Vim’s efficiency with VS Code’s modern features. If you’re curious about blending these worlds, I’d be honored if you gave it a try.
+
+👉 **What it offers**:
+
+* **Lightweight Vim/Neovim integration** without disrupting your VS Code workflow (Copilot, extensions, etc).
+* **Peaceful coexistence**: Runs alongside plugins like VSCodeVim or VSCodeNeovim.
+* **Simple toggle**: Switch modes with a button or command—no complexity.
+* **Optional save sync**: For Neovim users, quietly trigger formatting on save.
+
+This is a small attempt to serve the Vim community. If it makes even one coder’s day smoother, I’ll consider it worthwhile.
+
+📦 **If you’d like to explore**:
+
+* [Install via VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=wy-z.vscode-vim-mode)
+* [View or contribute on GitHub](https://github.com/wy-z/vscode-vim-mode)
+
+**Thank you** for your time—and if you run into any issues or have suggestions, please feel free to reach out. Your feedback would mean a lot!
+
+*Happy coding, and may your keystrokes stay efficient!* 🚀
+
+— A humble Vim admirer",2025-02-24 09:12:05,9,9,0.72,vscode,wy-ones,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ix2xm9/vscodevimmode_a_gentle_path_to_vim_bliss_in_vs/
+1jas6sk,cant change font in vscode,"ive tried a few solutions online and so far i cant get this new font to work for me
+
+ive tried disabling my extensions 1 by one and ive already tried multiple ways to input the font name to see if its typed in wrong  
+  
+[commit mono website with followed instructions](https://commitmono.com/)
+
+here are my .json setting
+
+    {
+        ""liveServer.settings.donotShowInfoMsg"": true,
+        ""editor.renderControlCharacters"": true,
+        ""editor.wordWrap"": ""on"",
+        ""files.autoSave"": ""afterDelay"",
+        ""editor.minimap.enabled"": false,
+        ""breadcrumbs.enabled"": false,
+        ""window.zoomLevel"": 1,
+        ""explorer.compactFolders"": false,
+        ""explorer.confirmDelete"": false,
+        ""rainbowTags.colors"": [
+            ""#e6b422"",
+            ""#c70067"",
+            ""#00a960"",
+            ""#fc7482"",
+            ""#c71595"",
+            ""#9932cc"",
+            ""#ff0080"",
+            ""#128d85"",
+            ""#ff91af"",
+            ""#e5664e"",
+            ""#fff9c5"",
+            ""#5cb3ff"",
+            ""#eeadad"",
+            ""#e06666"",
+            ""#6d9eeb"",
+            ""#00ff00"",
+            ""#00ffff"",
+            ""#4a86e8"",
+        ],
+        ""indentRainbow.colors"": [
+            ""rgba(255,255,64,0.07)"",
+            ""rgba(127,255,127,0.07)"",
+            ""rgba(255,127,255,0.07)"",
+            ""rgba(79,236,236,0.07)"",
+            ""rgba(230, 180, 34,0.07)"", // #e6b422
+            ""rgba(199, 0, 103,0.07)"", // #c70067
+            ""rgba(0, 169, 96,0.07)"", // #00a960
+            ""rgba(252, 116, 130,0.07)"", // #fc7482
+            ""rgba(199, 21, 149,0.07)"", // #c71595
+            ""rgba(153, 50, 204,0.07)"", // #9932cc
+            ""rgba(255, 0, 128,0.07)"", // #ff0080
+            ""rgba(18, 141, 133,0.07)"", // #128d85
+            ""rgba(255, 145, 175,0.07)"", // #ff91af
+            ""rgba(229, 102, 78,0.07)"", // #e5664e
+            ""rgba(255, 249, 197,0.07)"", // #fff9c5
+            ""rgba(92, 179, 255,0.07)"", // #5cb3ff
+            ""rgba(238, 173, 173,0.07)"", // #eeadad
+            ""rgba(224, 102, 102,0.07)"", // #e06666
+            ""rgba(109, 158, 235,0.07)"", // #6d9eeb
+            ""rgba(0, 255, 0,0.07)"", // #00ff00
+            ""rgba(0, 255, 255,0.07)"", // #00ffff
+            ""rgba(74, 134, 232,0.07)"" // #4a86e8
+        ],
+        ""rainbowTags.denylistTags"": [
+            ""!DOCTYPE"",
+            ""html"",
+            ""head"",
+            ""meta"",
+            ""link"",
+            ""script"",
+            ""base"",
+            ""style"",
+            ""area"",
+            ""col"",
+            ""embed"",
+            ""hr"",
+            ""param"",
+            ""source"",
+            ""track"",
+            ""wbr""
+        ],
+        ""editor.fontFamily"": ""'CommitMono-kailynsvers-350-Regular', commitmono"",
+    ""editor.fontLigatures"": true,
+    }
+
+my extensions are
+
+* auto rename tag
+* code runner
+* github copilot
+* github copilot chat
+* html preview
+* indent-rainbow
+* live sass compiler
+* live server
+* markdown preview enhancer
+* mdoc markdown documentation viewer
+* rainbow tags
+
+my font is a custom commit mono font named CommitMono-Kailynsvers350Regular Semi Light
+
+https://preview.redd.it/bydy7nz43koe1.png?width=267&format=png&auto=webp&s=e398e6fa7bde6ab88e15d3387268314631a8fa87",2025-03-13 21:14:16,0,6,0.17,vscode,sootybaby,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1jas6sk/cant_change_font_in_vscode/
+mihihp8,,See https://docs.github.com/en/copilot/using-github-copilot/guides-on-using-github-copilot/refactoring-code-with-github-copilot,2025-03-18 15:00:46,2,0,0.0,vscode,BranchLatter4294,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1jecinx/any_ai_tools_for_refactoring/mihihp8/
+mihykv1,,"Claude is one of the models in GitHub Copilot that you can chose from. You can pick from 3.5, 3.7, or 3.7 Thinking. Also, Gemini 2.0, GPT 4o, GPT o1, or GPT o3 mini.",2025-03-18 16:16:51,0,0,0.0,vscode,BranchLatter4294,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1jecinx/any_ai_tools_for_refactoring/mihykv1/
+miyl7ya,,Predicted part is likely copilot,2025-03-21 08:07:51,2,0,0.0,vscode,rehpotsirhc,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1jgf1cj/what_is_this_extension_thetext_predicted_part_and/miyl7ya/
+miyn77e,,https://code.visualstudio.com/docs/copilot/overview,2025-03-21 08:21:25,1,0,0.0,vscode,rehpotsirhc,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1jgf1cj/what_is_this_extension_thetext_predicted_part_and/miyn77e/
+mivnpza,,But the copilot button is there? How do you vibe?,2025-03-20 18:46:09,1,0,0.0,vscode,IrisBlaze,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1jfqzom/i_built_my_own_modern_ide_open_source_looking_for/mivnpza/
+mexghik,,disable copilot,2025-02-26 13:33:04,1,0,0.0,vscode,unscienceable,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1iyufex/noob_needs_help_how_to_turn_off_this_many_string/mexghik/
+mexh5op,,I disabled copilot auto completion function in settings.,2025-02-26 13:36:11,-2,0,0.0,vscode,Odd_Chain_3335,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1iyufex/noob_needs_help_how_to_turn_off_this_many_string/mexh5op/
+1j5nhzn,Secondarysidebar in vscode extensions,"Copilot new version has the chat in the secondary side panel (the one in the right side)
+researched it a lot  online and I can't for the love of god find how to open it in my extension . Is it possible?",2025-03-07 08:20:24,0,5,0.33,vscode,litchiTheGreat,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1j5nhzn/secondarysidebar_in_vscode_extensions/
+mgwzkdp,,"https://code.visualstudio.com/api/ux-guidelines/sidebars
+
+Says extensions cant directly contribute views. Copilot might be special since its integrated into the application.",2025-03-09 17:10:58,1,0,0.0,vscode,Frosty_Protection_93,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1j5nhzn/secondarysidebar_in_vscode_extensions/mgwzkdp/
+mgjj0wg,,"So how does copilot chat have it on the right side on default? In my extension  I want to utilize both the activity bar (the one on the left , and the one in the secondary side bar like copilot chat does )",2025-03-07 12:25:02,1,0,0.0,vscode,litchiTheGreat,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1j5nhzn/secondarysidebar_in_vscode_extensions/mgjj0wg/
+1j21z4c,Vscode on Mobile?,"Hey everyone,
+
+I've been using VS Code and GitHub Copilot Agent, and it's really streamlined my coding process. It's almost like coding has turned into just writing prompts instead of actual code. I always double-check everything, but it’s definitely made things faster.
+
+So, I was wondering, are there any mobile based tools for this? If programming is shifting towards prompt-based, why not do it on mobile too? It'd be great to code on the go and speed up progress even more. Any thoughts or suggestions?
+
+Thanks!
+
+",2025-03-02 16:28:20,0,5,0.1,vscode,Outrageous_Object807,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1j21z4c/vscode_on_mobile/
+1ivur7j,"VSCode reverted files back to a state several days ago, weeks progress lost.","I opened up VSCode, booted up the docker containers in WSL as I've done for the last couple weeks, only to dicover that my Dockerfile and docker-compose have been reverted to a state they were perhaps a week ago. I've been developing in these files locally for a time now and it was fine just hours ago but now, no.
+
+I don't know what to say, I've lost weeks of work now and I can't rule out other files haven't been ruined either. There is no editing history in the files and these particular files weren't git tracked yet so I can't even save them from that.. VSCode never again
+
+Adding some context, I've noticed that Copilot has issues with file contents and history, where it keeps referring to old code that does not exist anymore. Today is the first time I used copilot for a week or two, so I guess activating Copilot now again made vscode somehow revert my files to the state they were in last I used it.
+
+Yes, I should have properly tracked all my files, I didn't exactly predict this would happen..",2025-02-22 17:21:46,0,5,0.2,vscode,Natural_Abies_6250,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ivur7j/vscode_reverted_files_back_to_a_state_several/
+1jc873p,Blackbox AI on multiple mediums,"How can I make sure that I have access to my Blackbox AI account on all my devices? I have the free version of Blackbox AI in VS Code, on my PC, and my phone. I want to subscribe to the paid version in VS Code, but I'm not sure that it will link to my desktop or phone. Also, I am not seeing anyway to create an account, or sign in, on my mobile phone. I'm afraid to pay for one, but there's no history on other mediums. ChatGpt is great at this. So is copilot. Any advice would be helpful.",2025-03-15 19:33:21,0,0,0.4,vscode,Grand-Fortune-2147,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1jc873p/blackbox_ai_on_multiple_mediums/
+1ixl5p5,Mermaid Diagrams from code,"I made a thingy over the weekend that I thought y'all might like. It's an extension to generate mermaid diagrams from code. It uses an LLM to generate the diagram and renders it in a side window in VS-code. 
+
+I had something like this running on the side to better understand copilot generated code and figured I might as well turn it into an integration. 
+
+For now it uses just Sambanova for the LLM (super fast, plus free trial available ). But it would be easy enough to extend it with other LLMs. Its bring your own API key only. 
+
+I am also working on V2 that can scan the whole code base and create diagrams of how everything connects. 
+
+Feedback and PRs welcome! 
+
+Integration: [https://marketplace.visualstudio.com/items?itemName=FokkeDekker.mermaid-code-diagram](https://marketplace.visualstudio.com/items?itemName=FokkeDekker.mermaid-code-diagram)  
+GH-repo: [https://github.com/fokkedekker/vscode-auto-mermaid](https://github.com/fokkedekker/vscode-auto-mermaid)",2025-02-24 22:13:23,4,2,0.75,vscode,WallabyInDisguise,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ixl5p5/mermaid_diagrams_from_code/
+1j17t4v,Custom icons in menu or status bar to toggle a setting?,"I have set up the settings cycle extension to toggle Copilot on/off and assigned a keybinding to it (cf. https://github.com/orgs/community/discussions/7553#discussioncomment-1629050). This works fine. But I am really bad at remembering keyboard shortcuts for things I don't use all the time. So I would prefer a little icon, next to the Copilot icon in the menu bar or somewhere in the status bar that I can click to toggle this setting.
+
+Is there an easy way to add custom icons of this kind? Or would I need to write an extension for that?",2025-03-01 14:38:50,0,1,0.5,vscode,grossardt,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1j17t4v/custom_icons_in_menu_or_status_bar_to_toggle_a/
+mhejp8e,,"In case anyone comes here with the same question: I ended up writing a tiny extension for this. I don't actually speak TypeScript, so the whole thing was largely written by AI and comes with no warranty or support, but for me it works so far: [https://github.com/grossardt/copilot-toggle](https://github.com/grossardt/copilot-toggle)",2025-03-12 11:59:29,1,0,0.0,vscode,grossardt,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1j17t4v/custom_icons_in_menu_or_status_bar_to_toggle_a/mhejp8e/
+1ixu5fc,Introducing GitHub Copilot agent mode (preview),,2025-02-25 07:46:23,54,38,0.7,programming,feross,True,Reddit (r/programming),https://www.reddit.com/r/programming/comments/1ixu5fc/introducing_github_copilot_agent_mode_preview/
+mepyz7g,,"It looks like this is powered by other llms, not github copilot? The article said they could choose between chatgpt and Claude. Has copilot always been powered by other llms? ",2025-02-25 11:09:59,21,0,0.0,programming,tomster10010,False,Reddit (r/programming),https://www.reddit.com/r/programming/comments/1ixu5fc/introducing_github_copilot_agent_mode_preview/mepyz7g/
+meqdykh,,"Copilot was around before chatgpt, was able to do Generation but was more focused on fancy code competition",2025-02-25 12:21:20,5,0,0.0,programming,LastAccountPlease,False,Reddit (r/programming),https://www.reddit.com/r/programming/comments/1ixu5fc/introducing_github_copilot_agent_mode_preview/meqdykh/
+mer6m9t,,"Claude has been available in VS 2022 GitHub Copilot sonce 17.13.0 at least. There was also o1-mini and o1-preview when it was a preview release, but now it has o1 in it.",2025-02-25 14:35:34,-1,0,0.0,programming,DeProgrammer99,False,Reddit (r/programming),https://www.reddit.com/r/programming/comments/1ixu5fc/introducing_github_copilot_agent_mode_preview/mer6m9t/
+mer51bt,,GitHub Copilot was originally released using a model called codex which is a version of gpt-3 fine tuned for coding tasks.,2025-02-25 14:28:07,19,0,0.0,programming,Tunivor,False,Reddit (r/programming),https://www.reddit.com/r/programming/comments/1ixu5fc/introducing_github_copilot_agent_mode_preview/mer51bt/
+1jb3dix,The Rise Of Vibe Coding: A Practical Experiment With GitHub Copilot,,2025-03-14 09:02:08,0,13,0.19,programming,derjanni,True,Reddit (r/programming),https://www.reddit.com/r/programming/comments/1jb3dix/the_rise_of_vibe_coding_a_practical_experiment/
+mhqsi2y,,File by file and ensure it’s in the context window. Note that I predominantly used Claude 3.7 with GitHub Copilot and only Grok 3 partially to benchmark against,2025-03-14 09:24:49,-3,0,0.0,programming,derjanni,False,Reddit (r/programming),https://www.reddit.com/r/programming/comments/1jb3dix/the_rise_of_vibe_coding_a_practical_experiment/mhqsi2y/
+1jews07,Get the Most Out of GitHub Copilot • Sean Marcia,,2025-03-19 09:19:05,0,0,0.09,programming,goto-con,True,Reddit (r/programming),https://www.reddit.com/r/programming/comments/1jews07/get_the_most_out_of_github_copilot_sean_marcia/
+1j09c99,Building a fully coded and operational copilot,,2025-02-28 09:48:03,0,0,0.29,programming,Only_Piccolo5736,True,Reddit (r/programming),https://www.reddit.com/r/programming/comments/1j09c99/building_a_fully_coded_and_operational_copilot/
+1jf7gxv,Code Positioning System (CPS): Giving LLMs a GPS for Navigating Large Codebases,"# Hey everyone! I've been working on a concept to address a major challenge I've encountered when using AI coding assistants like GitHub Copilot, Cody, and others: their struggle to understand and work effectively with large codebases.  I'm calling it the Code Positioning System (CPS), and I'd love to get your feedback!
+
+**(Note: This post was co-authored with assistance from Claude to help articulate the concepts clearly and comprehensively.)**
+
+**The Problem: LLMs Get Lost in Big Projects**
+
+We've all seen how powerful LLMs can be for generating code snippets, autocompleting lines, and even writing entire functions.  But throw them into a sprawling, multi-project solution, and they quickly become disoriented.  They:
+
+* **Lose Context:**  Even with extended context windows, LLMs can't hold the entire structure of a large codebase in memory.
+* **Struggle to Navigate:**  They lack a systematic way to find relevant code, often relying on simple text retrieval that misses crucial relationships.
+* **Make Inconsistent Changes:**  Modifications in one part of the code might contradict design patterns or introduce bugs elsewhere.
+* **Fail to ""See the Big Picture"":** They can't easily grasp the overall architecture or the high-level interactions between components.
+
+Existing tools try to mitigate this with techniques like retrieval-augmented generation, but they still treat code primarily as *text*, not as the interconnected, *logical* structure it truly is.
+
+**The Solution: A ""GPS for Code""**
+
+Imagine if, instead of fumbling through files and folders, an LLM had a GPS system for navigating code.  That's the core idea behind CPS.  It provides:
+
+* **Hierarchical Abstraction Layers:** Like zooming in and out on a map, CPS presents the codebase at different levels of detail:
+   * **L1: System Architecture:**  Projects, namespaces, assemblies, and their high-level dependencies. (Think: country view)
+   * **L2: Component Interfaces:** Public APIs, interfaces, service contracts, and how components interact. (Think: state/province view)
+   * **L3: Behavioral Summaries:** Method signatures with concise descriptions of *what* each method does (pre/post conditions, exceptions). (Think: city view)
+   * **L4: Implementation Details:**  The actual source code, local variables, and control flow. (Think: street view)
+* **Semantic Graph Representation:**  Code is stored not as text files, but as a graph of interconnected entities (classes, methods, properties, variables) and their relationships (calls, inheritance, implementation, usage). This is *key* to moving beyond text-based processing.
+* **Navigation Engine:**  The LLM can use API calls to ""move"" through the code:
+   * `drillDown`\*\*:\*\*  Go from L1 to L2, L2 to L3, etc.
+   * `zoomOut`\*\*:\*\*  Go from L4 to L3, L3 to L2, etc.
+   * `moveTo`\*\*:\*\*  Jump directly to a specific entity (e.g., a class or method).
+   * `follow`\*\*:\*\*  Trace a relationship (e.g., find all callers of a method).
+   * `findPath`\*\*:\*\*  Discover the relationship path between two entities.
+   * `back`\*\*:\*\*  Return to the previous location in the navigation history.
+* **Contextual Awareness:**  Like a GPS knows your current location, CPS maintains context:
+   * **Current Focus:** The entity (class, method, etc.) the LLM is currently examining.
+   * **Current Layer:** The abstraction level (L1-L4).
+   * **Navigation History:**  A record of the LLM's exploration path.
+* **Structured Responses:**  Information is presented to the LLM in structured JSON format, making it easy to parse and understand.  No more struggling with raw code snippets!
+* **Content Addressing:** Every code entity has a unique, *stable* identifier based on its semantic content (type, namespace, name, signature). This means the ID remains the same even if the code is moved to a different file.
+
+**How It Works (Technical Details)**
+
+I'm planning to build the initial proof of concept in C# using Roslyn, the .NET Compiler Platform. Here's a simplified breakdown:
+
+1. **Code Analysis (Roslyn):**
+   * Roslyn's `MSBuildWorkspace` loads entire solutions.
+   * The code is parsed into syntax trees and semantic models.
+   * `SymbolExtractor` classes pull out information about classes, methods, properties, etc.
+   * Relationships (calls, inheritance, etc.) are identified.
+2. **Knowledge Graph Construction:**
+   * A graph database (initially in-memory, later potentially Neo4j) stores the logical representation.
+   * **Nodes:**  Represent code entities (classes, methods, etc.).
+   * **Edges:** Represent relationships (calls, inherits, implements, etc.).
+   * **Properties:** Store metadata (access modifiers, return types, documentation, etc.).
+3. **Abstraction Layer Generation:**
+   * Separate `IAbstractionLayerProvider` implementations (one for each layer) generate the different views:
+      * `SystemArchitectureProvider` (L1) extracts project dependencies, namespaces, and key components.
+      * `ComponentInterfaceProvider` (L2) extracts public APIs and component interactions.
+      * `BehaviorSummaryProvider` (L3) extracts method signatures and generates concise summaries (potentially using an LLM!).
+      * `ImplementationDetailProvider` (L4) provides the full source code and control flow information.
+4. **Navigation Engine:**
+   * A `NavigationEngine` class handles requests to move between layers and entities.
+   * It maintains session state (like a GPS remembers your route).
+   * It provides methods like `DrillDown`, `ZoomOut`, `MoveTo`, `Follow`, `Back`.
+5. **LLM Interface (REST API):**
+   * An [ASP.NET](http://ASP.NET) Core Web API exposes endpoints for the LLM to interact with CPS.
+   * Requests and responses are in structured JSON format.
+   * Example Request:{   ""requestType"": ""navigation"",   ""action"": ""drillDown"",   ""target"": ""AuthService.Core.AuthenticationService.ValidateCredentials"" }
+   * Example Response:{   ""viewType"": ""implementationView"",   ""id"": ""impl-001"",   ""methodId"": ""method-001"",   ""source"": ""public bool ValidateCredentials(string username, string password) { ... }"",   ""navigationOptions"": {     ""zoomOut"": ""method-001"",     ""related"": \[""method-003"", ""method-004""\]   } }
+6. **Bidirectional Mapping:**  Changes made in the logical representation can be translated back into source code modifications, and vice versa.
+
+**Example Interaction:**
+
+Let's say an LLM is tasked with debugging a null reference exception in a login process.  Here's how it might use CPS:
+
+1. **LLM:**  ""Show me the system architecture."" (Request to CPS)
+2. **CPS:**  (Responds with L1 view - projects, namespaces, dependencies)
+3. **LLM:**  ""Drill down into the `AuthService` project.""
+4. **CPS:**  (Responds with L2 view - classes and interfaces in `AuthService`)
+5. **LLM:** ""Show me the `AuthenticationService` class.""
+6. **CPS:**  (Responds with L2 view - public API of `AuthenticationService`)
+7. **LLM:** ""Show me the behavior of the `ValidateCredentials` method.""
+8. **CPS:**  (Responds with L3 view - signature, parameters, behavior summary)
+9. **LLM:**  ""Show me the implementation of `ValidateCredentials`.""
+10. **CPS:** (Responds with L4 view - full source code)
+11. **LLM:** ""What methods call `ValidateCredentials`?""
+12. **CPS:** (Responds with a list of callers and their context)
+13. **LLM:** ""Follow the call from `LoginController.Login`.""
+14. **CPS:** (Moves focus to the `LoginController.Login` method, maintaining context) ...and so on.
+
+The LLM can seamlessly navigate up and down the abstraction layers and follow relationships, all while CPS keeps track of its ""location"" and provides structured information.
+
+**Why This is Different (and Potentially Revolutionary):**
+
+* **Logical vs. Textual:**  CPS treats code as a *logical structure*, not just a collection of text files.  This is a fundamental shift.
+* **Abstraction Layers:**  The ability to ""zoom in"" and ""zoom out"" is crucial for managing complexity.
+* **Navigation, Not Just Retrieval:**  CPS provides *active navigation*, not just passive retrieval of related code.
+* **Context Preservation:**  The session-based approach maintains context, making multi-step reasoning possible.
+
+**Use Cases Beyond Debugging:**
+
+* **Autonomous Code Generation:**  LLMs could build entire features across multiple components.
+* **Refactoring and Modernization:**  Large-scale code transformations become easier.
+* **Code Understanding and Documentation:**  CPS could be used by human developers, too!
+* **Security Audits:**  Tracing data flow and identifying vulnerabilities.
+
+**Questions for the Community:**
+
+* What are your initial thoughts on this concept?  Does the ""GPS for code"" analogy resonate?
+* What potential challenges or limitations do you foresee?
+* Are there any existing tools or research projects that I should be aware of that are similar?
+* What features would be most valuable to *you* as a developer?
+* Would anyone be interested in collaborating on this? I am planning on opensourcing this.
+
+**Next Steps:**
+
+I'll be starting on a basic proof of concept in C# with Roslyn soon. I am going to have to take a break for about 6 weeks, after that, I plan to share the initial prototype on GitHub and continue development.
+
+Thanks for reading this (very) long post! I'm excited to hear your feedback and discuss this further.",2025-03-19 16:51:36,0,2,0.1,programming,n1c39uy,True,Reddit (r/programming),https://www.reddit.com/r/programming/comments/1jf7gxv/code_positioning_system_cps_giving_llms_a_gps_for/
+1iwz13g,Looking for an EU AI-powered code assistant (Like copilot or Amazon Q),,2025-02-24 05:29:12,0,1,0.2,coding,Revolutionary-Draw58,True,Reddit (r/coding),https://www.reddit.com/r/coding/comments/1iwz13g/looking_for_an_eu_aipowered_code_assistant_like/
+mfg4v91,,Has the author even tried the giant pile of shit that is copilot?,2025-03-01 10:58:07,1,0,0.0,coding,kiwibonga,False,Reddit (r/coding),https://www.reddit.com/r/coding/comments/1j122tx/from_code_monkeys_to_ai_whisperers_the/mfg4v91/
+1jbzw1v,"Why do so many people view tools like ""Cursor"" Or ""Github copilot"" As ""cheating""?","I recently got into programming again(after a while). And when I first saw these tools I was really excited to use these tools because in my previous attempt at learning programming, one of the main reasons why I stopped was because writing syntax for logic I knew how to build just tired me out. 
+
+But when I started using github copilot, it didn't really seem like ""cheating"" To me because I view programming as more of building logic rather than learning syntax. 
+But still, I am pretty new to programming, so I would be open to new opinions on this matter. 
+
+Feel free to leave your thoughts on this below. 
+
+Note- This post is not for convincing beginners to use ai. If you are a beginner I STRONGLY advise against using ai as many of the people in the comments explained. It can and will become a crutch for your lack of skills and that crutch will collapse on you as you progress but all this is for IMPROPER use of AI. ",2025-03-15 13:10:11,0,80,0.36,learnprogramming,Mediocre_Tennis725,True,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1jbzw1v/why_do_so_many_people_view_tools_like_cursor_or/
+mhy7o16,,"Its cheating because you dont learn. Programming requires you know the logic and syntax, and AI just does both of those, instead of you practicing them. If you want to actually learn, you should be asking it questions and reading the answers, not copy pasting code or using copilot/cursor.",2025-03-15 13:19:07,19,0,0.0,learnprogramming,Encursed1,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1jbzw1v/why_do_so_many_people_view_tools_like_cursor_or/mhy7o16/
+mhyb0oh,,"It is not cheating, but can hinder your learning. I have 30 years' experience and use copilot occasionally to go faster with mundane typing. It is quite impressive what it can do. Also, 90% of the code it suggests needs to be corrected to some degree. So if you don't know what you are doing, then it will be worse than cheating - it will be garbage. 
+
+My son is learning programming - a sophomore in college. He intentionally avoids generative tools because he recognized he was not learning ""why"" it suggested certain things. He uses ChatGPT as an enhancement to Google searches, but that is also more instructional.
+
+I will also say that I find Copilot sometimes distracting. It shifts my brain from the creative flow to an editor/code reviewer. You have to mindful how the generative tools are used to not lose the creative problem solving exercise.",2025-03-15 13:36:13,1,0,0.0,learnprogramming,Logical_Angle2935,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1jbzw1v/why_do_so_many_people_view_tools_like_cursor_or/mhyb0oh/
+mhy9vt4,,"This is what I’m doing. Or I ask copilot to explain concepts in a variety of different ways. Occasionally, if I’m really struggling with a problem, I might ask AI to give me the correct first line of code - find this is a much better way of leveraging AI to learn.",2025-03-15 13:30:26,4,0,0.0,learnprogramming,Heisenbaker,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1jbzw1v/why_do_so_many_people_view_tools_like_cursor_or/mhy9vt4/
+mhybwqf,,"That's wise, man appreciate the high effort answer. As for the comment I think in a similar way but for the explanation part, i feel like copilot is not advanced enough to handle nuance so it makes errors in explaining too I often use gpt",2025-03-15 13:40:45,1,0,0.0,learnprogramming,Mediocre_Tennis725,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1jbzw1v/why_do_so_many_people_view_tools_like_cursor_or/mhybwqf/
+mhycqp0,,lol you are really delusional if you compare copilot or ChatGPT to calculators,2025-03-15 13:45:00,1,0,0.0,learnprogramming,AdLate6470,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1jbzw1v/why_do_so_many_people_view_tools_like_cursor_or/mhycqp0/
+1j0z67j,"HTML teacher wants us to use Notepad instead of VS Code because ""you'll never learn anything about Web Development if you don't struggle coding on Notepad"", what do y'all think?","This teacher of ours lectured us on how difficulty at coding in Notepad increases memorization of the tags and keywords used on HTML/CSS/Javascript, because VS Code will make learning ""easier and redundant"" for you thanks to its features like integrated Copilot and Autocompletion for example. Has anybody encountered these type of teachers before? How reasonable was this from your own experience?
+
+Edit: I've seen people here saying that I should use Notepad++, which I addressed to them but they said ""No"" because ""it's different and too advanced compared to Notepad"", and then they stopped elaborating the ""why"" of it. Probably they strictly want us to recommend using Notepad only on learning how to code.",2025-03-01 08:13:05,630,670,0.93,learnprogramming,MarkXT9000,True,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/
+mfff9r0,,Telling you to not use Copilot is reasonable. I don't think the same applies to things like syntax highlighting or other little conveniences one gets from a programming text editor...,2025-03-01 08:34:01,169,0,0.0,learnprogramming,throwaway6560192,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mfff9r0/
+mffmagh,,"I've met a lot of those teachers - they seem to think that programming (any kind of programming, be it HTML, XML, CSS, JSON, or Java, C, Python, JavaScript) is about learning keywords and syntax, and automagically being able to organize and structure code while learning the semantics and logic at the same time.
+
+I used to have the same idea, until I noticed that what students learning with notepad was struggling with, was syntax, forgetting semicolons or brackets, or closing tags, where as what students learning with actual modern editors was struggling with, was understanding how to most effectively solve the problems given in the assignments.
+
+What finally convinced me of the stupidity of the ""better learn it the simple way first"" was when I had a class that was taught with all the fancy plugins, getting rainbow-colored bracket-matching, automatic indentation, automatic tag-closing, automatic formatting and automatic highlighting of compile and validation errors, as well as syntax highlighting. After their first semester another class started with one of the notepad-teachers, and some of the students that had been learning with all the modern tools were employed as teaching assistants. They could easily spot errors in syntax (indentation, missing closing etc.) in the notepad-students' work, and help them fix it - even though they didn't have all the fancy tools at their disposal. And they soon realized that these poor students weren't learning programming, but were learning how to structure and format code correctly - and the new students never reached the same level as the ones with the fancy tools.
+
+The only tool I'm still not too thrilled about is the fully automatic line-completion in JetBrains editors - as well as of course using CoPilot or other tools to actually write the code. But anything that can help you structure the code and avoid writing syntax errors - I'd recommend it.
+
+But of course the notepad teachers are still going strong - and every improvement to new editors is used as an argument against teaching the students to use those tools.
+
+They DO help with learning to program - and then you can always write code (and pseudocode) on paper when you have learned how to program!",2025-03-01 09:17:54,49,0,0.0,learnprogramming,peterlinddk,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mffmagh/
+mffrnk3,,"As someone who's taught coders before, I think there's some validity to the ""struggle"" idea, but largely disagree with it.
+
+One actually valid concern for new programmers is that there's a very fine line between tools making your life easier and more difficult, and the more IDE you start with at the beginning, the more you tend to live in the ""difficult"" space. Complex tools have complex usage and configuration patterns, and you don't want to spend all your time just making your environment work.
+
+I do agree about avoiding AI, but there are lots of other tools like interactive syntax highlighting and autocompletion that have been around for decades, and do reduce your cognitive load by A LOT. Plus some of the handy plugins for doing quick builds or loads or whatnot, those can be huge frustration avoiders.
+
+I'm a little out of the loop since I don't code for a day job anymore. Is Copilot automatically integrated and if so can you avoid it by removing plugins or using VSCodium or things like that?
+
+As a happy medium, you could also consider using something like notepad++, which is an old favorite, and offers some basic syntax highlighting and autocompletion and yet does not have a lot of the additional complexity that a proper IDE does.",2025-03-01 09:48:35,4,0,0.0,learnprogramming,mavrc,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mffrnk3/
+mfffolg,,"You should not use copilot or AI tools to solve problems. They prevent you from developing your logic and you will never improve, you will be an eternal junior.",2025-03-01 08:36:45,5,0,0.0,learnprogramming,Stock-Scientist6685,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mfffolg/
+mfivezr,,"I would just say don’t use copilot when learning a language. VSCode you can turn off auto-close tags and such, but it’s nice to auto-format on save so your code looks clean and it’s easier to keep track of nested HTML elements. If you want to, you can disable all of the “helper” features in VSCode so it is functionally the same as notepad, but easier on the eyes",2025-03-01 19:30:28,2,0,0.0,learnprogramming,GahdDangitBobby,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mfivezr/
+mfffygo,,"You should ask the teacher if you can use Notepad++. It's basically the same but with some syntax highlighting, block select, and ability to make macros
+
+Second, I can kinda see where he's coming from for memorizing various tags rather than getting it from an IDE
+
+Finally, if it's because of copilot, IMO never use copilot or chatgpt to copy/paste code. You won't learn anything",2025-03-01 08:38:33,1,0,0.0,learnprogramming,Spare-Plum,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mfffygo/
+mffoi82,,"I don't think there is a correct way of doing things unless you are using the integrations like copilot which can auto complete your code. Syntax highlight is alright I guess. I actually learnt qbasic, c, c++ in paper. We used to have a day in a week for practical but used IDE like codeblocks for it. If you write code frequently, you will memorize the syntax though.",2025-03-01 09:30:43,1,0,0.0,learnprogramming,Disastrous_Trust_166,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mffoi82/
+mffv1l1,,"i think the concern about using copilot is valid. i work as a teaching assistant for an OOP and DSA modules in uni and the amount of students who does not know how to format their code, know basic syntax, or even understand what their code does is concerning.",2025-03-01 10:07:03,1,0,0.0,learnprogramming,cyber_owl9427,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mffv1l1/
+mffv8m6,,"It's basically bullshit. I would not recommend copilot in vscode to beginners as it tends to auto-complete some bullshit that beginners might just use on a trial and error basis. You should read the documentation instead and understand what is what.
+
+But grammar or type based auto-completion is fine. It is just a quicker way of looking up the documentation basically. You will memorize what you use regularly anyway and there is no point to memorize everything. Learn concepts and be principled about applying them.
+
+There is a point to setting up complex projects without IDEs, to compile something with just a compiler etc. so you know how the tooling works. But for plain CSS and HTML vscode does not do more than syntax highlighting and basic syntax auto-completion, if you switch of copilot.
+
+If you use copilot as a beginner, you have to be very very careful with it.",2025-03-01 10:08:08,1,0,0.0,learnprogramming,dthdthdthdthdthdth,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mffv8m6/
+mfg79n7,,"That will make you verify your code without any help, and hence develop your skill to read and write the code. 
+Of course 90% will just use an IDE and copilot or chatGPT so is just a message for the very few that actually will do it have better chances to aquire more complex skills if following the same path, removing any tool that does the actual thinking for you.",2025-03-01 11:10:17,1,0,0.0,learnprogramming,JulixQuid,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mfg79n7/
+mfgcoq6,,"Definitely don’t use integrated copilot. I think there’s some value in a minimal editor, but not to the point of just notepad.
+
+I’d personally say the minimum subset of features I’d be ok with is:
+
+- whitespace display
+- line numbers
+- basic syntax highlighting
+- typo underlining
+
+I’m also an IDE maximalist so others may have different ideas.",2025-03-01 11:37:24,1,0,0.0,learnprogramming,mlnm_falcon,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mfgcoq6/
+mfgij33,,"Just my opinion but this isn't about learning to crawl first before walking, because you are gonna walk for frickin years in dev(writing stuff in ide) so you should use ide but not copilot. You will get used to writing correct syntax eventually.",2025-03-01 12:06:02,1,0,0.0,learnprogramming,ClearRelation4663,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mfgij33/
+mfgjxif,,"[after notepad++ update]: Your teacher is wrong. I’ve been a web developer since the time when firebug was the coolest kid on the block. Using the best tool is non negotiable. All. The. Time. If you want me to learn something deeply, define what that is and then I will learn that. What is it that you’re not learning by seeing syntax highlighting and code in colors? If anything you’ll learn more by looking at the colors of things. 
+
+Your teacher is right about copilot though. Because copilot generates shit sometimes and one point of you learning html is to catch the shit. Otherwise your future employer can replace you with copilot🙃. That’s a reason not to use co pilot.",2025-03-01 12:12:59,1,0,0.0,learnprogramming,dumbledore485,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mfgjxif/
+mfgn0kz,,"The new GitHub Copilot advertisement in VSCode might be the reason why that happens. Otherwise, using VSCode shouldn't be that much different from using Notepad++. You get some built-in formatter and that's about it.",2025-03-01 12:28:27,1,0,0.0,learnprogramming,NatoBoram,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mfgn0kz/
+mfgp1qq,,"I get it….but also….if you are in the military they don’t train you to shoot with muskets with the justification that you want your first shot to be accurate since the reload time sucks. You train with modern weapons because modern weapons are what you will be using. Very rarely if ever, will you need to use a basic text editor. Again I get it, but not really. The copilot part I defined  agree with.",2025-03-01 12:38:40,1,0,0.0,learnprogramming,JorgeOfTheJungl,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mfgp1qq/
+mfgwhax,,Maybe don't use copilot and autocomplete because there's a point there. But use the normal features of vs code. I would recommend ignoring your teacher and continuing to use VS Code.,2025-03-01 13:15:30,1,0,0.0,learnprogramming,Raemon7,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mfgwhax/
+mfheimx,,"If you're just learning the fundamentals I think using Notepad is a reasonable ask. Once you start doing anything more than the basics not having autocomplete is just a waste of your time. You'll be able to finish tasks much faster and avoid making basic typos. However, you should avoid Copilot and any other code generator like the plague while learning.",2025-03-01 14:45:35,1,0,0.0,learnprogramming,BumbleCoder,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mfheimx/
+mfi1da7,,"I have been coding since I was six years old. I had a professor tell me something similar. Here’s my advice. It’s OK to use VSCode but follow these guidelines: 1. Don’t use Copilot. 2. Read documentation where available. 3. Don’t even ask AI your question (it is wrong for me 50% of the time), if as a last resort you can’t figure it out, go to Stack Overflow. Part of coding is having the discernment to understand when you need and don’t need pieces of code. 4. If you want to know about popular library names, it is OK to ask AI. But do not ask it for code examples.",2025-03-01 16:44:44,1,0,0.0,learnprogramming,miniluigi008,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mfi1da7/
+mfktkhq,,"C programmer here. I know my C and a good deal of C++ way too well. Started on them about 20 years ago on a Unix server where the only editors were the evil vi and an OS called emacs (which I still use). No auto complete or other IDE features.
+
+Recently did a bit JS using copilot. The code is not the same boilerplate nonsense that IDEs tended to spit out in the last decade, but I didin't understand it too well, till I got some JS into my head, which believe it or not, I had to do the emacs way.
+
+Do IDEs help in efficiency? Yes. Does copilot? Definitely yes.
+
+But, they are not tools of learning they are tools of efficiency.
+
+Let's say you want to learn to send a letter to someone. You could type it out using a typewriter or print it out. But, before both you have to hold a pen(cil) and write on paper. Learning to code without IDEs is the learning to write part.
+
+We could even do a speech to text. You don't even to know the letters then. But, in that case for any small change you have to redo the whole letter. Learning with AI generated code is similar to using a speech to text. Effective, efficient, time saving. But, you need to have the basics right to do a check if it is right.",2025-03-02 03:58:37,1,0,0.0,learnprogramming,halfwit_genius,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mfktkhq/
+mfnyyoc,,"It's a bit hardcore, but I think it's OK. I just realized that for a decade I've been coding using only syntax highlighting and copilot for autocomplete. At this point I can write Python in my sleep, and have delivered a few applications / web apps. So I mean...we're still out here.",2025-03-02 15:36:39,1,0,0.0,learnprogramming,PersonalityIll9476,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mfnyyoc/
+mfs0iq0,,"As a very early intro to basic HTML, I think starting with Notepad is fine. I think it's very important to truly learn and understand how tags work, and doing so in an environment that doesn't hold your hand and point out typos or otherwise incorrect syntax really helps train you to actually read the code and look for issues. 
+
+However as you progress through the class, I would hope that the teacher opens up a bit and has you switch to other editors like Notepad++ or VS Code (without most extensions!). Anything like integrated copilot/autocompletion should be at the end of the course or else a post-course thing that you play around with yourself. I don't really see how a teacher would be able to teach you properly when you are using an autocompleter or other form of AI to help write your code. Those are tools that can be very helpful, but you still need to learn the basics and how to properly use those tools.",2025-03-03 08:39:54,1,0,0.0,learnprogramming,eraguthorak,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mfs0iq0/
+mfvwynh,,"Ok so turning off copilot makes sense, but everything else does not. You'll learn just as fast or faster if you have the basic auto complete feature.
+
+
+imo your teacher is a dumbass.
+
+
+Warning old man rant below: 
+
+
+It reminds me of my first web paper. I had an undergraduate coding frontend and c#/.net
+
+
+I produced my assignment by hand coding the html as we all do, and the teacher thought to mock me in front of the class for not using the Dreamweaver wysiwyg (which there was no requirement to do)
+
+
+But this point I'd produced several landing pages and a couple of non-trivial tech projects at work.
+
+
+So I explained to the teacher that I was already employed for over a year and doing this is a real world setting, that no one is using Dreamweaver professionally, that the senior team I brought my assignments to were laughing at them.
+
+
+After class I was asked to stay behind, HE wanted to lecture me about embarrassing him. I showed him my job offer, salary and a couple of projects. then went to faculty management explaining what had happened.
+
+
+To cut this off short, he was replaced immediately, and I got full credit for the paper using a work project that was already complete.
+
+
+The moral of this story is that many teachers (esp if they're young ones) don't usually have any xp or skill and are just facilitating courses with a textbook and some basics. Be respectful either way but also take their opinions with a grain of salt.",2025-03-03 20:33:18,1,0,0.0,learnprogramming,Historical_Emu_3032,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mfvwynh/
+mfx03cb,,"The copilot is a real issue
+
+
+In my college all assignments give negligible poi ts as they expect people just use llm to make it
+
+
+People don't seem to understand at all what their code does when they need to demo it
+
+
+And by the look of it it's just expecting for llm to do the job and company hire you for charity, I guess
+
+
+Sometimes it is crazy what they come up with, dockerfiles dozens of lines long when you only needed a few, etc.",2025-03-04 00:43:27,1,0,0.0,learnprogramming,SkrakOne,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mfx03cb/
+mg0of8h,,"Copilot, sure. You should absolutely not be using it. Autocomplete and intellisense, that's a stupid take. You learn a lot utilizing intellisense in any kind of development with the ctrl+space hotkey. Autocomplete only works if you know what's already supposed to be there.",2025-03-04 14:56:41,1,0,0.0,learnprogramming,Elfinslayer,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mg0of8h/
+mg6xsdr,,"You can use VS Code without stuff like copilot, but the basic intellisense autocompletion is going to help you get used to the language and what is available in it. It's faster than constantly having to dig up documentation. Notepad will slow you down for no real beneficial reason. Development isn't just about learning syntax, that's the easy part. Use a proper IDE that can help you structure projects well.",2025-03-05 13:47:19,1,0,0.0,learnprogramming,mint-parfait,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mg6xsdr/
+mfgedbo,,It's probably just easier to tell (and enforce if they're pre college age) kids to use windows notepad than explaining how to disable copilot/lsp auto completions in any modern IDE.,2025-03-01 11:45:35,4,0,0.0,learnprogramming,RazzmatazzWorth6438,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mfgedbo/
+mfgjp7f,,"I'm using vscode in my C++ class. I started typing out the main function then hit enter and copilot autocompleted the entire thing. I said nah fuck that, opened copilot's settings, and disabled those features. It wasn't that hard. It hasn't recommended anything to me since. Only the basic IDE word completion recommendations pop up as far as I've noticed.",2025-03-01 12:11:50,6,0,0.0,learnprogramming,TheScopeGlint03,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j0z67j/html_teacher_wants_us_to_use_notepad_instead_of/mfgjp7f/
+1j1m6v6,Is GitHub Copilot a better learning tool than Googling for coding help as a beginner?,"I’ve been thinking about whether using GitHub Copilot (or similar AI tools) is actually faster and maybe even better than the traditional way of Googling for coding help.
+
+As a total beginner, when I Google a simple coding problem, I often end up overwhelmed by Stack Overflow threads, documentation, and discussions about frameworks and concepts that are way above my level. It turns into a loop where I have to Google every little thing just to understand the explanation, making the process slow and frustrating.
+
+With Copilot, on the other hand, I feel like I get responses more tailored to my level—as long as I provide the right input. If I then take the time to really understand why Copilot generated a specific solution (not just blindly copying the code), wouldn’t that be a more effective way to learn than constantly searching through complex explanations?
+
+What do you think? ",2025-03-02 03:21:21,0,5,0.17,learnprogramming,TheDruadan,True,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j1m6v6/is_github_copilot_a_better_learning_tool_than/
+1j3ydlo,Will Following This Frontend Roadmap Make Me an Intermediate Developer? Seeking Advice!,"Hey everyone,
+
+I'm at the very beginning of my journey into frontend development, and I’ve created a structured learning approach for myself. I found [roadmap.sh/frontend](https://roadmap.sh/frontend), and I’m following it **step by step**, watching every single video and learning everything listed there.
+
+My goal is to **change my life and get into programming seriously**. I already have some experience with C++, C#, and Java, but now I’ve started with **HTML basics** and I’m currently learning **CSS fundamentals**.
+
+My question is: **Once I complete everything on this roadmap, will I be considered an intermediate frontend developer?** Also, what exactly defines the difference between **junior, intermediate, and senior developers** in real-world experience?
+
+Another concern I have is **AI and the future of programming**. I’m using GitHub Copilot, and it feels like it does a lot of the work for me. Do I really need to go through all of this learning when AI is advancing so quickly? Is frontend development still a good field to get into, or should I reconsider my path?
+
+Would love to hear insights from experienced devs—any advice is appreciated! Thanks in advance.",2025-03-05 03:17:12,0,27,0.29,learnprogramming,SeyiReddit,True,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j3ydlo/will_following_this_frontend_roadmap_make_me_an/
+mg47uyp,,"So many red flags here.
+
+1. No course will actually make you ""intermediate"". Courses give you the foundation. What you make out of it, your own projects (not tutorial projects that you copy) make you intermediate.
+2. With a decent portfolio showcasing *your* skills (not through copying tutorial projects) you can definitely become employable, even in today's market.
+3. ""I’m using GitHub Copilot"" - stop it if you *really* want to *learn* and *improve*. Don't let it do *your* work, *your* thinking, *your* programming. Yes, writing boilerplate is boring, but you absolutely need to learn to do it on your own. You are effectively outsourcing. With your approach, you will even less prevail in the age of AI than if you completely ignored it and actually *learned* to become *self sustaining*. What will you do if you can't access your AI assistant? What will you do if you don't have internet access? You are actively shooting yourself in both feet.",2025-03-05 03:34:27,3,0,0.0,learnprogramming,aqua_regis,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j3ydlo/will_following_this_frontend_roadmap_make_me_an/mg47uyp/
+mg6kmdk,,"Following that roadmap will not make you an intermediate developer. It *might* get you to junior level, depending on how diligent you are.
+
+Assume 2000-4000 hours worth of study and practice to get to maybe being hirable as a junior, and 5000 hours worth of professional experience after that to be intermediate. Expect to take 4-5 years to become hirable as a junior (that's about how long a B.Sc. in CS will take you, plus maybe an internship), and another 3-5 years of working full time as a programmer beyond that to hit intermediate.
+
+>I’m using GitHub Copilot, and it feels like it does a lot of the work for me. Do I really need to go through all of this learning when AI is advancing so quickly?
+
+So, a lot of people talk about AI eliminating junior roles and I don't know how true that actually is or not. But it definitely won't eliminate more senior roles who'll be needed to fix all the mistakes the AI makes. So you need developers who are *significantly more skilled and knowledgeable* than the AI is - if you can't do everything the AI does with trivial effort on your part, how can you then go an know more than the AI does? AI can be fine I think for automating tasks that are *too easy* for you to get any value out of, but you should never use it to do something you don't know how to do yourself, especially when learning.",2025-03-05 12:46:35,2,0,0.0,learnprogramming,PoMoAnachro,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j3ydlo/will_following_this_frontend_roadmap_make_me_an/mg6kmdk/
+mg476rg,,">My goal is to **change my life and get into programming seriously**.
+
+Why? Why do you want to change your life and why is programming the answer?
+
+>Another concern I have is **AI and the future of programming**. I’m using GitHub Copilot, and it feels like it does a lot of the work for me. Do I really need to go through all of this learning when AI is advancing so quickly? Is frontend development still a good field to get into, or should I reconsider my path?
+
+Ask yourself this. Do you want to be a glorified typewriter that inputs prompts into llms all day or do you want to be an expert in your field that can solve problems when llms cant?",2025-03-05 03:27:29,3,0,0.0,learnprogramming,Psychoscattman,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j3ydlo/will_following_this_frontend_roadmap_make_me_an/mg476rg/
+1j7c5qa,Software engineer who is bad at planning,"I’m a software engineer who is bad at planning. 
+
+Ways in which this affects me:
+- Writing design docs bores me. I would rather prototype and learn as I do. Though I do see benefit of designing to ensure requirements are clear, evaluate trade-offs, and prevent wasted efforts / inefficient solutions. I see the benefit. I just don’t enjoy writing them as much. I like to do. 
+- It’s difficult for me to estimate the ETA of a task. I’d rather just work on two important tasks in parallel and try to finish both as quickly as possible. When I am blocked on one, I work on the other. 
+- And I’m worried that Cursor/Copilot AI is going to automate me, and I don’t really have any career plan here when that happens. 
+
+
+Can anyone relate? Does anyone have any advice?
+
+Currently I just try to work with good planners and shower them with a lot of appreciation (though let’s be real, good planners are already highly rewarded in every workplace and industry). ",2025-03-09 13:05:46,5,6,0.63,learnprogramming,CuriosityAndRespect,True,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j7c5qa/software_engineer_who_is_bad_at_planning/
+1j5bf4o,Looking for resources to practice practical coding interview style questions,"I've been laid off for awhile now and been in the industry for 5 years. Been doing leetcode and studying system design, polishing my resume/CLs and all other behavioural questions I can think of.
+
+So far I always ace the initial leetcode interviews, system design questions and behavioural questions, but the moment I hit practical questions, my brain shuts off and and works at a snails pace. I've gotten really good at communicating my thoughts with the design for how to solve the problem, but coding the solution is very slow for me, where I backtrack to use better data structures. It doesn't come easy, and I only seem to know what to do as I code, and by the time I have a better idea of how to code it's too late, it's the end of the interview, and the interviewer is looking at me like I'm a fraud.
+
+Just looking to see where I can find more practical interview questions for me to practice. Copilot is unable to generate these for me, it just generates the same ones or points me towards leetcode questions.
+
+Please drop down any resources below, I'd really appreciate it. Been out of a job for more than half a year now and my wallet is not too happy :'(
+
+Here's an example of one of these practical interview questions I got from a very recent interview, in case I'm using the wrong term:  
+**Water Distribution Problem:** Given the water levels of a series of connected containers, calculate how to redistribute water to ensure no container's level goes below a threshold.
+
+Thanks in advance!",2025-03-06 20:04:40,1,6,0.67,learnprogramming,datmountainlion,True,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1j5bf4o/looking_for_resources_to_practice_practical/
+mefdi26,,You might wanna check interview monkey ai copilot just in case they ask a hard question,2025-02-23 18:20:01,1,0,0.0,learnprogramming,penta1111,False,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1itc32g/interview_in_a_week/mefdi26/
+1iy96r9,Struggling with Mid-Level Full-Stack Interviews – Need Advice on Prep,"Hey everyone,
+
+I’m a mid-level full-stack engineer with **3 years of experience**, mainly working with **React, Node.js, and AWS**, and I’m currently looking for my next role in **London**. The interview process has been a bit of a rollercoaster—every company seems to have a completely different approach, and I’m struggling to figure out how to prepare efficiently.
+
+So far, I’ve come across:
+
+* **LeetCode-style DS&A questions** (fairly standard, but still hit-or-miss on difficulty)
+* **Verbal technical deep dives** (these range from broad discussions to very specific knowledge checks)
+* **Pair programming sessions** (this is where I feel the least prepared)
+
+I find that because the formats vary so much, I don’t know where to focus my time. Has anyone else dealt with this? What’s the best way to prep, especially for **pair programming**? I also find it harder and more daunting because I feel like I’ve become reliant on Copilot, and writing code from my own head seems much harder now. Are you ever allowed to use tools like this in these kinds of interviews?
+
+Would love to hear how others have tackled this, especially if you’ve recently interviewed for mid-level roles in London. Thanks in advance!",2025-02-25 18:27:45,1,2,0.67,learnprogramming,xNarwhal,True,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1iy96r9/struggling_with_midlevel_fullstack_interviews/
+1iwxk8i,"What is the fastest route to learn beginner level HTML, CSS, and JavaScript","Im not a beginner and i can program in c, c++, java, python
+
+Im currently senior 1 engineering comp programming and like i crammed html css and JavaScript before in like 2 weeks but half baked and with help of cheatsheets
+
+I want to fully learn it with physically typing in short time, can you recommend me a way to learn fast?
+
+My current route is w3schools excercises, and when i get something wrong i ask chatgpt/copilot for an explanation/use case
+
+I fjnsihed 1/3 of the course exercises, where i supposedly finished the basics 
+
+Currently in the first lab we supposedly learnt half of html, tbh i slept through it cuz the TAs teaching felt generic and litterally typing html on the board
+So i slept through basically 
+
+At the end we were tasked to clone a whole page she wrote, basically making s heading, title, bold italic, <em>, break, quotes, line break
+
+But i found myself struggling with tables and lists and didn't find them direct in the cheatsheet
+
+Soo, i think i can cram more self learning in a shorter time 
+",2025-02-24 03:45:06,1,0,1.0,learnprogramming,Bebo991_Gaming,True,Reddit (r/learnprogramming),https://www.reddit.com/r/learnprogramming/comments/1iwxk8i/what_is_the_fastest_route_to_learn_beginner_level/
+1j7gvqb,cursor or copilot which one is the best, ?,2025-03-09 16:30:50,0,13,0.23,webdev,BranchPitiful2884,True,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j7gvqb/cursor_or_copilot_which_one_is_the_best/
+mgwtbfg,,"Cursor when I'm really stuck, but CoPilot as my daily driver in Neovim ❤️",2025-03-09 16:38:09,1,0,0.0,webdev,gorilla-moe,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j7gvqb/cursor_or_copilot_which_one_is_the_best/mgwtbfg/
+mgx0zoq,,I don't need copilot anymore,2025-03-09 17:18:29,1,0,0.0,webdev,DarickOne,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j7gvqb/cursor_or_copilot_which_one_is_the_best/mgx0zoq/
+mgx886y,,"Hi! I think both tools have their strengths. **Cursor** seems a bit better in agentic mode, fully taking over and grasping context more effectively, in my experience.
+
+But honestly, it all comes down to the **prompts**! The better your prompts, the better the results. AI can’t magically create perfect solutions on its own—it needs clear guidance.
+
+That’s exactly why I’m building **SynergyCoder**—a tool where you can **dynamically create coding prompts** for tools like Cursor and Copilot. It’s all about making it easier to get consistent, high-quality results without constantly rewriting prompts.
+
+Check it out for more details: [SynergyCoder](https://synergycoder.com/)
+
+What do you think? 🚀",2025-03-09 17:56:36,-8,0,0.0,webdev,Unuo120,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j7gvqb/cursor_or_copilot_which_one_is_the_best/mgx886y/
+1it25cm,"I created ChatGPT/Cursor inspired resume copilot, seeking your opinion",,2025-02-19 05:10:20,0,15,0.4,webdev,Grapphie,True,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1it25cm/i_created_chatgptcursor_inspired_resume_copilot/
+1iy2zof,Regular Claude or Claude in Copilot for Next.js?,"I mostly do full-stack Next.js work and I think I'm finally ready to start paying for GPT for generating code scaffolding (across multiple files) and tests and so forth.
+
+The newly-announced Claude 3.7 Sonnet has me convinced that's the way to go. My question is: ""regular"" Claude is $18/mo, but Copilot is $10/mo and can use Claude 3.7 Sonnet, so is there any reason to use the regular one? I guess the main difference is you don't have a general-purpose chat capability?
+
+The primary benefit I'm looking for is generating scaffolding for many components across multiple files, so it would seem really silly to have to copy and paste a bunch of shit into vscode when Copilot can just do it right in my filesystem.
+
+Just looking for any insights or advice y'all may have about this.",2025-02-25 14:08:22,0,4,0.4,webdev,disgr4ce,True,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1iy2zof/regular_claude_or_claude_in_copilot_for_nextjs/
+1ixu5r2,Introducing GitHub Copilot agent mode (preview),,2025-02-25 07:46:54,4,2,0.63,webdev,feross,True,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1ixu5r2/introducing_github_copilot_agent_mode_preview/
+mepyyht,,"Well, that's interesting.
+
+Wonder how it will compare to Windsurf.
+
+edit: Tried it, and it sucks
+
+In a Tauri App that I am writing where everything is rendered on hte rust side, Windsurf does a good job of seeing how things already work.
+
+Copilot agent just immediately started writing React+MUI...
+
+There isn't any react or even something similar in this project at all.
+
+That's the worst showing of everything thus far.
+
+Also, the article says ""We love self hosting"" and then talks about Dogfooding while pretending it's self-hosting.",2025-02-25 11:09:54,6,0,0.0,webdev,thekwoka,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1ixu5r2/introducing_github_copilot_agent_mode_preview/mepyyht/
+mgabivt,,copilot.,2025-03-06 00:58:44,1,0,0.0,webdev,mr_p2p,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j4bw3f/any_way_to_reduce_this_codeusage_in_next_slide/mgabivt/
+1j5z69o,Which IDE do you use?,"I see lots of people using Cursor and Windsurf now. Are these better than using Github Copilot on PHPStorm or VS Code?
+
+Which one do you use for web development?",2025-03-07 15:19:02,56,216,0.76,webdev,Euphoric_Natural_304,True,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j5z69o/which_ide_do_you_use/
+mgkujqk,,"IntelliJ IDEA Ultimate for me. Yes, it's expensive, but this is my profession, not my hobby. I would do DIY work around the house with tools from Walmart or Harbor Freight but if I'm framing, I'm rolling with Metabo (or something equally high quality).
+
+I currently use Copilot because Cursor feels like it tries to replace too much of how I actually USE my IDE in the first place. Not to toot my own horn but hey, I've been coding since I was 14 and I'm 49. Imagine knowing a foreign language for almost 40 years. You may not be the best in the world at it but you've still outgrown tools like Duolingo.
+
+I don't ""chat"" with Copilot and ask it to write a function for me. It's not even about the code it generates. It just honestly takes me longer to write the prompts in the precise way needed to get the function done the way I would have just written it myself. I work mostly on business-oriented Web and mobile apps, and usually when their logic gets complex it's because there are more rules, not because you're trying to come up with a yet-more-optimal ed25519 curve generator. Time sheets can't be submitted if they don't have start and end times. Oh, also, they can't be submitted if the job code is inactive. Oh, and don't forget, end time must be > start time. Oh and a shift can't be >20h without human approval. Oh yeah, check to be sure it's not a holiday. You get the idea. Just listing all that in a chat session as precisely as you need to do to get the code to be correct - I could have just written it in a few minutes. I didn't need help with that.
+
+The reason I use it at all is because of REFACTORING. Man, Copilot is insanely useful when it comes to that. Pivoting some nested object of consts into an array to feed something like a form-fields-defaults dropdown... I'll get some spreadsheet from Product, paste it into a comment, then just start typing the first entry of the array in the shape I want them all to be. By the time I'm on the second or third, it's figured out what I'm doing and I can just code-complete to get the rest. A small amount of editing, and a tedious task is now just a TAB key to accept it and done. And there are no prompts to adjust it either. If I don't like what it's suggesting, I just keep adjusting my first few entries and eventually it figures out the right pattern.",2025-03-07 16:23:06,16,0,0.0,webdev,CodeAndBiscuits,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j5z69o/which_ide_do_you_use/mgkujqk/
+mgkxlyu,,Vscode with all copilot features disabled 🤖,2025-03-07 16:39:03,23,0,0.0,webdev,_mr_betamax_,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j5z69o/which_ide_do_you_use/mgkxlyu/
+mgknl3x,,"Main ide is PHPStorm because I want to work and not fool around with plugins.
+
+Using VS Code for small side projects, when they get larger I switch to jet brains. I used Zed in a recent typescript project, liked it but it's a bit early for now.
+
+Our company pays for CoPilot and GPT, so we can use it. I disabled the inline completion because it's more a distraction than a help.",2025-03-07 15:39:04,6,0,0.0,webdev,p1ctus_,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j5z69o/which_ide_do_you_use/mgknl3x/
+mgleaqe,,"Incidentally, PHP storm's own AI Assistant is _far_ superior to GitHub copilot.",2025-03-07 18:06:31,2,0,0.0,webdev,JohnCasey3306,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j5z69o/which_ide_do_you_use/mgleaqe/
+mgpbpz6,,VSCODE. No copilot,2025-03-08 11:20:47,2,0,0.0,webdev,husky_whisperer,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j5z69o/which_ide_do_you_use/mgpbpz6/
+mgt752m,,"I can only use VS Code at work. 
+
+I work with Rails primarily so I have also used RubyMine in the past. 
+
+On my personal machine I use vs code but currently using Codeium as an assistant; I don’t code too much on my personal time and didn’t think paying $10 monthly for copilot was worth it. 
+
+The same goes for RubyMine (on personal machine). Additionally, it was too heavy on my M1 Air, but I think it’s a fantastic IDE. If I ever freelance, I’d like a Linux laptop with tons of RAM and I’d try RubyMine again. 
+
+I’m interested in trying Zed but I don’t think Rails support is very deep. ",2025-03-09 00:52:15,1,0,0.0,webdev,here_for_code,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j5z69o/which_ide_do_you_use/mgt752m/
+mgkqfft,,"Vs code with copilot has become decent now, I am using Claude 3.7 and smooth sailing!",2025-03-07 15:54:40,1,0,0.0,webdev,leanyka,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j5z69o/which_ide_do_you_use/mgkqfft/
+mgnq3ru,,"I've thought the same thing.
+
+It feels like the recent changes (especially now that it supports Claude) have really elevated the Jetbrains AI Assistant. Especially with how much the GitHub Copilot extension lags behind their VSCode features. I find the official GH extension quite buggy.",2025-03-08 04:17:41,1,0,0.0,webdev,dividebyzeroZA,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j5z69o/which_ide_do_you_use/mgnq3ru/
+mgktrs4,,"I dabbled with Copilot a little when it showed up in VS Code, but ended up turning it off.",2025-03-07 16:18:02,25,0,0.0,webdev,marcamos,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j5z69o/which_ide_do_you_use/mgktrs4/
+mgkq057,,I use copilot and copilot chat,2025-03-07 15:51:50,5,0,0.0,webdev,716green,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j5z69o/which_ide_do_you_use/mgkq057/
+mgkznqi,,I also use VSCode and Copilot as it automatically installs itself. Copilot is super overbearing though.,2025-03-07 16:49:27,5,0,0.0,webdev,_Being_is_Becoming_,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j5z69o/which_ide_do_you_use/mgkznqi/
+mgmp9h7,,"I liked that i was able to import all of my settings and themes, so there was no “getting used to” another editor. It was immediately familiar, just with Claude integration instead of Copilot",2025-03-07 22:49:13,3,0,0.0,webdev,frubalu,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j5z69o/which_ide_do_you_use/mgmp9h7/
+mglqtnw,,"Yeah kinda but different approach, In their Free tiers:
+- Codeium has amazing chat + completion + more.
+- Supermaven just has completion (which is blazingly fast).
+
+I also found Supermaven to be the lightest one (faster than GH Copilot itself).",2025-03-07 19:18:20,0,0,0.0,webdev,noobjaish,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j5z69o/which_ide_do_you_use/mglqtnw/
+me67adg,,"I can make it with Replit and Copilot, is it cheating?",2025-02-22 09:53:38,2,0,0.0,webdev,NaeemAkramMalik,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1iuzrt2/i_made_my_first_todo_list_app_it_was_harder_than/me67adg/
+1jey3ry,"Do AI tools actually help you learn programming, or do they make you dependent on them?","
+AI coding tools like ChatGPT, Copilot, and Blackbox AI are great for debugging and generating code, but do they actually help you learn, or just make you rely on them too much? Have they improved your coding skills, or do you find yourself depending on them instead of fully understanding the code? Curious to hear your thoughts!",2025-03-19 10:20:48,20,70,0.72,webdev,PuzzleheadedYou4992,True,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1jey3ry/do_ai_tools_actually_help_you_learn_programming/
+mimj2hs,,"> AI coding tools like ChatGPT, Copilot, and Blackbox AI are great for debugging and generating code
+
+Generating code: yes, somewhat, though personally I prefer to set up my projects such that I don't need to write much boring boilerplate to begin with, and I have found AI tools to not be particularly useful for my work.
+
+Debugging code: I don't think so. They aren't even clever enough to spot mistakes in their own code, and even if you point them out, they will often just reseed their RNG's and take another shot in the dark, rather than actually understanding what's going on. They can probably detect typical common mistakes, but as someone with over 30 years of programming experience, those aren't the things I spend a lot of time debugging, and the bugs that cost me a lot of time are not the ones that an LLM could even remotely hope to help with.
+
+Anyway, to answer the original question: IME, these things are essentially ""autocomplete on steroids"" - they are good at filling in predictable gaps, and as long as you know what you're doing and whether a given completion makes sense, they can be great. But I don't think they're good for teaching, in the same way that using a realtime translation app isn't good for learning a foreign language - they give you a shortcut to the solution, allowing you to skip the part where you actually engage in a problem, explore it, make a couple mistakes, eventually understand the problem, find a solution, and develop an intuition for it.
+
+Another problem with using LLMs for learning is that they are often just plain wrong, but if you don't understand what they're doing, you won't know the difference. Not only can this lead to some massive confusion (and not the good kind that you learn from), it can also keep you from finding better solutions and practices, and it can teach you some bad habits.
+
+Keep in mind that ""learning pace"" and ""problem solving pace"" are not the same thing. LLM-supported development can get you to a working solution faster, but that doesn't mean you're learning faster, just like driving a marathon doesn't make you a faster runner, or watching a chess bot win game after game doesn't make you a better chess player.",2025-03-19 10:39:42,3,0,0.0,webdev,tdammers,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1jey3ry/do_ai_tools_actually_help_you_learn_programming/mimj2hs/
+mimjfaf,,"If copilot spits out something I don't understand, I just ask it to explain the piece I don't understand. If you're just copying and pasting, you won't learn anything just like if you copy and paste stack overflow answers",2025-03-19 10:41:34,2,0,0.0,webdev,GoodishCoder,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1jey3ry/do_ai_tools_actually_help_you_learn_programming/mimjfaf/
+min0lek,,"Just dipping in my toes with GH Copilot and so far my answer is neither, at least on an existing codebase. Half the time it nails it 100%, but I still have to nudge it into understanding the issue (imo this doesn't leave a lot of room for me forgetting how to program, nor learning anything new).  The other half, it's like herding cats trying to get it to the clean solution I want, and could have written myself in the same amount of time (this also doesn't leave much room for skills to fade, and TBH it saps the fun right out of coding - it's like being a teacher/TA grading papers instead of crafting something myself).  I don't see a lot of avenues for learning, except when you're just asking it stuff you could equally ask a search engine.  eg. How does function abc work.
+
+Asking it to build something from scratch, vibe coding, etc. I think is where you can get into trouble with becoming dependent.  Once you don't (intimately) understand code you're slapping your name on, you open yourself up to eventually having to maintain (own) something you don't actually have the skills to work on.  Can AI fix it, maybe, but you're just piling insanity on top of insanity, it's not going to be well-architected, it becomes bulkier and more unknown to you.  Eventually the answer will be no it can't fix it, and you're cooked.  Bluntly I think people just in it for the paycheck will end up in that place a lot more easily than people for whom coding is a pursuit.  Again, I'm just starting to dabble with AI so this is opinion version 0.1.",2025-03-19 12:06:57,1,0,0.0,webdev,bwwatr,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1jey3ry/do_ai_tools_actually_help_you_learn_programming/min0lek/
+mio8cl7,,"I think both... AI tools can make you a better developer, but they can also make you dependent. A good test is to go a whole workday without using AI - then you'll see if you're relying on it too much.  
+I first noticed this when I had been using GitHub Copilot for a while. I caught myself waiting for AI to autocomplete my code instead of thinking it through. It became a habit, and I could see it affecting the way my code turned out.
+
+AI is great, but it's important to use it as a tool, not a crutch.",2025-03-19 15:37:25,1,0,0.0,webdev,monityAI,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1jey3ry/do_ai_tools_actually_help_you_learn_programming/mio8cl7/
+1it3dhk,[Partially Rant] I truly want to use AI but..,"Hello everyone. I'm actually using ChatGPT and Copilot to help me in my daily job. Since now I just used those to help me write basic functions as some sort of personal assistant. Stuff like ""provide a function that sorts my array of objects given that specific logic"" or ""provide a boilerplate for that framework using that other framework"". This because I never managed to get something more usefull from an LLM. 
+
+Cause people keep saying I'm the one who uses them bad I've spent the last 4 months trying to leverage LLM power to a further level...failing miserably. 
+
+As a test project I'm now trying to convert a 3d engine I've already wrote in C++ to a webgl2 engine using typescript. I decided to use ChatGPT o1 and o3 since the beginning of the project hoping that the LLM could keep its own context updated by not needing to interpret some already existing sources. ChatGPT was able to provide a typescript project with the Hello World of 3d programming:  a working WebGL2  example with a static triangle. Nice! 
+
+  
+At this point problems arise.  As the project grew and modularity kicked in ChatGPT started allucinating badly. As every decent 3d engine works I split my Classes into modules. So now I have a Renderer class, a Scene class, a Mesh class, some Utility classes like CompileShaders, LoadTextures and so on. 
+
+  
+No matter how hard I try and how frequently I reupload my sources, ChatGPT keeps ""forgetting"" stuff he has provided and keeps writing (buggy) new code as the previous work never existed. I need a new shader? ChatGPT keeps writing private functions to load and compile shaders, even if I just reminded it he already provided a Utility class that specifically does that.  A texture? Let's rewrite the texture loading code instead of using the already existing one that ChatGPT itself provided. 
+
+And BLODY HELL, I hate when it does an error and I need to keep telling it to not include that error. ""Hey that part is wrong, you should do it that way"" ""Ok"" And then, after one step, it keeps doing the same error I told it not to do.
+
+I tried updating the context by explaining stuff, by re-uploading to ChatGPT the current sources, using single files, using an archive of the whole folder. Nothing works. It seems it can ""remember"" stuff it did for 1 or 2 steps then it restarts from scratch.
+
+is it me? Is it the model I'm using? Is it a context capacity issue? Are we still far from a truly usable LLM to do real world stuff other than ""write me this simple code I can write by myself but I'm too lazy to type""?",2025-02-19 06:31:34,0,21,0.43,webdev,rio_sk,True,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1it3dhk/partially_rant_i_truly_want_to_use_ai_but/
+mdmhmyj,,"In the current state of LLM using them efficiently to tackle real coding uses is a skill, let's be honest most people that coded before the LLM era suck big time at it, like big BIG time, even better they don't want to learn, they expect LLM to meet them in their comfort zone.
+
+Learning to Google is a skill, if you can't do it, it's quite obvious to someone that knows how to do it. It's a skill because knowing the boundaries and hitting the right spot at the boundary is what makes you good at it, people that can't do that have a very hard time finding whatever they are looking for with Google. You don't randomly type your whole codebase on google and expect a solution to appear ...
+
+I've been using things that existed before Copilot and GPT3.0 (those were BAD) and I mastered the use of the tool, each new updates I could appreciate the new capabilities and could see boundaries expanding.
+
+LLM are limited, forget stuff, make mistakes, hallucinate stuffs etc... each one of them have their own strength and limits, currently they are weak enough that it's not only noticeable but differences between models and providers are also clearly noticeable.
+
+I've been coding for about 20 years, and I took me a bit of time to fully embrace the new meta but once I started to master it, it's became easier than Googling stuffs, it's 100x more powerful than any other tool we had in the past, be it builtin docs or search engines/ SO etc...
+
+Everytime I see a senior dev trying to use a LLM, he looks like a child about to hit his head on a table that he isn't seeing, it's obvious before he even start writing his message that it's not going to work the whole premise and the way he's approaching the problem is incorrect, he then writes something that makes it even more obvious that he doesn't understand what he's doing, the expected failure inevitably comes.",2025-02-19 10:09:34,1,0,0.0,webdev,SaltMaker23,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1it3dhk/partially_rant_i_truly_want_to_use_ai_but/mdmhmyj/
+mhz0ydj,,github copilot comes with both,2025-03-15 15:51:00,2,0,0.0,webdev,BONUSBOX,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1jc3czt/what_llm_would_you_choose_claude_or_chatgpt/mhz0ydj/
+mi0qgdk,,"hahaha why are you so sore ? I've started using LLMs 3 months ago. I became a software engineer without the use of AI. I didn't want to use LLMs at first because I thought I would stop getting better as an engineer, that I would use it instead of coming up with solutions. I was wrong. It's just a tool like any other.
+
+I actually don't use copilot, for example, exactly because I want to stay sharp and write my own code, knowing exactly what I do and why I do it.
+
+All I use AI for is to aggregate information. I do a lot of R&D, and if I have to try 10 different packages and find out which is best for my use case, I save a lot of time by prompting an LLM to aggregate basic information and get a base implementation, instead of going through pages of forums and docs. Then when I find the right one, guess what, I still go the ""old"" route of doing the job myself, researching, implementing.
+
+You have a specific question about a specific package ? You could spend hours going through forums, stack overflow posts, or you could prompt an LLM to do it for you. I don't see how that makes me a worse programmer. I still verify my findings with trusted sources.
+
+You say you understand it but your first comment crearly showed you didn't, so at this point I don't know why you're talking. You're giving your opinion (that nobody asked for, by the way), on something you don't understand.
+
+You're getting old, bucko.",2025-03-15 21:43:22,1,0,0.0,webdev,sin_esthesia,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1jc3czt/what_llm_would_you_choose_claude_or_chatgpt/mi0qgdk/
+mhouy0s,,Maybe you can use copilot.,2025-03-13 23:32:35,1,0,0.0,webdev,Aggravating_Ice4119,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1japve0/refactoring_code_with_ai/mhouy0s/
+1j8d7rx,Upgrading Old PHP Website (PHP 5 → PHP 8.x) Using AI - Need Guidance,"Hey!
+
+I’m currently upgrading an old PHP 5 website to the latest PHP version. I have all original files (public_html), including PHP, HTML, CSS, JavaScript, and various include files. The website’s structure and appearance need to remain exactly the same—only backend code (mostly PHP) needs upgrading for compatibility and security.
+
+I’ve used AI tools like ChatGPT and Claude extensively, but it’s becoming cumbersome due to context window limitations. Each new chat loses context about my project.
+
+My Ideal Scenario:
+	•	Upload the entire public_html folder somewhere (like GitHub).
+	•	Have an AI (GitHub Copilot or something similar) analyze the entire folder, understand interdependencies among files, and help me update outdated PHP code seamlessly.
+	•	Continuously test and ensure the website remains functional at every step.
+
+I’ve heard good things about GitHub Copilot with Claude 3.7 Sonnet integration and Codespaces, but I’m not experienced enough to fully understand if this meets my needs. Can anyone experienced in upgrading legacy PHP sites using AI tools guide me?
+
+Key Questions:
+	•	Is GitHub Copilot Pro good enough to handle a full website upgrade from PHP 5 to latest versions?
+	•	Can it maintain context across multiple files effectively?
+	•	How do you practically test database connections and functionality within this AI-assisted workflow?
+	•	Any pitfalls or better approaches?
+
+Thanks in advance for any guidance!
+",2025-03-10 19:48:01,0,11,0.13,webdev,Cautious_Shift_1453,True,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j8d7rx/upgrading_old_php_website_php_5_php_8x_using_ai/
+mh5tyab,,"Man, I think they are concerned about the amount of work you will be doing vs the pay you will get out of it lol. Copilot isn't a static code analyzer afaik, so it cannot scan code and give you a report on deprecation and refactoring.
+
+A few years ago I did a project that upgraded a site with custom PHP framework from 5 to 7, and at that time I paid for a phpstorm license and used its build-in features to do static code analysis. It worked well. I am not sure how that tool works nowadays though. Also found this on the php reddit [https://www.reddit.com/r/PHP/comments/18ix95v/what\_would\_be\_the\_easiest\_way\_to\_scan\_files\_for/](https://www.reddit.com/r/PHP/comments/18ix95v/what_would_be_the_easiest_way_to_scan_files_for/) with a handful of tools that can do static code analysis.",2025-03-11 02:18:58,2,0,0.0,webdev,poeticmaniac,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j8d7rx/upgrading_old_php_website_php_5_php_8x_using_ai/mh5tyab/
+1j6d84j,Best AI for Programming (2025-03),"Hey all, I've been using free-tier AI tools pretty intensively over the past few months to support my work and daily life. About 70% of my usage is for programming, and the rest is for other stuff. I’ve been jumping between tools like ChatGPT, Cursor AI, GitHub Copilot, Claude, and Deepseek—mostly because one of them is usually down or hits its limit when I need it.
+
+Recently, I discovered Lovable dev (along with similar options like Bolt and v0) and gave it a try—pretty impressive stuff 😅. Now I'm feeling a bit stuck on which one is really worth upgrading to a paid subscription.
+
+Any thoughts or suggestions? Also, if anyone’s got a setup that mixes two or more free AIs or even self-hosting options (whether on your own hardware or a rented server), I'm all ears.
+
+For context, I'm a fullstack developer. Thanks in advance!",2025-03-08 03:59:40,0,3,0.14,webdev,matchalixious,True,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j6d84j/best_ai_for_programming_202503/
+1jc91no,is it possible to use chatgpt premium in vscode? claude? deepseek?,"possible to use ""chatgpt plus"" in vscode instead of a copilot?   
+  
+my github account has copilot enabled from work.  
+but for personal coding - I feel like I shouldn't be using it because they (job) can probably see queries and I think legal case could be made that I coded personal project with work tools - my job can claim ownership of that.   
+     
+maybe a stretch but still. I don't trust work copilot for coding personal projects.    
+      
+  
+I have chatgpt personal subscription - is it passible to use that in vscode similar to copilot?    
+or do u guys use alternates? claude/anthopic? deepseek?    which vscode extensions? ",2025-03-15 20:15:13,0,1,0.33,webdev,terrafoxy,True,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1jc91no/is_it_possible_to_use_chatgpt_premium_in_vscode/
+mfe8eqd,,"Github Copilot on the Github website allows you to ask questions about the repository that you are looking at, you don't need to own the repository. Just click on the Copilot button (next to search).",2025-03-01 01:53:50,7,0,0.0,webdev,apqoo,False,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j0tbiy/any_website_that_allows_to_quickly_embed/mfe8eqd/
+1j0bvk2,AI Code Assistant Demos,"I think tools like Cursor and Copilot are nice. They haven’t been useful or reliable enough to revolutionize my workflow, but they certainly keep me from bouncing around Stack Overflow.
+
+I just find the messaging around these tools to be a little bizarre. There is almost a late night infomercial vibe to it all. 
+
+“Throw all your knives away! You only need this one!”
+
+I saw a post by someone who works at a VP level raving over a demo where someone cloned an app using some AI tool. He then trash talked the “old school” way of building software with scrum teams and dozens of devs.
+
+It was very disappointing, and alarming to see a post like that, because I feel he should know better. Imagine working as a welder, and your boss walks in and says, “I saw a commercial where this guy put an entire boat together using this stuff called Flex Seal. All he had to do was spray it on. I want all this old school welding equipment out of here.”
+
+I wish the messaging around these tools would change. Because they are good tools, and they deserve better than “For only $19.99, you can build an app in minutes!”
+",2025-02-28 11:34:37,0,0,0.5,webdev,BitEuphoric,True,Reddit (r/webdev),https://www.reddit.com/r/webdev/comments/1j0bvk2/ai_code_assistant_demos/
+1jaffph,“No thanks” fans respond to Microsoft’s new Copilot AI ‘gaming coach’,,2025-03-13 12:02:25,76,44,0.81,artificial,Odd-Onion-6776,True,Reddit (r/artificial),https://www.reddit.com/r/artificial/comments/1jaffph/no_thanks_fans_respond_to_microsofts_new_copilot/
+mhm8j73,,"https://preview.redd.it/bk7n5glbbioe1.png?width=885&format=png&auto=webp&s=47b3d6b0794094066492bec8c5dbdd3bf39af49d
+
+I just asked the same of Copilot but this time only hints, and it seems to work well. This is just faster than hunting for help online and risk getting spoiled.",2025-03-13 15:17:06,3,0,0.0,artificial,_lonely_astronaut_,False,Reddit (r/artificial),https://www.reddit.com/r/artificial/comments/1jaffph/no_thanks_fans_respond_to_microsofts_new_copilot/mhm8j73/
+1j0vu7d,"Thousands of exposed GitHub repositories, now private, can still be accessed through Copilot",,2025-03-01 04:34:38,18,1,0.85,artificial,F0urLeafCl0ver,True,Reddit (r/artificial),https://www.reddit.com/r/artificial/comments/1j0vu7d/thousands_of_exposed_github_repositories_now/
+mgc1rsj,,agentically written or as a copilot?,2025-03-06 09:35:08,1,0,0.0,artificial,zubairhamed,False,Reddit (r/artificial),https://www.reddit.com/r/artificial/comments/1j4rktg/one_of_anthropics_research_engineers_said_half_of/mgc1rsj/
+mgfsbwu,,"Very recent. I use Copilot, Gemini and Claude in my work daily. I've been using (and writing) LLMs since GPT 3 was released. I think I know how to word my prompts well.  Why can't you accept that AIs could falter on codebases with greater complexity than the ones you seem to work on?",2025-03-06 20:52:05,5,0,0.0,artificial,JamIsBetterThanJelly,False,Reddit (r/artificial),https://www.reddit.com/r/artificial/comments/1j4rktg/one_of_anthropics_research_engineers_said_half_of/mgfsbwu/
+1ixb7rk,Claude Code: The Future of Agentic Coding?,"Claude 3.7 Sonnet just launched, but Claude Code might be the real game-changer for devs.
+
+A command-line tool that lets you delegate engineering tasks to Claude directly from the terminal. Early testers (Vercel, Replit) say it’s handling full-stack updates & web apps like a pro.
+
+Could this rival Copilot X and Cursor's integrated AI pair-programming? Or will it be limited by Claude's API constraints?
+
+Any devs here got access to the research preview? Would love to hear your thoughts!
+",2025-02-24 14:54:35,62,14,0.94,artificial,snehens,True,Reddit (r/artificial),https://www.reddit.com/r/artificial/comments/1ixb7rk/claude_code_the_future_of_agentic_coding/
+1izxtdr,How Different AI Models Interpret the Same Prompt: A Visual Comparison,"Prompt: ""Generate an image of a kangaroo in Pixar like animated format""
+Ordering is Claude (Anthropic), ChatGPT (OpenAI), Gemini (Google), Copilot (Microsoft) and Le Chat (Mistral AI)
+My favorite was from Le Chat.
+",2025-02-27 21:56:12,9,20,0.72,artificial,PrestigiousPlan8482,True,Reddit (r/artificial),https://www.reddit.com/r/artificial/comments/1izxtdr/how_different_ai_models_interpret_the_same_prompt/
+mfbofgz,,"What you actually tested was Claude (with SVG), DALL-E 3, Imagen 3, DALL-E 3 again, and Flux Pro. None of these models generate their own images. 4o and Gemini 2 are capable internally, but this isn't released to the public for some reason. Copilot is ChatGPT, ChatGPT uses DALL-E 3, so you tested that twice.
+
+Edit: Although, the reason Copilot's looks different is they likely nuked the word ""Pixar"" from your prompt before sending it. I'm honestly surprised ChatGPT didn't do that itself.",2025-02-28 16:32:02,3,0,0.0,artificial,CognitiveSourceress,False,Reddit (r/artificial),https://www.reddit.com/r/artificial/comments/1izxtdr/how_different_ai_models_interpret_the_same_prompt/mfbofgz/
+1j32cut,One-Minute Daily AI News 3/3/2025,"1. **Microsoft** unveils new voice-activated AI assistant for doctors.\[1\]
+2. Conan O’Brien comments on AI during his opening monologue at the **Oscars**.\[2\]
+3. **The LA Times** published an op-ed warning of AI’s dangers. It also published its AI tool’s reply.\[3\]
+4. **Tencent’s** AI Bot Passes DeepSeek as China’s Favorite on iPhones.\[4\]
+
+Sources:
+
+\[1\] [https://www.cnbc.com/2025/03/03/microsoft-unveils-dragon-copilot-a-voice-activated-ai-tool-for-doctors-.html](https://www.cnbc.com/2025/03/03/microsoft-unveils-dragon-copilot-a-voice-activated-ai-tool-for-doctors-.html)
+
+\[2\] [https://techcrunch.com/2025/03/03/conan-obrien-comments-on-ai-during-his-opening-monologue-at-the-oscars/](https://techcrunch.com/2025/03/03/conan-obrien-comments-on-ai-during-his-opening-monologue-at-the-oscars/)
+
+\[3\] [https://www.theguardian.com/us-news/2025/mar/03/la-times-op-ed-ai-generated-message](https://www.theguardian.com/us-news/2025/mar/03/la-times-op-ed-ai-generated-message)
+
+\[4\] [https://finance.yahoo.com/news/tencent-ai-bot-passes-deepseek-031615286.html](https://finance.yahoo.com/news/tencent-ai-bot-passes-deepseek-031615286.html)",2025-03-03 23:11:58,9,2,0.77,artificial,Excellent-Target-847,True,Reddit (r/artificial),https://www.reddit.com/r/artificial/comments/1j32cut/oneminute_daily_ai_news_332025/
+1jbmglp,One-Minute Daily AI News 3/14/2025,"1. AI coding assistant **Cursor** reportedly tells a ‘vibe coder’ to write his own damn code.\[1\]
+2. **Google’s** Gemini AI Can Personalize Results Based on Your Search Queries.\[2\]
+3. GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing.\[3\]
+4. **Microsoft’s** new Xbox Copilot will act as an AI gaming coach.\[4\]
+
+Sources:
+
+\[1\] [https://techcrunch.com/2025/03/14/ai-coding-assistant-cursor-reportedly-tells-a-vibe-coder-to-write-his-own-damn-code/](https://techcrunch.com/2025/03/14/ai-coding-assistant-cursor-reportedly-tells-a-vibe-coder-to-write-his-own-damn-code/)
+
+\[2\] [https://www.cnet.com/tech/services-and-software/googles-gemini-ai-now-personalizes-answers-based-on-your-search-history/](https://www.cnet.com/tech/services-and-software/googles-gemini-ai-now-personalizes-answers-based-on-your-search-history/)
+
+\[3\] [https://huggingface.co/papers/2503.10639](https://huggingface.co/papers/2503.10639)
+
+\[4\] [https://www.theverge.com/news/628666/microsoft-xbox-copilot-for-gaming](https://www.theverge.com/news/628666/microsoft-xbox-copilot-for-gaming)",2025-03-14 23:46:17,4,1,0.75,artificial,Excellent-Target-847,True,Reddit (r/artificial),https://www.reddit.com/r/artificial/comments/1jbmglp/oneminute_daily_ai_news_3142025/

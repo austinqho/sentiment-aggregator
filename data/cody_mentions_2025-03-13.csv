@@ -1,0 +1,9 @@
+id,title,text,created_at,score,num_comments,upvote_ratio,subreddit,author,is_post,source,url
+1ins9ok,API calls for checking/triggering sync times,"I have an Enterprise Starter account. Was able to bring in repos hosted in my github account, great! 
+
+I can't tell how often Sourcegraph updates itself from Github. Do I have to setup webhooks? Where can I check/verify the last update times? Can I trigger a sync for some/all my repositories? It looks like GraphQL is the API choice, are there API calls for these operations?",2025-02-12 06:38:21,1,0,1.0,sourcegraph,Creative-Drawer2565,True,Reddit (r/sourcegraph),https://www.reddit.com/r/sourcegraph/comments/1ins9ok/api_calls_for_checkingtriggering_sync_times/
+mduphdp,,Cody by Sourcegraph has had this for ages,2025-02-20 11:10:21,2,0,0.0,vscode,timvk23,False,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ita366/why_do_people_switch_to_cursor/mduphdp/
+1ivilon,Looking for an extension but can't remember what it is called,"Looking for a vscode extension that lets you highlight a function, and searches for functions by name across multiple repositories, similar to Sourcegraph search functionality, but github focused (maybe).
+
+  
+I recall using it a few years ago and was wowed but I can't remember it now.",2025-02-22 05:21:55,1,0,1.0,vscode,hoffeig,True,Reddit (r/vscode),https://www.reddit.com/r/vscode/comments/1ivilon/looking_for_an_extension_but_cant_remember_what/
